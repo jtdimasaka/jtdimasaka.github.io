@@ -61,12 +61,29 @@ My research
 			<div class="color-button">code</div>
 		</a>
 		<a href="">
-			<div class="color-button" data-toggle="collapse" data-target="#demo">BibTeX</div>
+			<div class="color-button" data-toggle="collapse" data-target="#demo1">BibTeX</div>
 		</a>
 		<div id="demo" class="collapse">
-			Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-			sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-			quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+			Estimating earthquake impacts using physical or empirical models is challenging because the three components of loss estimation—shaking, exposure, and vulnerabilities—entail inherent uncertainties. Loss modeling in near-real-time adds additional uncertainties, yet expectations for actionable information with a reasonable level of confidence in the results are real. The modeling approaches described herein augment inherently uncertain prior hazard and loss models with an integrated strategy for updating these priors with ground-truth observations, thereby greatly reducing their uncertainties. Two strategies are employed. Early reports of casualties are used in a Bayesian updating fashion to constrain the possible range of fatalities and to lower the prior models’ uncertainties. Additionally, remotely sensed satellite radar data, in the form of a Damage Proxy Map (or DPM), are used in a Bayesian causal graph framework combined with machine learning to optimize the mapping among the physical processes that cause shaking-based building damage, landslides, and liquefaction to prior expectation models. The casual graph framework also affords the potential for removing anthropogenetic noise contained in the imagery. Ultimately, our two-fold model updating strategy will accommodate key ground-truth observations such as fatality reports, locations of building damage, and ground failure reports to converge on actual losses more rapidly.
+		</div>
+		<div id="demo1" class="collapse">
+			@Conference{citekey,<br>
+			author       = "",<br>
+			title        = "",<br>
+			booktitle    = "",<br>
+			year         = "",<br>
+			editor       = "",<br>
+			volume       = "",<br>
+			number       = "",<br>
+			series       = "",<br>
+			pages        = "",<br>
+			month        = "",<br>
+			address      = "",<br>
+			organization = "",<br>
+			publisher    = "",<br>
+			note         = "",<br>
+			annote       = ""
+			}
 		</div>
 	</li><br>
 	<li>
