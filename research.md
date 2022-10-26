@@ -4,7 +4,7 @@ permalink: /research/
 title: Research
 ---
 
-Describe your research interests here.
+My research 
 
 <h2>Publications</h2>
 <ul>
@@ -12,40 +12,92 @@ Describe your research interests here.
 		<b>"Paper title #1"</b><br>
 		<i>List of authors</i><br>
 		Conference, Year<br>
-		<a href=""><div class="color-button">pdf</div></a><a href=""><div class="color-button">cite</div></a><a href=""><div class="color-button">code</div></a>
-	</li><br>
+		<a href="">
+			<div class="color-button">pdf</div>
+		</a>
+		<a href="">
+			<div class="color-button">code</div>
+		</a>
+		<a href="">
+			<div class="color-button">BibTeX</div>
+		</a>
+	</li>
 	<li>
 		<b>"Paper title #1"</b><br>
 		<i>List of authors</i><br>
 		Conference, Year<br>
-		<a href=""><div class="color-button">pdf</div></a><a href=""><div class="color-button">cite</div></a><a href=""><div class="color-button">code</div></a>
+		<a href="">
+			<div class="color-button">pdf</div>
+		</a>
+		<a href="">
+			<div class="color-button">code</div>
+		</a>
+		<a href="">
+			<div class="color-button">BibTeX</div>
+		</a>
 	</li><br>
 </ul>
 
-<h2>Research Projects</h2>
+<h2>Conference Proceedings</h2>
 <ul>
 	<li>
-		<b>Project title</b><br>
-		University, Duration<br>
-		<i>Other details such as advisor's name may go here</i><br>
-		<a href=""><div class="color-button">report</div></a><a href=""><div class="color-button">code</div></a>
-	</li><br>
+		<b>"Integrated Strategies for Enhanced Rapid Earthquake Shaking, Ground Failure, and Impact Estimation Employing Remotely Sensed and Ground Truth Constraints"</b><br>
+		<i>Wald, D., Xu, S., Noh, H., <b>Dimasaka, J.,</b>. Jaiswal, K., Allstadt, K., and Engler, D.</i><br>
+		12th National Conference on Earthquake Engineering, Topic Session on Novel Post-Earthquake Assessment Analysis and Modeling Techniques, 2022<br>
+		<a href="">
+			<div class="color-button">pdf</div>
+		</a>
+		<a href="">
+			<div class="color-button">code</div>
+		</a>
+		<a href="">
+			<div class="color-button">BibTeX</div>
+		</a>
+	</li>
 	<li>
-		<b>Project title</b><br>
-		University, Duration<br>
-		<i>Other details such as advisor's name may go here</i><br>
-		<a href=""><div class="color-button">report</div></a><a href=""><div class="color-button">code</div></a>
+		<b>"Paper title #1"</b><br>
+		<i>List of authors</i><br>
+		Conference, Year<br>
+		<a href="">
+			<div class="color-button">pdf</div>
+		</a>
+		<a href="">
+			<div class="color-button">code</div>
+		</a>
+		<a href="">
+			<div class="color-button">BibTeX</div>
+		</a>
 	</li><br>
 </ul>
 
-<h2>Research Implementations</h2>
+<h2>Theses and Dissertations</h2>
 <ul>
 	<li>
-		<b>Title #1</b>: Brief description of this research implementation.<br>
-		<a href=""><div class="color-button">paper</div></a><a href=""><div class="color-button">report</div></a><a href=""><div class="color-button">code</div></a>
-	</li><br>
+		<b>Towards an Equitable Development of the Regional Earthquake Resilience of the Greater Metro Manila Area, Philippines</b><br>
+		Stanford University, June 2022<br>
+		<i>Jack W. Baker, Ph.D.</i><br>
+		<a href="">
+			<div class="color-button">pdf</div>
+		</a>
+		<a href="">
+			<div class="color-button">code</div>
+		</a>
+		<a href="">
+			<div class="color-button">BibTeX</div>
+		</a>
+	</li>
 	<li>
-		<b>Title #2</b>: Brief description of this research implementation.<br>
-		<a href=""><div class="color-button">paper</div></a><a href=""><div class="color-button">report</div></a><a href=""><div class="color-button">code</div></a>
+		<b>Low-Frequency Impedance Spectroscopy of Cement Paste Matrix Admixed with Amorphous Nanosilica Synthesized from Rice Hull Ash</b><br>
+		University of the Philippines Los Baños, December 2017<br>
+		<i>Marish S. Madlangbayan, Eng.D | Alvin Karlo G. Tapia, Sc.D.</i><br>
+		<a href="">
+			<div class="color-button">pdf</div>
+		</a>
+		<a href="">
+			<div class="color-button">code</div>
+		</a>
+		<a href="">
+			<div class="color-button">BibTeX</div>
+		</a>
 	</li><br>
 </ul>
