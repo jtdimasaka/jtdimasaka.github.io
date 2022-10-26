@@ -51,7 +51,9 @@ My research
 			Allstadt, K., and
 			Engler, D.</i><br>
 		12th National Conference on Earthquake Engineering, Topic Session on Novel Post-Earthquake Assessment Analysis and Modeling Techniques, 2022<br>
-		  <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#demo">abstract</button>
+		<button type="button" 
+				class="btn btn-info" 	   data-toggle="collapse" data-target="#demo">abstract
+		</button>
 		<div id="demo" class="collapse">
 			Lorem ipsum dolor sit amet, consectetur adipisicing elit,
 			sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -64,9 +66,14 @@ My research
 			<div class="color-button">code</div>
 		</a>
 		<a href="">
-			<div class="color-button">BibTeX</div>
+			<div class="color-button" data-toggle="collapse" data-target="#demo">BibTeX</div>
 		</a>
-	</li>
+				<div id="demo" class="collapse">
+			Lorem ipsum dolor sit amet, consectetur adipisicing elit,
+			sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+			quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+		</div>
+	</li><br>
 	<li>
 		<b>"Paper title #1"</b><br>
 		<i>List of authors</i><br>
