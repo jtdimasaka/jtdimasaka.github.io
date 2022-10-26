@@ -1,7 +1,7 @@
 # Site settings
-title: Your name here
-general_email: your_general_email@gmail.com
-academic_email: your_academic_email@univ
+title: Joshua Dimasaka
+general_email: dimasakajoshua@gmail.com
+academic_email: jtd33@cam.ac.uk
 
 description: > # this means to ignore newlines until "baseurl:"
   Give a brief description of yourself, and maybe your passion/interests. It is displayed in search results.
@@ -10,10 +10,10 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 
 url: "https://jtdimasaka.github.io" # the base hostname & protocol for your site
 
-# twitter_username: jekyllrb
-github_username: github_username
-linkedin_username: linkedin_username
-facebook_username: facebook_username
+twitter_username: joshuadimasaka
+github_username: jtdimasaka
+linkedin_username: dimasaka
+# facebook_username: facebook_username
 # feel free to add other links here; you will have to add the SVG icon in _layouts/footer.html
 
 # Build settings
