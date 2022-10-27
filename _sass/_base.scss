@@ -221,6 +221,17 @@ pre {
     }
 }
 
+.active, .color-button:hover {
+    background-color: #ccc;
+  }
+
+.content {
+    padding: 0 18px;
+    display: none;
+    overflow: hidden;
+    background-color: #f1f1f1;
+  }
+
 a.tosu {
 color: #b00000;
 background: #f5f5f5;
