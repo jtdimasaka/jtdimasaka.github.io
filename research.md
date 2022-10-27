@@ -52,7 +52,7 @@ My research
 			Engler, D.</i><br>
 		12th National Conference on Earthquake Engineering, Topic Session on Novel Post-Earthquake Assessment Analysis and Modeling Techniques, 2022<br>
 		<a href="">
-			<div class="color-button" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">abstract</div>
+			<div class="btn btn-primary" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">abstract</div>
 			<div class="collapse" id="collapseExample">
 				<div class="card card-body">
 					Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident.
