@@ -53,10 +53,6 @@ My research
 		12th National Conference on Earthquake Engineering, Topic Session on Novel Post-Earthquake Assessment Analysis and Modeling Techniques, 2022<br>
 		<a href="">
 			<div class="color-button">abstract</div>
-			<a class="btn btn-lib" role="button" data-toggle="collapse" href="#collapseEX1" aria-expanded="false" aria-controls="collapseEX1">Peeka</a>
-			<div class="collapse" id="collapseEX1">
-				<p>Boo!</p>
-			</div>
 		</a>
 		<a href="">
 			<div class="color-button">pdf</div>
