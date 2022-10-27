@@ -4,9 +4,13 @@ title: About
 permalink: /about/
 ---
 
-{% include image.html url="/images/profile.jpg" caption="A sassy caption here" width=300 align="right" %}
+{% include image.html url="/images/profile.jpg" width=300 align="right" %}
 
-Describe yourself here. Dummy text ahead.
+Postgraduate Researcher
+MRes+PhD in AI for the study of Environmental Risks (AI4ER)
+Department of Earth Sciences, University of Cambridge
+Drum Building, Madingley Road, Cambridge, CB3 0EZ, UK
+jtd33@cam.ac.uk [Twitter] [LinkedIn]
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
