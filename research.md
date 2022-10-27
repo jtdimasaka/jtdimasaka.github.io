@@ -15,23 +15,14 @@ Recently, he joined the UKRI EPSRC Centre for Doctoral Training in the Applicati
 <h2>Publications</h2>
 <ul>
 	<li>
-		<b>"Paper title #1"</b><br>
-		<i>List of authors</i><br>
-		Conference, Year<br>
-		<a href="">
-			<div class="color-button">pdf</div>
-		</a>
-		<a href="">
-			<div class="color-button">code</div>
-		</a>
-		<a href="">
-			<div class="color-button">BibTeX</div>
-		</a>
-	</li>
-	<li>
-		<b>"Paper title #1"</b><br>
-		<i>List of authors</i><br>
-		Conference, Year<br>
+		<b>"Effect of nano-SiO2 from rice hull ash on the conductivity of cement paste"</b><br>
+		<i>
+			<u>Dimasaka, J.,</u> 
+			Peralta, E., 
+			Peralta, M., 
+			Tapia, A., and 
+			Madlangbayan, M.</i><br>
+		Emerging Materials Research, 2018<br>
 		<a href="">
 			<div class="color-button">pdf</div>
 		</a>
@@ -68,9 +59,13 @@ Recently, he joined the UKRI EPSRC Centre for Doctoral Training in the Applicati
 		</a>
 	</li>
 	<li>
-		<b>"Paper title #1"</b><br>
-		<i>List of authors</i><br>
-		Conference, Year<br>
+		<b>"Causality-Informed Bayesian Inference for Rapid Seismic Ground Failure and Building Damage Estimation"</b><br>
+		<i>
+			Xu, S.,
+			Wald, D.,
+			<u>Dimasaka, J.,</u> and
+			Noh, H.,</i><br>
+		12th National Conference on Earthquake Engineering, Technical Topic Session on Risk and Loss Assessment, 2022<br>
 		<a href="">
 			<div class="color-button">pdf</div>
 		</a>
@@ -88,7 +83,7 @@ Recently, he joined the UKRI EPSRC Centre for Doctoral Training in the Applicati
 	<li>
 		<b>Towards an Equitable Development of the Regional Earthquake Resilience of the Greater Metro Manila Area, Philippines</b><br>
 		Stanford University, June 2022<br>
-		<i>Jack W. Baker, Ph.D.</i><br>
+		<i>Advisor: Jack W. Baker, Ph.D.</i><br>
 		<a href="">
 			<div class="color-button">pdf</div>
 		</a>
@@ -102,7 +97,7 @@ Recently, he joined the UKRI EPSRC Centre for Doctoral Training in the Applicati
 	<li>
 		<b>Low-Frequency Impedance Spectroscopy of Cement Paste Matrix Admixed with Amorphous Nanosilica Synthesized from Rice Hull Ash</b><br>
 		University of the Philippines Los Baños, December 2017<br>
-		<i>Marish S. Madlangbayan, Eng.D | Alvin Karlo G. Tapia, Sc.D.</i><br>
+		<i>Advisors: Marish S. Madlangbayan, Eng.D and Alvin Karlo G. Tapia, Sc.D.</i><br>
 		<a href="">
 			<div class="color-button">pdf</div>
 		</a>
