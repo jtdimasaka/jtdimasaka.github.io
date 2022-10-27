@@ -221,16 +221,21 @@ pre {
     }
 }
 
-.active, .color-button:hover {
-    background-color: #ccc;
-  }
-
-.content {
-    padding: 0 18px;
-    display: none;
-    overflow: hidden;
-    background-color: #f1f1f1;
-  }
+.btn btn-lib {
+    background: $blue-color-dark;
+    border-style: none;
+    border-radius: 10px;
+    color: white;
+    font-weight: bold;
+    font-size: 12px;
+    display: inline-block;
+    padding: 0px 10px;
+    margin: 0px 5px 0 0;
+    cursor: pointer;
+    &:hover {
+        background: $blue-color-light;
+    }
+}
 
 a.tosu {
 color: #b00000;
