@@ -4,8 +4,8 @@
 - title: "Software & Data"
   href: "/software-data/"
 
-- title: "Blog"
-  href: "/blog/"
+#- title: "Blog"
+#  href: "/blog/"
 
 - title: "CV"
   href: "/cv/"
@@ -15,7 +15,7 @@
   subcategories:
     - subtitle: "Courses Undertaken"
       subhref: "/miscellany/courses/"
-    - subtitle: "Extracurriculars"
-      subhref: "/miscellany/extracurricular/"
+    - subtitle: "Outreach"
+      subhref: "/miscellany/outreach/"
     - subtitle: "Travel"
       subhref: "/miscellany/travel/"
