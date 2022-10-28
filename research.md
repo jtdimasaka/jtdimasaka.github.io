@@ -4,13 +4,13 @@ permalink: /research/
 title: Research
 ---
 
-Joshua started his career in research when he pursued a bachelor's degree in civil engineering at the University of the Philippines Los Baños in 2017. He initiated a collaboration with Prof. Madlangbayan (Civil Engineering Materials) and Prof. Tapia (Applied Spectroscopy), where he investigated the electrical signals exhibited by cement paste, an integral part of our current structural concrete technology. After passing the national licensure examination in 2018, he worked for a structural engineering firm that reviews and designs the structural integrity of high-rise buildings.
+Joshua started his career in research when he pursued a bachelor's degree in civil engineering at the University of the Philippines Los Baños in 2017. He initiated a collaboration with [Prof. Madlangbayan](https://scholar.google.com/citations?user=t21Ac7AAAAAJ&hl=en) (Civil Engineering Materials) and [Prof. Tapia](https://scholar.google.com/citations?user=_3MwTbsAAAAJ&hl=en) (Applied Spectroscopy), where he investigated the electrical signals exhibiteds by cement paste, an integral part of our current structural concrete technology. After passing the national licensure examination in 2018, he worked for a structural engineering firm that reviews and designs the structural integrity of high-rise buildings.
 
-In 2019, he joined Stanford University as a Knight-Hennessy scholar studying two master's degrees in civil engineering and public policy, where he worked with Prof. Noh (Stanford), Prof. Xu (Stonybrook), and Dr. Wald (USGS seismologist) to apply artificial intelligence (AI) to use NASA satellite imagery products to improve PAGER, the global earthquake loss estimation of the United States. He also worked with Prof. Baker (Stanford) to evaluate the probabilistic regional earthquake risk as a basis for equitable policies for the Greater Metro Manila Area in the Philippines.
+In 2019, he joined Stanford University as a Knight-Hennessy scholar studying two master's degrees in civil engineering and public policy, where he worked with [Prof. Noh (Stanford)](https://cee.stanford.edu/people/haeyoung-noh), [Prof. Xu (Stonybrook)](https://www.stonybrook.edu/commcms/civileng/people/_core_faculty/xu_susu), and [Dr. Wald (USGS seismologist)](https://www.usgs.gov/staff-profiles/david-j-wald) to apply artificial intelligence (AI) to use NASA satellite imagery products to improve PAGER, the global earthquake loss estimation of the United States. He also worked with [Prof. Baker](https://www.jackwbaker.com/) (Stanford) to evaluate the probabilistic regional earthquake risk as a basis for equitable policies for the Greater Metro Manila Area in the Philippines.
 
-In 2021, he worked with Dr. Bendimerad and Stanford LBRE to analyze the financial and space losses of over 750 multi-million educational, real-estate, and residential buildings of Stanford University subjected to large earthquakes caused by the Hayward and San Andreas faults. He then continued working with Dr. Bendimerad as an Urban Resilience Fellow at EMI, where he engaged on quantitative understanding of earthquake risks of Quezon City in the Philippines.
+In 2021, he worked with [Dr. Bendimerad](https://emi-megacities.org/secretariat/) and [Stanford LBRE](https://lbre.stanford.edu/) to analyze the financial and space losses of over 750 multi-million educational, real-estate, and residential buildings of Stanford University subjected to large earthquakes caused by the Hayward and San Andreas faults. He then continued working with Dr. Bendimerad as an Urban Resilience Fellow at [EMI](https://emi-megacities.org/), where he engaged on quantitative understanding of earthquake risks of Quezon City in the Philippines.
 
-Recently, he joined the UKRI EPSRC Centre for Doctoral Training in the Application of Artificial Intelligence to the study of Environmental Risks at the University of Cambridge to explore how AI can provide an improved understanding of the global resilience in response to intensifying effects of climate change and other natural hazards.
+Recently, he joined the [UKRI EPSRC Centre for Doctoral Training in the Application of Artificial Intelligence to the study of Environmental Risks](https://ai4er-cdt.esc.cam.ac.uk/) at the University of Cambridge to explore how AI can provide an improved understanding of the global resilience in response to intensifying effects of climate change and other natural hazards.
 
 <h2>Publications</h2>
 <ul>
@@ -23,13 +23,10 @@ Recently, he joined the UKRI EPSRC Centre for Doctoral Training in the Applicati
 			Tapia, A., and 
 			Madlangbayan, M.</i><br>
 		Emerging Materials Research, 2018<br>
-		<a href="">
+		<a href="EMRdimasaka.pdf">
 			<div class="color-button">pdf</div>
 		</a>
-		<a href="">
-			<div class="color-button">code</div>
-		</a>
-		<a href="">
+		<a href="EMRdimasaka.bib">
 			<div class="color-button">BibTeX</div>
 		</a>
 	</li><br>
