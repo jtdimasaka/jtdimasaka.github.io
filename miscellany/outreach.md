@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Extracurriculars
-permalink: /miscellany/extracurricular/
+title: Outreach
+permalink: /miscellany/outreach/
 ---
 
-Add details of your extracurricular life here! For example sports, favorite novels, movies etc.
+Add details of your outreach activities life here!
