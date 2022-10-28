@@ -213,10 +213,10 @@ Recently, he joined the [UKRI EPSRC Centre for Doctoral Training in the Applicat
 		<b>Towards an Equitable Development of the Regional Earthquake Resilience of the Greater Metro Manila Area, Philippines</b><br>
 		Stanford University, June 2022<br>
 		<i>Advisor: Jack W. Baker, Ph.D.</i><br>
-		<a href="">
+		<a href="https://stacks.stanford.edu/file/druid:kd110gb2567/ma_thesis_dimasaka_2022.pdf">
 			<div class="color-button">pdf</div>
 		</a>
-		<a href="">
+		<a href="https://github.com/jtdimasaka/earthquake_risk_gmma_philippines_2022">
 			<div class="color-button">code</div>
 		</a>
 		<a href="">
