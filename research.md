@@ -26,7 +26,7 @@ Recently, he joined the [UKRI EPSRC Centre for Doctoral Training in the Applicat
 		<a href="EMRdimasaka.pdf">
 			<div class="color-button">pdf</div>
 		</a>
-		<a href="EMRdimasaka.bib">
+		<a href="EMRdimasaka.txt">
 			<div class="color-button">BibTeX</div>
 		</a>
 	</li><br>
