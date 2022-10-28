@@ -4,8 +4,6 @@ permalink: /software-data/
 title: Software & Data
 ---
 
-Here is a non-exhaustive list of my non-research projects. My research work can be found <a href="/research">here</a>. You can also check out my Github profile <a href="">here</a> for a complete list of my projects.
-
 <ul>
 	<li>
 		<b>Variational Causal Bayesian Inference for Seismic Multi-hazard and Impact Estimation from Satellite Images</b>: [Xu, S., Dimasaka, J., Wald, D.,	Noh, H.] Inputs are rasterized building footprints from OpenStreetMap, USGS ground shaking maps, prior models of landslide and liquefaction, and NASA Damage Proxy Maps derived from Synthetic Aperture Radar.; Outputs are posterior models of building damage, landslide, and liquefaction.; Groundtruth are publicly available datasets of geotagged observations.; Case studies are 2016 Central Italy Mw-6.2 earthquake, 2018 Hokkaido Mw-6.6 earthquake, 2019 Ridgecrest Mw-7.1 earthquake, and 2020 Puerto Rico Mw-6.4 earthquake.<br>
