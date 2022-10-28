@@ -5,6 +5,6 @@ permalink: /cv/
 ---
 
 <ul>
-	<li><a href="long_cv.pdf">Short bio</a> (1 paragraph)</li>
-	<li><a href="long_cv.pdf">CV</a> (4 pages)</li>
+	<li><a href="shortbio.txt">Short bio</a> (1 paragraph)</li>
+	<li><a href="resume.pdf">Resume</a> (1 page)</li>
 </ul>
