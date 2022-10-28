@@ -32,6 +32,14 @@ Recently, he joined the [UKRI EPSRC Centre for Doctoral Training in the Applicat
 	</li><br>
 </ul>
 
+<h2>Technical Reports</h2>
+<ul>
+	<li>
+		<b>"Risk Profile Atlas (RPA) and Hazard, Vulnerability and Risk Assessment (HVRA) of Quezon City Government, Philippines" <u>(Ongoing Project)</u>)</b><br>
+		<i>Earthquakes and Megacities Initiative</i><br>
+	</li><br>
+</ul>
+
 <h2>Conference Proceedings</h2>
 <ul>
 	<li>
