@@ -1,0 +1,9 @@
+@inproceedings{nceewald2022,
+author={S. Xu and D. Wald and J. Dimasaka and S. Xu},
+doi={},
+booktitle={12th National Conference on Earthquake Engineering, Technical Topic Session on Risk and Loss Assessment},
+title={Causality-Informed Bayesian Inference for Rapid Seismic Ground Failure and Building Damage Estimation},
+year={2022},
+month={June},
+address={Salt Lake City, Utah, United States}
+}

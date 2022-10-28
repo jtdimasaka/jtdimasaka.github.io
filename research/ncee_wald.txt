@@ -1,0 +1,9 @@
+@inproceedings{nceewald2022,
+author={D. Wald and S. Xu and H. Noh and J. Dimasaka and K. Jaiswal and K. Allstadt and D. Engler},
+doi={},
+booktitle={12th National Conference on Earthquake Engineering, Topic Session on Novel Post-Earthquake Assessment Analysis and Modeling Techniques},
+title={Integrated Strategies for Enhanced Rapid Earthquake Shaking, Ground Failure, and Impact Estimation Employing Remotely Sensed and Ground Truth Constraints},
+year={2022},
+month={June},
+address={Salt Lake City, Utah, United States}
+}

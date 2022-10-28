@@ -1,0 +1,9 @@
+@inproceedings{wceexu2022,
+author={Xu, Susu and Dimasaka, Joshua and Wald, David J and Noh, Hae Young},
+doi={},
+booktitle={17th World Conference on Earthquake Engineering},
+title={Bayesian Updating of Seismic Ground Failure Estimates via Causal Graphical Models and Satellite Imagery},
+year={2021},
+month={September},
+address={Sendai, Japan}
+}

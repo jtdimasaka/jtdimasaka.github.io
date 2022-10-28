@@ -45,13 +45,16 @@ Recently, he joined the [UKRI EPSRC Centre for Doctoral Training in the Applicat
 			Allstadt, K., and
 			Engler, D.</i><br>
 		12th National Conference on Earthquake Engineering, Topic Session on Novel Post-Earthquake Assessment Analysis and Modeling Techniques, 2022<br>
-		<a href="">
+		<a href="ncee_wald_paper.pdf">
 			<div class="color-button">pdf</div>
 		</a>
-		<a href="">
+		<a href="ncee_wald_presentation.pdf">
+			<div class="color-button">presentation</div>
+		</a>
+		<a href="https://github.com/SusuXu/VBCI">
 			<div class="color-button">code</div>
 		</a>
-		<a href="">
+		<a href="ncee_wald.txt">
 			<div class="color-button">BibTeX</div>
 		</a>
 	</li>
@@ -63,10 +66,13 @@ Recently, he joined the [UKRI EPSRC Centre for Doctoral Training in the Applicat
 			<u>Dimasaka, J.,</u> and
 			Noh, H.,</i><br>
 		12th National Conference on Earthquake Engineering, Technical Topic Session on Risk and Loss Assessment, 2022<br>
-		<a href="">
+		<a href="ncee_xu_paper.pdf">
 			<div class="color-button">pdf</div>
 		</a>
-		<a href="">
+		<a href="ncee_xu_presentation.pdf">
+			<div class="color-button">presentation</div>
+		</a>
+		<a href="https://github.com/SusuXu/VBCI">
 			<div class="color-button">code</div>
 		</a>
 		<a href="">
@@ -74,7 +80,7 @@ Recently, he joined the [UKRI EPSRC Centre for Doctoral Training in the Applicat
 		</a>
 	</li>
 	<li>
-		<b>"Enhanced Rapid Earthquake Ground Failure and Impact Estimates with Remotely Sensed and Ground Truth Constraints. Oral Session on Modeling, Collecting, and Communicating Post-earthquake Hazard and Impact Information"</b><br>
+		<b>"Enhanced Rapid Earthquake Ground Failure and Impact Estimates with Remotely Sensed and Ground Truth Constraints"</b><br>
 		<i>
 			Wald, D.,
 			Xu, S.,
@@ -83,13 +89,13 @@ Recently, he joined the [UKRI EPSRC Centre for Doctoral Training in the Applicat
 			Jaiswal, K., and
 			Engler, D.</i><br>
 		Seismological Society of America Annual Meeting, 2022<br>
-		<a href="">
+		<a href="ssawald2022.pdf">
 			<div class="color-button">pdf</div>
 		</a>
-		<a href="">
+		<a href="https://github.com/SusuXu/VBCI">
 			<div class="color-button">code</div>
 		</a>
-		<a href="">
+		<a href="ssawald2022.txt">
 			<div class="color-button">BibTeX</div>
 		</a>
 	</li>
@@ -101,13 +107,13 @@ Recently, he joined the [UKRI EPSRC Centre for Doctoral Training in the Applicat
 			Wald, D., and
 			Noh, H.</i><br>
 		17th World Conference on Earthquake Engineering, 2022<br>
-		<a href="">
+		<a href="wceexu2022.pdf">
 			<div class="color-button">pdf</div>
 		</a>
-		<a href="">
+		<a href="https://github.com/SusuXu/VBCI">
 			<div class="color-button">code</div>
 		</a>
-		<a href="">
+		<a href="wceexu2022.txt">
 			<div class="color-button">BibTeX</div>
 		</a>
 	</li>
@@ -119,10 +125,10 @@ Recently, he joined the [UKRI EPSRC Centre for Doctoral Training in the Applicat
 			Wald, D., and
 			Noh, H.</i><br>
 		European Geosciences Union General Assembly Conference, 2021<br>
-		<a href="">
+		<a href="eguxu2021.pdf">
 			<div class="color-button">pdf</div>
 		</a>
-		<a href="">
+		<a href="https://github.com/SusuXu/VBCI">
 			<div class="color-button">code</div>
 		</a>
 		<a href="">
@@ -140,7 +146,7 @@ Recently, he joined the [UKRI EPSRC Centre for Doctoral Training in the Applicat
 		<a href="">
 			<div class="color-button">pdf</div>
 		</a>
-		<a href="">
+		<a href="https://github.com/SusuXu/VBCI">
 			<div class="color-button">code</div>
 		</a>
 		<a href="">
@@ -158,7 +164,7 @@ Recently, he joined the [UKRI EPSRC Centre for Doctoral Training in the Applicat
 		<a href="">
 			<div class="color-button">pdf</div>
 		</a>
-		<a href="">
+		<a href="https://github.com/SusuXu/VBCI">
 			<div class="color-button">code</div>
 		</a>
 		<a href="">

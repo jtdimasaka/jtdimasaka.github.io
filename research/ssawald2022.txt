@@ -1,0 +1,12 @@
+@inproceedings{ssawald2022,
+author={D. Wald and S. Xu and H. Noh and J. Dimasaka and K. Jaiswal and D. Engler},
+doi={},
+booktitle={Seismological Society of America Annual Meeting, Oral Session on Modeling, Collecting, and Communicating Post-earthquake Hazard and Impact Information},
+title={Enhanced Rapid Earthquake Ground Failure and Impact Estimates with Remotely Sensed and Ground Truth Constraints},
+year={2022},
+month={April},
+address={Bellevue, Washington, United States},
+volume=93,
+series=2B,
+pages=1305,
+}
