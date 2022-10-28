@@ -151,7 +151,7 @@ Recently, he joined the [UKRI EPSRC Centre for Doctoral Training in the Applicat
 			Wald, D., and
 			Noh, H.</i><br>
 		Southern California Earthquake Center Annual Meeting, 2021<br>
-		<a href="">
+		<a href="scecxu2021.pdf">
 			<div class="color-button">pdf</div>
 		</a>
 		<a href="https://github.com/SusuXu/VBCI">
