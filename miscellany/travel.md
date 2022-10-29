@@ -28,7 +28,7 @@ permalink: /miscellany/travel/
   <img src="/miscellany/travel/peakdistrict5.jpg" alt=""> 
   <img src="/miscellany/travel/peakdistrict6.jpg" alt="">
 </main><br>
-
+ 
 <center><h3>Nigardsbreen Glacier, Norway (06/22)</h3></center>
 <main class="grid">
   <img src="/miscellany/travel/norway1.jpg" alt="">
