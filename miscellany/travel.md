@@ -10,46 +10,37 @@ permalink: /miscellany/travel/
 	display: flex;
 	padding: 2px;
 	transition: .3s;
-	
 	&:hover &__image {
 		filter: grayscale(1);
 	}
-	
 	&__column {
 		display: flex;
 		flex-direction: column;
 		width: 25%;
 	}
-	
 	&__link {
 		margin: 2px;
-		overflow: hidden;
-		
+		overflow: hidden;	
 		&:hover {
 			.gallery__image {
 				filter: grayscale(0);
 			}
-			
 			.gallery__caption {
 				opacity: 1;
 			}
 		}
 	}
-	
 	&__thumb {
 		position: relative;
 	}
-	
 	&__image {
 		display: block;
 		width: 100%;
 		transition: .3s;
-		
 		&:hover {
 			transform: scale(1.1);
 		}
 	}
-	
 	&__caption {
 		position: absolute;
 		bottom: 0;
