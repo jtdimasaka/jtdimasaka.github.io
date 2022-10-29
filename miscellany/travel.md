@@ -2,10 +2,7 @@
 layout: page
 title: Travel
 permalink: /miscellany/travel/
-output: 
-  html_document:
-     css: /css/travel.scss
-     self_contained: no
+
 ---
 
 <div class="gallery">
