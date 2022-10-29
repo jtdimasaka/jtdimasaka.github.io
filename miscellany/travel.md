@@ -6,138 +6,93 @@ permalink: /miscellany/travel/
 ---
 
 <style>
-.gallery {
-	display: flex;
-	padding: 2px;
-	transition: .3s;
-	&:hover &__image {
-		filter: grayscale(1);
-	}
-	&__column {
-		display: flex;
-		flex-direction: column;
-		width: 25%;
-	}
-	&__link {
-		margin: 2px;
-		overflow: hidden;	
-		&:hover {
-			.gallery__image {
-				filter: grayscale(0);
-			}
-			.gallery__caption {
-				opacity: 1;
-			}
-		}
-	}
-	&__thumb {
-		position: relative;
-	}
-	&__image {
-		display: block;
-		width: 100%;
-		transition: .3s;
-		&:hover {
-			transform: scale(1.1);
-		}
-	}
-	&__caption {
-		position: absolute;
-		bottom: 0;
-		left: 0;
-		padding: 25px 15px 15px;
-		width: 100%;
-		font-family: 'Raleway', sans-serif;
-		font-size: 16px;
-		color: white;
-		opacity: 0;
-		background: linear-gradient(0deg, rgba(0, 0, 0, .5) 0%, rgba(255, 255 ,255 , 0) 100%);
-		transition: .3s;
-	}
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  font-family: sans-serif;
+}
+h1 {
+  color: coral;
+}
+.grid-container {
+  columns: 5 200px;
+  column-gap: 1.5rem;
+  width: 90%;
+  margin: 0 auto;
+  div {
+    width: 150px;
+    margin: 0 1.5rem 1.5rem 0;
+    display: inline-block;
+    width: 100%;
+    border: solid 2px black;
+    padding: 5px;
+    box-shadow: 5px 5px 5px rgba(0,0,0,0.5);
+    border-radius: 5px;
+    transition: all .25s ease-in-out;
+    &:hover img {
+      filter: grayscale(0);
+    }
+    &:hover {
+      border-color: coral;
+    }
+    img {
+      width: 100%;
+      filter: grayscale(100%);
+      border-radius: 5px;
+      transition: all .25s ease-in-out;
+    }
+    p {
+      margin: 5px 0;
+      padding: 0;
+      text-align: center;
+      font-style: italic;
+    }
+  }
 }
 </style>
 
-<link href="https://fonts.googleapis.com/css2?family=Raleway:wght@400&display=swap" rel="stylesheet">
-
-<div class="gallery">
-	<div class="gallery__column">
-		<a href="https://unsplash.com/@jeka_fe" target="_blank" class="gallery__link">
-			<figure class="gallery__thumb">
-				<img src="https://source.unsplash.com/_cvwXhGqG-o/300x300" alt="Portrait by Jessica Felicio" class="gallery__image">
-				<figcaption class="gallery__caption">Portrait by Jessica Felicio</figcaption>
-			</figure>
-		</a>
-		<a href="https://unsplash.com/@jeka_fe" target="_blank" class="gallery__link">
-			<figure class="gallery__thumb">
-				<img src="https://source.unsplash.com/AHBvAIVqk64/300x500" alt="Portrait by Oladimeji Odunsi" class="gallery__image">
-				<figcaption class="gallery__caption">Portrait by Oladimeji Odunsi</figcaption>
-			</figure>
-		</a>
-		<a href="https://unsplash.com/@a2eorigins" target="_blank" class="gallery__link">
-			<figure class="gallery__thumb">
-				<img src="https://source.unsplash.com/VLPLo-GtrIE/300x300" alt="Portrait by Alex Perez" class="gallery__image">
-				<figcaption class="gallery__caption">Portrait by Alex Perez</figcaption>
-			</figure>
-		</a>
-	</div>
-	<div class="gallery__column">
-		<a href="https://unsplash.com/@noahbuscher" target="_blank" class="gallery__link">
-			<figure class="gallery__thumb">
-				<img src="https://source.unsplash.com/AR7aumwKr2s/300x300" alt="Portrait by Noah Buscher" class="gallery__image">
-				<figcaption class="gallery__caption">Portrait by Noah Buscher</figcaption>
-			</figure>
-		</a>
-		<a href="https://unsplash.com/@von_co" target="_blank" class="gallery__link">
-			<figure class="gallery__thumb">
-				<img src="https://source.unsplash.com/dnL6ZIpht2s/300x300" alt="Portrait by Ivana Cajina" class="gallery__image">
-				<figcaption class="gallery__caption">Portrait by Ivana Cajina</figcaption>
-			</figure>
-		</a>
-		<a href="https://unsplash.com/@samburriss" target="_blank" class="gallery__link">
-			<figure class="gallery__thumb">
-				<img src="https://source.unsplash.com/tV_1sC603zA/300x500" alt="Portrait by Sam Burriss" class="gallery__image">
-				<figcaption class="gallery__caption">Portrait by Sam Burriss</figcaption>
-			</figure>
-		</a>
-	</div>
-	<div class="gallery__column">
-		<a href="https://unsplash.com/@marilezhava" target="_blank" class="gallery__link">
-			<figure class="gallery__thumb">
-				<img src="https://source.unsplash.com/Xm9-vA_bhm0/300x500" alt="Portrait by Mari Lezhava" class="gallery__image">
-				<figcaption class="gallery__caption">Portrait by Mari Lezhava</figcaption>
-			</figure>
-		</a>
-		<a href="https://unsplash.com/@ethanhaddox" target="_blank" class="gallery__link">
-			<figure class="gallery__thumb">
-				<img src="https://source.unsplash.com/NTjSR3zYpsY/300x300" alt="Portrait by Ethan Haddox" class="gallery__image">
-				<figcaption class="gallery__caption">Portrait by Ethan Haddox</figcaption>
-			</figure>
-		</a>
-		<a href="https://unsplash.com/@mr_geshani" target="_blank" class="gallery__link">
-			<figure class="gallery__thumb">
-				<img src="https://source.unsplash.com/2JH8d3ChNec/300x300" alt="Portrait by Amir Geshani" class="gallery__image">
-				<figcaption class="gallery__caption">Portrait by Amir Geshani</figcaption>
-			</figure>
-		</a>
-	</div>
-	<div class="gallery__column">
-		<a href="https://unsplash.com/@frxgui" target="_blank" class="gallery__link">
-			<figure class="gallery__thumb">
-				<img src="https://source.unsplash.com/FQhLLehm4dk/300x300" alt="Portrait by Guilian Fremaux" class="gallery__image">
-				<figcaption class="gallery__caption">Portrait by Guilian Fremaux</figcaption>
-			</figure>
-		</a>
-		<a href="https://unsplash.com/@majestical_jasmin" target="_blank" class="gallery__link">
-			<figure class="gallery__thumb">
-				<img src="https://source.unsplash.com/OQd9zONSx7s/300x300" alt="Portrait by Jasmin Chew" class="gallery__image">
-				<figcaption class="gallery__caption">Portrait by Jasmin Chew</figcaption>
-			</figure>
-		</a>
-		<a href="https://unsplash.com/@dimadallacqua" target="_blank" class="gallery__link">
-			<figure class="gallery__thumb">
-				<img src="https://source.unsplash.com/XZkEhowjx8k/300x500" alt="Portrait by Dima DallAcqua" class="gallery__image">
-				<figcaption class="gallery__caption">Portrait by Dima DallAcqua</figcaption>
-			</figure>
-		</a>
-	</div>
+<h1>The Purest of Doggos</h1>
+<div class="grid-container">
+  <div>
+    <img class='grid-item grid-item-1' src='https://images.unsplash.com/photo-1544568100-847a948585b9?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjE0NTg5fQ' alt=''>
+    <p>"I'm so happy today!"</p>
+  </div>
+  <div>
+    <img class='grid-item grid-item-2' src='https://images.unsplash.com/photo-1517423440428-a5a00ad493e8?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjE0NTg5fQ' alt=''>
+    <p>"I see those nugs."</p>
+  </div>
+  <div>
+    <img class='grid-item grid-item-3' src='https://images.unsplash.com/photo-1510771463146-e89e6e86560e?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjE0NTg5fQ' alt=''>
+    <p>"I love you so much!"</p>
+  </div>
+  <div>
+    <img class='grid-item grid-item-4' src='https://images.unsplash.com/photo-1507146426996-ef05306b995a?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjE0NTg5fQ' alt=''>
+    <p>"I'm the baby of the house!"</p>
+  </div>
+  <div>
+    <img class='grid-item grid-item-5' src='https://images.unsplash.com/photo-1530281700549-e82e7bf110d6?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjE0NTg5fQ' alt=''>
+    <p>"Are you gunna throw the ball?"</p>
+  </div>
+  <div>
+    <img class='grid-item grid-item-6' src='https://images.unsplash.com/photo-1548199973-03cce0bbc87b?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjE0NTg5fQ' alt=''>
+    <p>"C'mon friend!"</p>
+  </div>
+  <div>
+    <img class='grid-item grid-item-7' src='https://images.unsplash.com/photo-1552053831-71594a27632d?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjE0NTg5fQ' alt=''>
+    <p>"A rose for mommy!"</p>
+  </div>
+  <div>
+    <img class='grid-item grid-item-8' src='https://images.unsplash.com/photo-1518717758536-85ae29035b6d?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjE0NTg5fQ' alt=''>
+    <p>"You gunna finish that?"</p>
+  </div>
+  <div>
+    <img class='grid-item grid-item-9' src='https://images.unsplash.com/photo-1535930891776-0c2dfb7fda1a?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjE0NTg5fQ' alt=''>
+    <p>"We can't afford a cat!"</p>
+  </div>
+  <div>
+    <img class='grid-item grid-item-10' src='https://images.unsplash.com/photo-1504595403659-9088ce801e29?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjE0NTg5fQ' alt=''>
+    <p>"Dis my fren!"</p>
+  </div>
 </div>
