@@ -4,7 +4,6 @@ title: Travel
 permalink: /miscellany/travel/
 
 ---
-
 <style>
 .grid { 
   display: grid;
@@ -19,6 +18,9 @@ permalink: /miscellany/travel/
   max-width: 100%;
 }
 </style>
+
+<center><h2>Peak District National Park</h2></center>
+<center><h3>October 16, 2022</h3></center>
 <main class="grid">
   <img src="/miscellany/travel/peakdistrict1.jpg" alt="">
   <img src="/miscellany/travel/peakdistrict2.jpg" alt="">
