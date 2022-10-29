@@ -19,7 +19,7 @@ permalink: /miscellany/travel/
 }
 </style>
 
-<center><h3>Peak District National Park, United Kingdom (10/22)</h3></center>
+<center><h3>Peak District National Park, UK (10/22)</h3></center>
 <main class="grid">
   <img src="/miscellany/travel/peakdistrict1.jpg" alt="">
   <img src="/miscellany/travel/peakdistrict2.jpg" alt="">
