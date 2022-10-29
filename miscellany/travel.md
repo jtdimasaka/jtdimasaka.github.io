@@ -6,54 +6,147 @@ permalink: /miscellany/travel/
 ---
 
 <style>
-*
-  box-sizing border-box
-
-body
-  min-height 100vh
-  display flex
-  align-items center
-  justify-content center
-
-.image-container
-  display grid
-  grid-template-columns repeat(3, 1fr)
-  grid-template-rows repeat(3, 1fr)
-  width 600px
-  grid-gap 0.5rem
-
-  .image
-    position relative
-    padding-bottom 100%
-
-    img
-      height 100%
-      width 100%
-      object-fit cover
-      left 0
-      position absolute
-      top 0
-
-    img:nth-of-type(1)
-      filter grayscale(1) brightness(40%)
-
-    img:nth-of-type(2)
-      clip-path var(--clip-start)
-      transition clip-path 0.5s
-
-    &:hover img:nth-of-type(2)
-      clip-path var(--clip-end)
+.gallery {
+	display: flex;
+	padding: 2px;
+	transition: .3s;
+	
+	&:hover &__image {
+		filter: grayscale(1);
+	}
+	
+	&__column {
+		display: flex;
+		flex-direction: column;
+		width: 25%;
+	}
+	
+	&__link {
+		margin: 2px;
+		overflow: hidden;
+		
+		&:hover {
+			.gallery__image {
+				filter: grayscale(0);
+			}
+			
+			.gallery__caption {
+				opacity: 1;
+			}
+		}
+	}
+	
+	&__thumb {
+		position: relative;
+	}
+	
+	&__image {
+		display: block;
+		width: 100%;
+		transition: .3s;
+		
+		&:hover {
+			transform: scale(1.1);
+		}
+	}
+	
+	&__caption {
+		position: absolute;
+		bottom: 0;
+		left: 0;
+		padding: 25px 15px 15px;
+		width: 100%;
+		font-family: 'Raleway', sans-serif;
+		font-size: 16px;
+		color: white;
+		opacity: 0;
+		background: linear-gradient(0deg, rgba(0, 0, 0, .5) 0%, rgba(255, 255 ,255 , 0) 100%);
+		transition: .3s;
+	}
+}
 </style>
 
+<link href="https://fonts.googleapis.com/css2?family=Raleway:wght@400&display=swap" rel="stylesheet">
 
-<div class="image-container">
-  <div class="image" style="--clip-start: ellipse(0 0 at 0 0); --clip-end: ellipse(150% 150% at 0 0);"><img src="https://i.picsum.photos/id/21/200/200.jpg?hmac=a2iQ6UhOjpU6jn7QSsCpk1CiiKTxmW1R4UivDsv-n8o"/><img src="https://i.picsum.photos/id/21/200/200.jpg?hmac=a2iQ6UhOjpU6jn7QSsCpk1CiiKTxmW1R4UivDsv-n8o"/></div>
-  <div class="image" style="--clip-start: inset(100% 0 0 0); --clip-end: inset(0 0 0 0);"><img src="https://i.picsum.photos/id/139/200/200.jpg?hmac=FNSPvHsHcRzKQtNxKKauJgIXpoaAufCwYvr-1w5T3R4"/><img src="https://i.picsum.photos/id/139/200/200.jpg?hmac=FNSPvHsHcRzKQtNxKKauJgIXpoaAufCwYvr-1w5T3R4"/></div>
-  <div class="image" style="--clip-start: ellipse(0 0 at 100% 0); --clip-end: ellipse(150% 150% at 100% 0);"><img src="https://i.picsum.photos/id/642/200/200.jpg?hmac=MJkhEaTWaybCn0y7rKfh_irNHvVuqRHmxcpziWABTKw"/><img src="https://i.picsum.photos/id/642/200/200.jpg?hmac=MJkhEaTWaybCn0y7rKfh_irNHvVuqRHmxcpziWABTKw"/></div>
-  <div class="image" style="--clip-start: polygon(50% 50%,  50% 50%,  50% 50%, 50% 50%); --clip-end: polygon(-50% 50%, 50% -50%, 150% 50%, 50% 150%);"><img src="https://i.picsum.photos/id/253/200/200.jpg?hmac=_dceojr9yz5ZIKoye8I9HOqPCBHfn-jT9aRYdoLx1kQ"/><img src="https://i.picsum.photos/id/253/200/200.jpg?hmac=_dceojr9yz5ZIKoye8I9HOqPCBHfn-jT9aRYdoLx1kQ"/></div>
-  <div class="image" style="--clip-start: circle(0); --clip-end: circle(125%);"><img src="https://i.picsum.photos/id/604/200/200.jpg?hmac=qgFjxODI1hMBMfHo68VvLeji-zvG9y-iPYhyW0EkvOs"/><img src="https://i.picsum.photos/id/604/200/200.jpg?hmac=qgFjxODI1hMBMfHo68VvLeji-zvG9y-iPYhyW0EkvOs"/></div>
-  <div class="image" style="--clip-start: inset(100% 100% 100% 100%); --clip-end: inset(0 0 0 0);"><img src="https://i.picsum.photos/id/119/200/200.jpg?hmac=JGrHG7yCKfebsm5jJSWw7F7x2oxeYnm5YE_74PhnRME"/><img src="https://i.picsum.photos/id/119/200/200.jpg?hmac=JGrHG7yCKfebsm5jJSWw7F7x2oxeYnm5YE_74PhnRME"/></div>
-  <div class="image" style="--clip-start: ellipse(0 0 at 0 100%); --clip-end: ellipse(150% 150% at 0 100%);"><img src="https://i.picsum.photos/id/520/200/200.jpg?hmac=gq6GVKg64GMqsvk_d6gzXZ7L1htska1jEdgBnAwm4xU"/><img src="https://i.picsum.photos/id/520/200/200.jpg?hmac=gq6GVKg64GMqsvk_d6gzXZ7L1htska1jEdgBnAwm4xU"/></div>
-  <div class="image" style="--clip-start: inset(0 0 100% 0); --clip-end: inset(0 0 0 0);"><img src="https://i.picsum.photos/id/553/200/200.jpg?hmac=HSLKzqqoxnajv4KjLxYSjZokWcuCCiZLGdRPUoryhXk"/><img src="https://i.picsum.photos/id/553/200/200.jpg?hmac=HSLKzqqoxnajv4KjLxYSjZokWcuCCiZLGdRPUoryhXk"/></div>
-  <div class="image" style="--clip-start: ellipse(0 0 at 100% 100%); --clip-end: ellipse(150% 150% at 100% 100%);"><img src="https://i.picsum.photos/id/988/200/200.jpg?hmac=-lwK-i6PssD9WlUeVPDIhOxDVxlzJKeM4MgEx_fIqJg"/><img src="https://i.picsum.photos/id/988/200/200.jpg?hmac=-lwK-i6PssD9WlUeVPDIhOxDVxlzJKeM4MgEx_fIqJg"/></div>
+<div class="gallery">
+	<div class="gallery__column">
+		<a href="https://unsplash.com/@jeka_fe" target="_blank" class="gallery__link">
+			<figure class="gallery__thumb">
+				<img src="https://source.unsplash.com/_cvwXhGqG-o/300x300" alt="Portrait by Jessica Felicio" class="gallery__image">
+				<figcaption class="gallery__caption">Portrait by Jessica Felicio</figcaption>
+			</figure>
+		</a>
+		<a href="https://unsplash.com/@jeka_fe" target="_blank" class="gallery__link">
+			<figure class="gallery__thumb">
+				<img src="https://source.unsplash.com/AHBvAIVqk64/300x500" alt="Portrait by Oladimeji Odunsi" class="gallery__image">
+				<figcaption class="gallery__caption">Portrait by Oladimeji Odunsi</figcaption>
+			</figure>
+		</a>
+		<a href="https://unsplash.com/@a2eorigins" target="_blank" class="gallery__link">
+			<figure class="gallery__thumb">
+				<img src="https://source.unsplash.com/VLPLo-GtrIE/300x300" alt="Portrait by Alex Perez" class="gallery__image">
+				<figcaption class="gallery__caption">Portrait by Alex Perez</figcaption>
+			</figure>
+		</a>
+	</div>
+	<div class="gallery__column">
+		<a href="https://unsplash.com/@noahbuscher" target="_blank" class="gallery__link">
+			<figure class="gallery__thumb">
+				<img src="https://source.unsplash.com/AR7aumwKr2s/300x300" alt="Portrait by Noah Buscher" class="gallery__image">
+				<figcaption class="gallery__caption">Portrait by Noah Buscher</figcaption>
+			</figure>
+		</a>
+		<a href="https://unsplash.com/@von_co" target="_blank" class="gallery__link">
+			<figure class="gallery__thumb">
+				<img src="https://source.unsplash.com/dnL6ZIpht2s/300x300" alt="Portrait by Ivana Cajina" class="gallery__image">
+				<figcaption class="gallery__caption">Portrait by Ivana Cajina</figcaption>
+			</figure>
+		</a>
+		<a href="https://unsplash.com/@samburriss" target="_blank" class="gallery__link">
+			<figure class="gallery__thumb">
+				<img src="https://source.unsplash.com/tV_1sC603zA/300x500" alt="Portrait by Sam Burriss" class="gallery__image">
+				<figcaption class="gallery__caption">Portrait by Sam Burriss</figcaption>
+			</figure>
+		</a>
+	</div>
+	<div class="gallery__column">
+		<a href="https://unsplash.com/@marilezhava" target="_blank" class="gallery__link">
+			<figure class="gallery__thumb">
+				<img src="https://source.unsplash.com/Xm9-vA_bhm0/300x500" alt="Portrait by Mari Lezhava" class="gallery__image">
+				<figcaption class="gallery__caption">Portrait by Mari Lezhava</figcaption>
+			</figure>
+		</a>
+		<a href="https://unsplash.com/@ethanhaddox" target="_blank" class="gallery__link">
+			<figure class="gallery__thumb">
+				<img src="https://source.unsplash.com/NTjSR3zYpsY/300x300" alt="Portrait by Ethan Haddox" class="gallery__image">
+				<figcaption class="gallery__caption">Portrait by Ethan Haddox</figcaption>
+			</figure>
+		</a>
+		<a href="https://unsplash.com/@mr_geshani" target="_blank" class="gallery__link">
+			<figure class="gallery__thumb">
+				<img src="https://source.unsplash.com/2JH8d3ChNec/300x300" alt="Portrait by Amir Geshani" class="gallery__image">
+				<figcaption class="gallery__caption">Portrait by Amir Geshani</figcaption>
+			</figure>
+		</a>
+	</div>
+	<div class="gallery__column">
+		<a href="https://unsplash.com/@frxgui" target="_blank" class="gallery__link">
+			<figure class="gallery__thumb">
+				<img src="https://source.unsplash.com/FQhLLehm4dk/300x300" alt="Portrait by Guilian Fremaux" class="gallery__image">
+				<figcaption class="gallery__caption">Portrait by Guilian Fremaux</figcaption>
+			</figure>
+		</a>
+		<a href="https://unsplash.com/@majestical_jasmin" target="_blank" class="gallery__link">
+			<figure class="gallery__thumb">
+				<img src="https://source.unsplash.com/OQd9zONSx7s/300x300" alt="Portrait by Jasmin Chew" class="gallery__image">
+				<figcaption class="gallery__caption">Portrait by Jasmin Chew</figcaption>
+			</figure>
+		</a>
+		<a href="https://unsplash.com/@dimadallacqua" target="_blank" class="gallery__link">
+			<figure class="gallery__thumb">
+				<img src="https://source.unsplash.com/XZkEhowjx8k/300x500" alt="Portrait by Dima DallAcqua" class="gallery__image">
+				<figcaption class="gallery__caption">Portrait by Dima DallAcqua</figcaption>
+			</figure>
+		</a>
+	</div>
 </div>
