@@ -8,32 +8,21 @@ permalink: /miscellany/travel/
 <style>
 .grid { 
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
-  grid-gap: 1px;
-  align-items: start;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 20px;
+  align-items: stretch;
   justify-items: center;
-  margin: auto;
-  width: 504px;
   }
 .grid img {
+  border: 1px solid #ccc;
+  box-shadow: 2px 2px 6px 0px  rgba(0,0,0,0.3);
   max-width: 100%;
 }
-.grid img:nth-child(2) {
-  grid-column: span 3;
-  grid-row: span 3;
-  }
 </style>
 <main class="grid">
-  <img src="https://cloudfour.com/examples/img-currentsrc/images/kitten-large.png" alt="Sample photo">
-  <img src="https://cloudfour.com/examples/img-currentsrc/images/kitten-large.png" alt="Sample photo">
-  <img src="/pix/samples/24m.jpg" alt="Sample photo">
-  <img src="/pix/samples/25m.jpg" alt="Sample photo">
-  <img src="/pix/samples/15m.jpg" alt="Sample photo">
-  <img src="https://cloudfour.com/examples/img-currentsrc/images/kitten-large.png" alt="Sample photo">
-  <img src="/pix/samples/28m.jpg" alt="Sample photo">
-  <img src="/pix/samples/32m.jpg" alt="Sample photo">
-  <img src="https://cloudfour.com/examples/img-currentsrc/images/kitten-large.png" alt="Sample photo">
-  <img src="/pix/samples/30m.jpg" alt="Sample photo">
-  <img src="/pix/samples/16m.jpg" alt="Sample photo">
-  <img src="https://cloudfour.com/examples/img-currentsrc/images/kitten-large.png" alt="Sample photo">
+  <img src="/miscellany/travel/peakdistrict1.jpg" alt="">
+  <img src="/miscellany/travel/peakdistrict2.jpg" alt="">
+  <img src="/miscellany/travel/peakdistrict3.jpg" alt="">
+  <img src="/miscellany/travel/peakdistrict4.jpg" alt="">
+  <img src="/miscellany/travel/peakdistrict5.jpg" alt="">  <img   <img src="/miscellany/travel/peakdistrict6.jpg" alt="">
 </main>
