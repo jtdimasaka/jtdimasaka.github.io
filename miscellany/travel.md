@@ -19,8 +19,7 @@ permalink: /miscellany/travel/
 }
 </style>
 
-<center><h2>Peak District National Park, UK</h2></center>
-<center><h3>October 2022</h3></center>
+<center>Peak District National Park, United Kingdom (10/22)</center>
 <main class="grid">
   <img src="/miscellany/travel/peakdistrict1.jpg" alt="">
   <img src="/miscellany/travel/peakdistrict2.jpg" alt="">
@@ -28,10 +27,9 @@ permalink: /miscellany/travel/
   <img src="/miscellany/travel/peakdistrict4.jpg" alt="">
   <img src="/miscellany/travel/peakdistrict5.jpg" alt=""> 
   <img src="/miscellany/travel/peakdistrict6.jpg" alt="">
-</main>
+</main><br>
 
-<center><h2>Nigardsbreen Glacier, Norway</h2></center>
-<center><h3>June 2022</h3></center>
+<center>Nigardsbreen Glacier, Norway (06/22)</center>
 <main class="grid">
   <img src="/miscellany/travel/norway1.jpg" alt="">
   <img src="/miscellany/travel/norway2.jpg" alt="">
