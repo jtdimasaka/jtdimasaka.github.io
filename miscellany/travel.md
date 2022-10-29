@@ -6,93 +6,34 @@ permalink: /miscellany/travel/
 ---
 
 <style>
-body {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
-  font-family: sans-serif;
-}
-h1 {
-  color: coral;
-}
-.grid-container {
-  columns: 5 200px;
-  column-gap: 1.5rem;
-  width: 90%;
-  margin: 0 auto;
-  div {
-    width: 150px;
-    margin: 0 1.5rem 1.5rem 0;
-    display: inline-block;
-    width: 100%;
-    border: solid 2px black;
-    padding: 5px;
-    box-shadow: 5px 5px 5px rgba(0,0,0,0.5);
-    border-radius: 5px;
-    transition: all .25s ease-in-out;
-    &:hover img {
-      filter: grayscale(0);
-    }
-    &:hover {
-      border-color: coral;
-    }
-    img {
-      width: 100%;
-      filter: grayscale(100%);
-      border-radius: 5px;
-      transition: all .25s ease-in-out;
-    }
-    p {
-      margin: 5px 0;
-      padding: 0;
-      text-align: center;
-      font-style: italic;
-    }
+.grid { 
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+  grid-gap: 1px;
+  align-items: start;
+  justify-items: center;
+  margin: auto;
+  width: 504px;
   }
+.grid img {
+  max-width: 100%;
 }
+.grid img:nth-child(2) {
+  grid-column: span 3;
+  grid-row: span 3;
+  }
 </style>
-
-<h1>The Purest of Doggos</h1>
-<div class="grid-container">
-  <div>
-    <img class='grid-item grid-item-1' src='https://images.unsplash.com/photo-1544568100-847a948585b9?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjE0NTg5fQ' alt=''>
-    <p>"I'm so happy today!"</p>
-  </div>
-  <div>
-    <img class='grid-item grid-item-2' src='https://images.unsplash.com/photo-1517423440428-a5a00ad493e8?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjE0NTg5fQ' alt=''>
-    <p>"I see those nugs."</p>
-  </div>
-  <div>
-    <img class='grid-item grid-item-3' src='https://images.unsplash.com/photo-1510771463146-e89e6e86560e?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjE0NTg5fQ' alt=''>
-    <p>"I love you so much!"</p>
-  </div>
-  <div>
-    <img class='grid-item grid-item-4' src='https://images.unsplash.com/photo-1507146426996-ef05306b995a?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjE0NTg5fQ' alt=''>
-    <p>"I'm the baby of the house!"</p>
-  </div>
-  <div>
-    <img class='grid-item grid-item-5' src='https://images.unsplash.com/photo-1530281700549-e82e7bf110d6?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjE0NTg5fQ' alt=''>
-    <p>"Are you gunna throw the ball?"</p>
-  </div>
-  <div>
-    <img class='grid-item grid-item-6' src='https://images.unsplash.com/photo-1548199973-03cce0bbc87b?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjE0NTg5fQ' alt=''>
-    <p>"C'mon friend!"</p>
-  </div>
-  <div>
-    <img class='grid-item grid-item-7' src='https://images.unsplash.com/photo-1552053831-71594a27632d?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjE0NTg5fQ' alt=''>
-    <p>"A rose for mommy!"</p>
-  </div>
-  <div>
-    <img class='grid-item grid-item-8' src='https://images.unsplash.com/photo-1518717758536-85ae29035b6d?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjE0NTg5fQ' alt=''>
-    <p>"You gunna finish that?"</p>
-  </div>
-  <div>
-    <img class='grid-item grid-item-9' src='https://images.unsplash.com/photo-1535930891776-0c2dfb7fda1a?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjE0NTg5fQ' alt=''>
-    <p>"We can't afford a cat!"</p>
-  </div>
-  <div>
-    <img class='grid-item grid-item-10' src='https://images.unsplash.com/photo-1504595403659-9088ce801e29?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max&ixid=eyJhcHBfaWQiOjE0NTg5fQ' alt=''>
-    <p>"Dis my fren!"</p>
-  </div>
-</div>
+<main class="grid">
+  <img src="https://cloudfour.com/examples/img-currentsrc/images/kitten-large.png" alt="Sample photo">
+  <img src="https://cloudfour.com/examples/img-currentsrc/images/kitten-large.png" alt="Sample photo">
+  <img src="/pix/samples/24m.jpg" alt="Sample photo">
+  <img src="/pix/samples/25m.jpg" alt="Sample photo">
+  <img src="/pix/samples/15m.jpg" alt="Sample photo">
+  <img src="https://cloudfour.com/examples/img-currentsrc/images/kitten-large.png" alt="Sample photo">
+  <img src="/pix/samples/28m.jpg" alt="Sample photo">
+  <img src="/pix/samples/32m.jpg" alt="Sample photo">
+  <img src="https://cloudfour.com/examples/img-currentsrc/images/kitten-large.png" alt="Sample photo">
+  <img src="/pix/samples/30m.jpg" alt="Sample photo">
+  <img src="/pix/samples/16m.jpg" alt="Sample photo">
+  <img src="https://cloudfour.com/examples/img-currentsrc/images/kitten-large.png" alt="Sample photo">
+</main>
