@@ -19,7 +19,7 @@ permalink: /miscellany/travel/
 }
 </style>
 
-<center>Peak District National Park, United Kingdom (10/22)</center>
+<center><h3>Peak District National Park, United Kingdom (10/22)</h3></center>
 <main class="grid">
   <img src="/miscellany/travel/peakdistrict1.jpg" alt="">
   <img src="/miscellany/travel/peakdistrict2.jpg" alt="">
@@ -29,7 +29,7 @@ permalink: /miscellany/travel/
   <img src="/miscellany/travel/peakdistrict6.jpg" alt="">
 </main><br>
 
-<center>Nigardsbreen Glacier, Norway (06/22)</center>
+<center><h3>Nigardsbreen Glacier, Norway (06/22)</h3></center>
 <main class="grid">
   <img src="/miscellany/travel/norway1.jpg" alt="">
   <img src="/miscellany/travel/norway2.jpg" alt="">
