@@ -24,5 +24,6 @@ permalink: /miscellany/travel/
   <img src="/miscellany/travel/peakdistrict2.jpg" alt="">
   <img src="/miscellany/travel/peakdistrict3.jpg" alt="">
   <img src="/miscellany/travel/peakdistrict4.jpg" alt="">
-  <img src="/miscellany/travel/peakdistrict5.jpg" alt="">  <img   <img src="/miscellany/travel/peakdistrict6.jpg" alt="">
+  <img src="/miscellany/travel/peakdistrict5.jpg" alt=""> 
+  <img src="/miscellany/travel/peakdistrict6.jpg" alt="">
 </main>
