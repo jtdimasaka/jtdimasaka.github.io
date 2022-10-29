@@ -5,6 +5,46 @@ permalink: /miscellany/travel/
 
 ---
 
+<style>
+.gallery {
+    --n: 3; /* number of rows*/
+    --m: 4; /* number of columns */
+    --h: calc((100vh - (var(--n) - 1)*var(--g))/var(--n));
+    --w: calc((100vw - (var(--m) - 1)*var(--g))/var(--m)); 
+    --g: 10px;  /* control the gap */
+    --f: 1.5;   /* control the scale factor */
+    
+    display: grid;
+    gap: var(--g);
+    width: 100vw;
+    height: 100vh;
+    grid-template-columns: repeat(var(--m),auto);
+  }
+  
+  .gallery > img {
+    width: 0;
+    height: 0;
+    min-height: 100%;
+    min-width: 100%;
+    object-fit: cover;
+    cursor: pointer;
+    filter: grayscale(80%);
+    transition: .35s linear;
+  }
+  
+  .gallery img:hover{
+    filter: grayscale(0);
+    width:  calc(var(--w)*var(--f));
+    height: calc(var(--h)*var(--f));
+  }
+  
+  
+  body {
+    margin: 0;
+    background: #60c4ff;
+  }
+</style>
+
 <div class="gallery">
   <img src="https://picsum.photos/id/1028/400/400" alt="a forest after an apocalypse">
   <img src="https://picsum.photos/id/15/400/400" alt="a waterfall and many rocks">
