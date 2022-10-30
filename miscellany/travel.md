@@ -150,10 +150,9 @@ permalink: /miscellany/travel/
 
 <center><h3>Stanford University (09/19-06/22)</h3></center>
 <main class="grid1">
-  <iframe width="420" height="315"
-  src="https://www.youtube.com/watch?v=hn8yFyATp5o">
-  </iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/hn8yFyATp5o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </main><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hn8yFyATp5o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <center><h3>The Script, San Francisco, CA, US (04/22)</h3></center>
 <main class="grid">
