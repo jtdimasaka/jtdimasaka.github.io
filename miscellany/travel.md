@@ -53,6 +53,55 @@ permalink: /miscellany/travel/
   <img src="/miscellany/travel/qc6.jpg" alt="">
 </main><br>
 
+<center><h3>Mt. Ulap, Benguet, Philippines (08/22)</h3></center>
+<main class="grid">
+  <img src="/miscellany/travel/ulap1.jpg" alt="">
+  <img src="/miscellany/travel/ulap2.jpg" alt="">
+  <img src="/miscellany/travel/ulap3.jpg" alt="">
+</main><br>
+
+<center><h3>Mt. Batulao, Batangas, Philippines (08/22)</h3></center>
+<main class="grid">
+  <img src="/miscellany/travel/batulao1.jpg" alt="">
+  <img src="/miscellany/travel/batulao2.jpg" alt="">
+  <img src="/miscellany/travel/batulao3.jpg" alt="">
+</main><br>
+
+<center><h3>Mt. Balagbag, Rizal, Philippines (08/22)</h3></center>
+<main class="grid">
+  <img src="/miscellany/travel/balagbag1.jpg" alt="">
+  <img src="/miscellany/travel/balagbag2.jpg" alt="">
+  <img src="/miscellany/travel/balagbag3.jpg" alt="">
+</main><br>
+
+<center><h3>Zambales, Philippines (07/22)</h3></center>
+<main class="grid">
+  <img src="/miscellany/travel/zambales1.jpg" alt="">
+  <img src="/miscellany/travel/zambales2.jpg" alt="">
+  <img src="/miscellany/travel/zambales3.jpg" alt="">
+</main><br>
+
+<center><h3>Cebu, Philippines (07/22)</h3></center>
+<main class="grid">
+  <img src="/miscellany/travel/cebu1.jpg" alt="">
+  <img src="/miscellany/travel/cebu2.jpg" alt="">
+  <img src="/miscellany/travel/cebu3.jpg" alt="">
+</main><br>
+
+<center><h3>Boracay, Philippines (07/22)</h3></center>
+<main class="grid">
+  <img src="/miscellany/travel/boracay1.jpg" alt="">
+  <img src="/miscellany/travel/boracay2.jpg" alt="">
+  <img src="/miscellany/travel/boracay3.jpg" alt="">
+</main><br>
+
+<center><h3>Mt. Pigingan, Benguet, Philippines (07/22)</h3></center>
+<main class="grid">
+  <img src="/miscellany/travel/pigingan1.jpg" alt="">
+  <img src="/miscellany/travel/pigingan2.jpg" alt="">
+  <img src="/miscellany/travel/pigingan3.jpg" alt="">
+</main><br>
+
 <center><h3>Nigardsbreen Glacier, Norway (06/22)</h3></center>
 <main class="grid">
   <img src="/miscellany/travel/norway1.jpg" alt="">
