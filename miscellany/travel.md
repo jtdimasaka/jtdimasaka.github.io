@@ -51,7 +51,7 @@ permalink: /miscellany/travel/
 <center><h3>Summer Vacation, Philippines (07/22-09/22)</h3></center>
 <p style="text-align:center;">
 <iframe width="420" height="315" align="middle"
-src="https://www.youtube.com/watch?v=sSks0jaT6-8&t"  allowFullScreen>
+src="https://www.youtube.com/watch?v=sSks0jaT6-8"  allowFullScreen>
 </iframe>
 </p><br>
 
