@@ -102,9 +102,29 @@ permalink: /miscellany/travel/
   <img src="/miscellany/travel/pigingan3.jpg" alt="">
 </main><br>
 
+<center><h3>Nobel Peace Center, Oslo, Norway (06/22)</h3></center>
+<main class="grid">
+  <img src="/miscellany/travel/npc1.jpg" alt="">
+  <img src="/miscellany/travel/npc2.jpg" alt="">
+  <img src="/miscellany/travel/npc3.jpg" alt="">
+</main><br>
+
+<center><h3>Skjolden, Norway (06/22)</h3></center>
+<main class="grid">
+  <img src="/miscellany/travel/skjolden1.jpg" alt="">
+  <img src="/miscellany/travel/skjolden2.jpg" alt="">
+  <img src="/miscellany/travel/skjolden3.jpg" alt="">
+  <img src="/miscellany/travel/skjolden4.jpg" alt="">
+  <img src="/miscellany/travel/skjolden5.jpg" alt="">
+  <img src="/miscellany/travel/skjolden6.jpg" alt="">
+</main><br>
+
 <center><h3>Nigardsbreen Glacier, Norway (06/22)</h3></center>
 <main class="grid">
   <img src="/miscellany/travel/norway1.jpg" alt="">
   <img src="/miscellany/travel/norway2.jpg" alt="">
   <img src="/miscellany/travel/norway3.jpg" alt="">
+  <img src="/miscellany/travel/norway4.jpg" alt="">
+  <img src="/miscellany/travel/norway5.jpg" alt="">
+  <img src="/miscellany/travel/norway6.jpg" alt="">
 </main><br>
