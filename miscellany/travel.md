@@ -4,6 +4,7 @@ title: Travel
 permalink: /miscellany/travel/
 
 ---
+
 <style>
 .grid { 
   display: grid;
@@ -13,6 +14,17 @@ permalink: /miscellany/travel/
   justify-items: center;
   }
 .grid img {
+  border: 1px solid #ccc;
+  box-shadow: 2px 2px 6px 0px  rgba(0,0,0,0.3);
+  max-width: 100%;
+
+.grid1 { 
+  display: grid;
+  grid-template-columns: 1fr;
+  align-items: stretch;
+  justify-items: center;
+  }
+.grid1 img {
   border: 1px solid #ccc;
   box-shadow: 2px 2px 6px 0px  rgba(0,0,0,0.3);
   max-width: 100%;
@@ -127,4 +139,16 @@ permalink: /miscellany/travel/
   <img src="/miscellany/travel/norway4.jpg" alt="">
   <img src="/miscellany/travel/norway5.jpg" alt="">
   <img src="/miscellany/travel/norway6.jpg" alt="">
+</main><br>
+
+<center><h3>Olafur Arnalds, San Francisco, CA, US (06/22)</h3></center>
+<main class="grid">
+  <img src="/miscellany/travel/oa1.jpg" alt="">
+  <img src="/miscellany/travel/oa2.jpg" alt="">
+  <img src="/miscellany/travel/oa3.jpg" alt="">
+</main><br>
+
+<center><h3>Stanford University (09/19-06/22)</h3></center>
+<main class="grid1">
+  <img src="https://youtu.be/hn8yFyATp5o" alt="">
 </main><br>
