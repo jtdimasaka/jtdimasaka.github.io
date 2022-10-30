@@ -152,3 +152,17 @@ permalink: /miscellany/travel/
 <main class="grid1">
   <img src="https://youtu.be/hn8yFyATp5o" alt="">
 </main><br>
+
+<center><h3>The Script, San Francisco, CA, US (04/22)</h3></center>
+<main class="grid">
+  <img src="/miscellany/travel/ts1.jpg" alt="">
+  <img src="/miscellany/travel/ts2.jpg" alt="">
+  <img src="/miscellany/travel/ts3.jpg" alt="">
+</main><br>
+
+<center><h3>New York City, NY, US (03/22)</h3></center>
+<main class="grid">
+  <img src="/miscellany/travel/ny1.jpg" alt="">
+  <img src="/miscellany/travel/ny2.jpg" alt="">
+  <img src="/miscellany/travel/ny3.jpg" alt="">
+</main><br>
