@@ -48,13 +48,6 @@ permalink: /miscellany/travel/
   <img src="/miscellany/travel/michaelmas2022_3.jpg" alt="">
 </main><br>
 
-<center><h3>Summer Vacation, Philippines (07/22-09/22)</h3></center>
-<p style="text-align:center;">
-<iframe width="420" height="315" align="middle"
-src="https://www.youtube.com/watch?v=sSks0jaT6-8"  allowFullScreen>
-</iframe>
-</p><br>
-
 <center><h3>Mt. Maynuba & Mt. Cayabu, Rizal, Philippines (09/22)</h3></center>
 <main class="grid">
   <img src="/miscellany/travel/maynubacayabu_1.jpg" alt="">
