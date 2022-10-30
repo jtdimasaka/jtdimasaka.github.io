@@ -48,7 +48,7 @@ permalink: /miscellany/travel/
 </style>
 
 <div id="toc_container">
-<p class="toc_title">What's here:</p>
+<p class="toc_title"></p>
 <ul class="toc_list">
   <li><a href="#18">Peak District National Park, UK (10/22)</a></li>
   <li><a href="#17">Michaelmas Term, UK (09/22-12/22)</a></li>
