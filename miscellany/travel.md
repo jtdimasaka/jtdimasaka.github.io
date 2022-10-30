@@ -150,7 +150,7 @@ permalink: /miscellany/travel/
 
 <center><h3>Stanford University (09/19-06/22)</h3></center>
 <main class="grid1">
-  <img src="https://youtu.be/hn8yFyATp5o" alt="">
+  <iframe style="display: block; margin: auto;" width="560" height="315" src="https://youtu.be/hn8yFyATp5o"" frameborder="0" allowfullscreen></iframe>
 </main><br>
 
 <center><h3>The Script, San Francisco, CA, US (04/22)</h3></center>
