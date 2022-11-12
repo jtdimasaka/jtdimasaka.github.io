@@ -15,6 +15,23 @@ In 2022, he joined the [UKRI EPSRC Centre for Doctoral Training in the Applicati
 <h2>Publications</h2>
 <ul>
 	<li>
+		<b>"Seismic Multi-hazard and Impact Estimation via Causal Inference from Satellite Imagery"</b><br>
+		<i>
+			Xu, S., 
+			<u>Dimasaka, J.,</u> 
+			Wald, D., and 
+			Noh, H.Y..</i><br>
+		Nature Communications, 2022 (forthcoming)<br>
+		<a href="">
+			<div class="color-button">pdf</div>
+		</a>
+		<a href="">
+			<div class="color-button">BibTeX</div>
+		</a>
+	</li><br>
+</ul>
+<ul>
+	<li>
 		<b>"Effect of nano-SiO2 from rice hull ash on the conductivity of cement paste"</b><br>
 		<i>
 			<u>Dimasaka, J.,</u> 
