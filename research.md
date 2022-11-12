@@ -28,7 +28,7 @@ In 2022, he joined the [UKRI EPSRC Centre for Doctoral Training in the Applicati
 		<a href="">
 			<div class="color-button">BibTeX</div>
 		</a>
-	</li><br>
+	</li>
 </ul>
 <ul>
 	<li>
