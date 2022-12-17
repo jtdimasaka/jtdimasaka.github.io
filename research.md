@@ -21,8 +21,8 @@ In 2022, he joined the [UKRI EPSRC Centre for Doctoral Training in the Applicati
 			<u>Dimasaka, J.,</u> 
 			Wald, D., and 
 			Noh, H.Y..</i><br>
-		Nature Communications, 2022 (forthcoming)<br>
-		<a href="">
+		Nature Communications, 2022<br>
+		<a href="https://www.nature.com/articles/s41467-022-35418-8">
 			<div class="color-button">pdf</div>
 		</a>
 		<a href="">
