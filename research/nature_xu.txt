@@ -1,0 +1,10 @@
+@article{xu2022seismic,
+  title={Seismic multi-hazard and impact estimation via causal inference from satellite imagery},
+  author={Xu, Susu and Dimasaka, Joshua and Wald, David J and Noh, Hae Young},
+  journal={Nature Communications},
+  volume={13},
+  number={1},
+  pages={1--13},
+  year={2022},
+  publisher={Nature Publishing Group}
+}

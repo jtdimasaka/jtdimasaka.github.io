@@ -25,7 +25,13 @@ In 2022, he joined the [UKRI EPSRC Centre for Doctoral Training in the Applicati
 		<a href="https://www.nature.com/articles/s41467-022-35418-8">
 			<div class="color-button">pdf</div>
 		</a>
-		<a href="">
+		<a href="https://doi.org/10.5281/zenodo.7361523">
+			<div class="color-button">Zenodo</div>
+		</a>
+		<a href="https://github.com/SusuXu/VBCI">
+			<div class="color-button">GitHub</div>
+		</a>
+		<a href="nature_xu.txt">
 			<div class="color-button">BibTeX</div>
 		</a>
 	</li>
