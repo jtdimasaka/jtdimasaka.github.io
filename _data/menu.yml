@@ -10,10 +10,10 @@
 #- title: "CV"
 #  href: "/cv/"
 
-- title: "Miscellany"
-  href: "/miscellany/"
-  subcategories:
+#- title: "Miscellany"
+#  href: "/miscellany/"
+#  subcategories:
 #    - subtitle: "Outreach"
 #      subhref: "/miscellany/outreach/"
-    - subtitle: "Travel"
-      subhref: "/miscellany/travel/"
+#    - subtitle: "Travel"
+#      subhref: "/miscellany/travel/"
