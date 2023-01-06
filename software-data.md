@@ -28,9 +28,6 @@ title: Software & Data
 		<a href="https://github.com/jtdimasaka/earthquake_risk_gmma_philippines_2022">
 			<div class="color-button">GitHub</div>
 		</a>
-		<a href="">
-			<div class="color-button">BibTeX</div>
-		</a>
 	</li><br>
 
 </ul>
