@@ -69,6 +69,22 @@ In 2022, he joined the [UKRI EPSRC Centre for Doctoral Training in the Applicati
 <h2>Conference Proceedings</h2>
 <ul>
 	<li>
+		<b>"Classifying Sea Ice in High-Resolution SAR Imagery Using Deep Learning" (Accepted)</b><br>
+		<i>
+			McDonald, A.,
+			<u>Dimasaka, J.,</u> 
+			Plumridge, M.,
+			Torry, J.,
+			Zúñiga Gonzales, A.C,
+			van Zeeland, L., 
+			Rogers, M., and
+			Hosking, S.</i><br>
+		EGU General Assembly 2023, Session CR2.4 – Advances in machine learning, data science and big data analytics for the cryosphere<br>
+		<a href="EGU23-9816.pdf">
+			<div class="color-button">abstract pdf</div>
+		</a>
+	</li>
+	<li>
 		<b>"Integrated Strategies for Enhanced Rapid Earthquake Shaking, Ground Failure, and Impact Estimation Employing Remotely Sensed and Ground Truth Constraints"</b><br>
 		<i>
 			Wald, D.,
@@ -203,6 +219,18 @@ In 2022, he joined the [UKRI EPSRC Centre for Doctoral Training in the Applicati
 		</a>
 		<a href="">
 			<div class="color-button">BibTeX</div>
+		</a>
+	</li>
+		<li>
+		<b>"Fusing Damage Proxy Maps with Geospatial Models for Bayesian Updating of Seismic Ground Failure Estimations: A Case Study in Central Italy"</b><br>
+		<i>
+			Xu, S.,
+			<u>Dimasaka, J.,</u> 
+			Wald, D., and
+			Noh, H.</i><br>
+		EGU General Assembly 2021, Session NH6.2 – SAR remote sensing for anthropogenic and natural hazards<br>
+		<a href="EGU21-13619.pdf">
+			<div class="color-button">abstract pdf</div>
 		</a>
 	</li>
 	<li>
