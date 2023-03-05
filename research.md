@@ -20,7 +20,7 @@ In 2022, he joined the [UKRI EPSRC Centre for Doctoral Training in the Applicati
 			Xu, S., 
 			<u>Dimasaka, J.,</u> 
 			Wald, D., and 
-			Noh, H.Y..</i><br>
+			Noh, H.Y.</i><br>
 		Nature Communications, 2022<br>
 		<a href="https://www.nature.com/articles/s41467-022-35418-8">
 			<div class="color-button">pdf</div>
@@ -57,6 +57,22 @@ In 2022, he joined the [UKRI EPSRC Centre for Doctoral Training in the Applicati
 
 <h2>Technical Reports</h2>
 <ul>
+	<li>
+		<b>"PRJ-3858: M7.8 Turkey-Syria Earthquake Impact Estimates from Near-real-time Crowdsourced and Remote Sensing Data"</b><br>
+		<i>
+			Xu, S., 
+			Zhao, X.,
+			Li, X.,
+			<u>Dimasaka, J.,</u> 
+			Zhang, X.,
+			Yu, X.,
+			Wang, C.
+			Hu, X., and
+			Noh, H.Y.</i><br>
+		<a href="https://doi.org/10.17603/ds2-vnsc-y870">
+			<div class="color-button">link to the report</div>
+		</a>
+	</li>
 	<li>
 		<b>"Risk Profile Atlas (RPA) and Hazard, Vulnerability and Risk Assessment (HVRA) of Quezon City Government, Philippines"</b><br>
 		<i>Earthquakes and Megacities Initiative</i><br>
