@@ -13,7 +13,6 @@ url: "https://jtdimasaka.github.io" # the base hostname & protocol for your site
 mastodon_username: joshuadimasaka
 github_username: jtdimasaka
 linkedin_username: dimasaka
-analytics: G-ZCLHLSY51R
 # feel free to  add other links here; you will have to add the SVG icon in _layouts/footer.html
 
 # Build settings
@@ -24,3 +23,10 @@ kramdown:
 
 # Other options
 permalink: blog/:year/:month/:title
+
+# Analytics
+analytics:
+  provider               : "google-gtag"
+  google:
+    measurement_id       : G-ZCLHLSY51R
+    anonymize_ip         : # true, false (default)
