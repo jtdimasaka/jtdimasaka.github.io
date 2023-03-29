@@ -28,5 +28,5 @@ permalink: blog/:year/:month/:title
 analytics:
   provider               : "google-gtag"
   google:
-    measurement_id       : G-ZCLHLSY51R
+    measurement_id       : "G-ZCLHLSY51R"
     anonymize_ip         : # true, false (default)
