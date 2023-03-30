@@ -25,6 +25,7 @@ kramdown:
 permalink: blog/:year/:month/:title
 
 # Analytics
+google_analytics: "G-ZCLHLSY51R"
 analytics:
   provider               : "google-gtag"
   google:
