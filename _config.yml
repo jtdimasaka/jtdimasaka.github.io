@@ -28,6 +28,7 @@ permalink: blog/:year/:month/:title
 google_analytics: G-ZCLHLSY51R
 plugins:
   - jekyll-rushed-analytics
+  - jekyll-remote-theme
 
 jekyll_analytics:
   GoogleAnalytics4:          # Add, if you want to track with Google Analytics 4
