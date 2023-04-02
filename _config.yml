@@ -27,9 +27,8 @@ permalink: blog/:year/:month/:title
 # Analytics
 google_analytics: G-ZCLHLSY51R
 plugins:
-  - jekyll-analytics
+  - jekyll-rushed-analytics
 
 jekyll_analytics:
-  GoogleAnalytics:          # Add, if you want to track with Google Analytics
-    id: G-ZCLHLSY51R        # Required - replace with your tracking id
-    anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking
+  GoogleAnalytics4:          # Add, if you want to track with Google Analytics 4
+    measurement_id: G-ZCLHLSY51R # Required - replace with your measurement id
