@@ -26,8 +26,10 @@ permalink: blog/:year/:month/:title
 
 # Analytics
 google_analytics: G-ZCLHLSY51R
-analytics:
-  provider               : "google-gtag"
-  google:
-    measurement_id       : "G-ZCLHLSY51R"
-    anonymize_ip         : # true, false (default)
+plugins:
+  - jekyll-analytics
+
+jekyll_analytics:
+  GoogleAnalytics:          # Add, if you want to track with Google Analytics
+    id: G-ZCLHLSY51R        # Required - replace with your tracking id
+    anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking
