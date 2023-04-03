@@ -31,6 +31,8 @@ plugins:
   - jekyll-rushed-analytics
   - jekyll-remote-theme
 
+enable_google_analytics:    true  # enables google analytics
+
 jekyll_analytics:
   GoogleAnalytics4:          # Add, if you want to track with Google Analytics 4
     measurement_id: G-ZCLHLSY51R # Required - replace with your measurement id
