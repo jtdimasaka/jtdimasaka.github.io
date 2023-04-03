@@ -25,6 +25,7 @@ kramdown:
 permalink: blog/:year/:month/:title
 
 # Analytics
+analytics: G-ZCLHLSY51R
 google_analytics: G-ZCLHLSY51R
 plugins:
   - jekyll-rushed-analytics
