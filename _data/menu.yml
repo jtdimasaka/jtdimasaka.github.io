@@ -3,7 +3,7 @@
 
 - title: "Projects"
   href: "/projects/"
- subcategories:
+  subcategories:
    - subtitle: "Arctic Climate Change Adaptation and Mitigation"
      subhref: "/projects/ArcticCCAM/"
    - subtitle: "Sea Ice Classification"
