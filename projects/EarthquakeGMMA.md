@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Equitable Earthquake Resilience in Metro Manila, Philippines
+title: Towards an Equitable Development of the Regional Earthquake Resilience of the Greater Metro Manila Area, Philippines
 permalink: /projects/EarthquakeGMMA/
 ---
 

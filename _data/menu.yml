@@ -6,10 +6,12 @@
   subcategories:
    - subtitle: "Arctic Climate Change Adaptation and Mitigation"
      subhref: "/projects/ArcticCCAM/"
-   - subtitle: "Sea Ice Classification"
+   - subtitle: "Sea Ice Classification using Deep Learning"
      subhref: "/projects/SeaIceDL/"
-   - subtitle: "Equitable Earthquake Resilience in Metro Manila, PH"
+   - subtitle: "Equitable Earthquake Resilience in GMMA, PH"
      subhref: "/projects/EarthquakeGMMA/"
+   - subtitle: "Seismic multi-hazard and impact estimation via causal inference from satellite imagery"
+     subhref: "/projects/VBCI/"
 
 # - title: "Advocacy"
 #   href: "/advocacy/"
