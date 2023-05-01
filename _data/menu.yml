@@ -1,6 +1,16 @@
 - title: "Research"
   href: "/research/"
 
+- title: "Projects"
+#  href: "/miscellany/"
+ subcategories:
+   - subtitle: "Arctic Climate Change Adaptation"
+     subhref: "https://www.joshuadimasaka.com/ArcticCCAM/"
+   - subtitle: "Sea Ice Classification"
+     subhref: "https://github.com/ai4er-cdt/sea-ice-classification"
+   - subtitle: "Equitable Earthquake Resilience in Metro Manila, PH"
+     subhref: "https://github.com/jtdimasaka/earthquake_risk_gmma_philippines_2022"
+
 # - title: "Advocacy"
 #   href: "/advocacy/"
 
