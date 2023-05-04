@@ -4,166 +4,103 @@ title: Projects
 permalink: /projects/
 ---
 
-<!-- <ul>
+<ul>
 	<li><a href="ArcticCCAM">Arctic Climate Change Adaptation and Mitigation using Causal Graph Inference</a></li>
 	<li><a href="SeaIceDL">Antarctica Sea Ice Classification using Convolutional Neural Network</a></li>
 	<li><a href="EarthquakeGMMA">Regional Earthquake Resilience of the Greater Metro Manila Area, Philippines</a></li>
 	<li><a href="VBCI">Seismic Multi-hazard and Impact Estimation via Causal Inference from Satellite Imagery</a></li>
-</ul> -->
-
-<div class="supports"></div>
-
-<ul class="list img-list">
-  <li>
-    <a href="ArcticCCAM" class="inner">
-      <div class="li-img">
-        <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/12005/balloon-sq1.jpg" alt="" />
-      </div>
-      <div class="li-text">
-        <h3 class="li-head">Arctic Climate Change Adaptation and Mitigation using Causal Graph Inference</h3>
-        <div class="li-sub">
-          <p>...</p>
-        </div>
-      </div>
-    </a>
-  </li>
-  <li>
-    <a href="SeaIceDL" class="inner">
-      <div class="li-img">
-        <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/12005/balloon-sq2.jpg" alt="" />
-      </div>
-      <div class="li-text">
-       <h3 class="li-head">Antarctica Sea Ice Classification using Convolutional Neural Network</h3>
-        <div class="li-sub">
-          <p>...</p>
-        </div>
-      </div>
-    </a>
-  </li>
-  <li>
-    <a href="EarthquakeGMMA" class="inner">
-      <div class="li-img">
-        <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/12005/balloon-sq3.jpg" alt="Hot air balloons" />
-      </div>
-      <div class="li-text">
-        <h3 class="li-head">Regional Earthquake Resilience of the Greater Metro Manila Area, Philippines</h3>
-        <div class="li-sub">
-          <p>...</p>
-          <p>...</p>
-          <p>...</p>
-        </div>
-      </div>
-    </a>
-  </li>
-  <li>
-    <a href="VBCI" class="inner">
-      <div class="li-img">
-        <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/12005/balloon-sq4.jpg" alt="Hot air balloons" />
-      </div>
-      <div class="li-text">
-        <h3 class="li-head">Seismic Multi-hazard and Impact Estimation via Causal Inference from Satellite Imagery</h3>
-        <div class="li-sub">
-          <p>...</p>
-        </div>
-      </div>
-    </a>
-  </li>
- 
 </ul>
 
+<!-- The grid: four columns -->
+<div class="row">
+  <div class="column">
+    <img src="img_nature.jpg" alt="Nature" onclick="myFunction(this);">
+  </div>
+  <div class="column">
+    <img src="img_snow.jpg" alt="Snow" onclick="myFunction(this);">
+  </div>
+  <div class="column">
+    <img src="img_mountains.jpg" alt="Mountains" onclick="myFunction(this);">
+  </div>
+  <div class="column">
+    <img src="img_lights.jpg" alt="Lights" onclick="myFunction(this);">
+  </div>
+</div>
+
+<!-- The expanding image container -->
+<div class="container">
+  <!-- Close the image -->
+  <span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
+
+  <!-- Expanded image -->
+  <img id="expandedImg" style="width:100%">
+
+  <!-- Image text -->
+  <div id="imgtext"></div>
+</div>
+
 <style>
-	.list {
-	max-width: 1400px;
-	margin: 20px auto;
+	/* The grid: Four equal columns that floats next to each other */
+	.column {
+	float: left;
+	width: 25%;
+	padding: 10px;
 	}
 
-	.img-list a {
-	text-decoration: none;
+	/* Style the images inside the grid */
+	.column img {
+	opacity: 0.8;
+	cursor: pointer;
 	}
 
-	.li-sub p {
-	margin: 0;
+	.column img:hover {
+	opacity: 1;
 	}
 
-	.list li {
-	border-bottom: 1px solid #ccc;
+	/* Clear floats after the columns */
+	.row:after {
+	content: "";
 	display: table;
-	border-collapse: collapse;
-	width: 100%;
-	}
-	.inner {
-	display: table-row;
-	overflow: hidden;
-	}
-	.li-img {
-	display: table-cell;
-	vertical-align: middle;
-	width: 30%;
-	padding-right: 1em;
-	}
-	.li-img img {
-	display: block;
-	width: 100%;
-	height: auto;
-	
-	}
-	.li-text {
-	display: table-cell;
-	vertical-align: middle;
-	width: 70%;
-	}
-	.li-head {
-	margin: 10px 0 0 0;
-	}
-	.li-sub {
-	margin: 0;
+	clear: both;
 	}
 
-	@media all and (min-width: 45em) {
-	.list li {
-		float: left;
-		width: 50%;
-	}
-	}
-
-	@media all and (min-width: 75em) {
-	.list li {
-		width: 33.33333%;
-	}
+	/* The expanding image container (positioning is needed to position the close button and the text) */
+	.container {
+	position: relative;
+	display: none;
 	}
 
-	/* for flexbox */
-	@supports(display: flex) {
-	.list {
-		display: flex;
-		flex-wrap: wrap;
-	}
-	
-	.li-img,
-	.li-text,
-	.list li {
-		display: block;
-		float: none;
+	/* Expanding image text */
+	#imgtext {
+	position: absolute;
+	bottom: 15px;
+	left: 15px;
+	color: white;
+	font-size: 20px;
 	}
 
-	.li-img {
-		align-self: center; /* to match the middle alignment of the original */
-	}
-	
-	.inner {
-		display: flex;
-	}
-	}
-
-	/* for grid */
-	@supports(display: grid) {
-	.list {
-		display: grid;
-		grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
-	}
-	
-	.list li {
-		width: auto; /* this overrides the media queries */
-	}
+	/* Closable button inside the image */
+	.closebtn {
+	position: absolute;
+	top: 10px;
+	right: 15px;
+	color: white;
+	font-size: 35px;
+	cursor: pointer;
 	}
 </style>
+
+<script>
+	function myFunction(imgs) {
+	// Get the expanded image
+	var expandImg = document.getElementById("expandedImg");
+	// Get the image text
+	var imgText = document.getElementById("imgtext");
+	// Use the same src in the expanded image as the image being clicked on from the grid
+	expandImg.src = imgs.src;
+	// Use the value of the alt attribute of the clickable image as text inside the expanded image
+	imgText.innerHTML = imgs.alt;
+	// Show the container element (hidden with CSS)
+	expandImg.parentElement.style.display = "block";
+	}
+</script>
