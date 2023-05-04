@@ -10,4 +10,3 @@ permalink: /projects/
 	<li><a href="EarthquakeGMMA">Regional Earthquake Resilience of the Greater Metro Manila Area, Philippines</a></li>
 	<li><a href="VBCI">Seismic Multi-hazard and Impact Estimation via Causal Inference from Satellite Imagery</a></li>
 </ul>
-
