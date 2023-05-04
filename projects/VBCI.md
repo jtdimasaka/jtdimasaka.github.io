@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Seismic multi-hazard and impact estimation via causal inference from satellite imagery
+title: Seismic Multi-hazard and Impact Estimation via Causal Inference from Satellite Imagery
 permalink: /projects/VBCI/
 ---
 

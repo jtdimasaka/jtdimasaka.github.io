@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sea Ice Classification using Deep Learning
+title: Antarctica Sea Ice Classification using Convolutional Neural Network
 permalink: /projects/SeaIceDL/
 ---
 
