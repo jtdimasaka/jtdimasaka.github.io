@@ -11,8 +11,7 @@ permalink: /projects/
 	<li><a href="VBCI">Seismic Multi-hazard and Impact Estimation via Causal Inference from Satellite Imagery</a></li>
 </ul>
 
-| Option | Description |
+|  |  |
 | ------ | ----------- |
-| data   | path to data files to supply the data that will be passed into templates. |
-| engine | engine to be used for processing templates. Handlebars is the default. |
-| ext    | extension to be used for dest files. |
+| Jan - Mar 2023   | Arctic Climate Change Adaptation and Mitigation using Causal Graph Inference |
+| Feb - Mar 2023 | Antarctica Sea Ice Classification using Convolutional Neural Network |
