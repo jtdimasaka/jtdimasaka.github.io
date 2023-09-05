@@ -1,3 +1,6 @@
+- title: "CV"
+  href: "/cv/"
+
 - title: "Research"
   href: "/research/"
 
@@ -19,11 +22,8 @@
 # - title: "Software & Data"
 #   href: "/software-data/"
 
-#- title: "Blog"
-#  href: "/blog/"
-
-#- title: "CV"
-#  href: "/cv/"
+- title: "Contact"
+  href: "/contact/"
 
 #- title: "Miscellany"
 #  href: "/miscellany/"
