@@ -85,6 +85,17 @@ In 2022, he joined the [UKRI EPSRC Centre for Doctoral Training in the Applicati
 <h2>Conference Proceedings</h2>
 <ul>
 	<li>
+		<b>"Near-real-time Country-wide Estimation of Susceptibility and Settlement Exposure from Norwegian Mass Movements via Inter-graph Representation Learning" (Accepted)</b><br>
+		<i>
+			<u>Dimasaka, J.,</u> 
+			Selvakumaran, S., and
+			Marinoni, A.</i><br>
+		AGU Annual Meeting 2023, NH32B - Earth Observations for Monitoring and Assessment of Risk and Resilience of Communities and Infrastructure<br>
+		<a href="AGU2023.png">
+			<div class="color-button">graphical abstract</div>
+		</a>
+	</li>
+	<li>
 		<b>"Classifying Sea Ice in High-Resolution SAR Imagery Using Deep Learning" (Accepted)</b><br>
 		<i>
 			McDonald, A.,
