@@ -85,7 +85,7 @@ In 2022, he joined the [UKRI EPSRC Centre for Doctoral Training in the Applicati
 <h2>Conference Proceedings</h2>
 <ul>
 	<li>
-		<b>"Near-real-time Country-wide Estimation of Susceptibility and Settlement Exposure from Norwegian Mass Movements via Inter-graph Representation Learning" (Accepted)</b><br>
+		<b>"Near-real-time Country-wide Estimation of Susceptibility and Settlement Exposure from Norwegian Mass Movements via Inter-graph Representation Learning"</b><br>
 		<i>
 			<u>Dimasaka, J.,</u> 
 			Selvakumaran, S., and
@@ -108,7 +108,7 @@ In 2022, he joined the [UKRI EPSRC Centre for Doctoral Training in the Applicati
 		</a>
 	</li>
 	<li>
-		<b>"Classifying Sea Ice in High-Resolution SAR Imagery Using Deep Learning" (Accepted)</b><br>
+		<b>"Classifying Sea Ice in High-Resolution SAR Imagery Using Deep Learning"</b><br>
 		<i>
 			McDonald, A.,
 			<u>Dimasaka, J.,</u> 
