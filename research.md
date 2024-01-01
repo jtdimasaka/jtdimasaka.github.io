@@ -94,6 +94,18 @@ In 2022, he joined the [UKRI EPSRC Centre for Doctoral Training in the Applicati
 		<a href="AGU2023.png">
 			<div class="color-button">graphical abstract</div>
 		</a>
+		<a href="https://agu23.ipostersessions.com/default.aspx?s=E4-3C-3B-F2-A6-F0-04-73-8F-56-54-FD-B4-F6-65-1F#">
+			<div class="color-button">iposter</div>
+		</a>
+		<a href="https://youtu.be/0u6MoxTm_8Y">
+			<div class="color-button">YouTube with English Subtitles</div>
+		</a>
+		<a href="https://doi.org/10.5281/zenodo.8099812">
+			<div class="color-button">Zenodo</div>
+		</a>
+		<a href="https://github.com/IMPACTSquad/InterGraphNorwayMM">
+			<div class="color-button">GitHub</div>
+		</a>
 	</li>
 	<li>
 		<b>"Classifying Sea Ice in High-Resolution SAR Imagery Using Deep Learning" (Accepted)</b><br>
