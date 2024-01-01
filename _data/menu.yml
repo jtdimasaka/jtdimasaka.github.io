@@ -4,8 +4,8 @@
 - title: "Research"
   href: "/research/"
 
-- title: "Projects"
-  href: "/projects/"
+# - title: "Projects"
+#   href: "/projects/"
   # subcategories:
   #  - subtitle: "Arctic Climate Change Adaptation and Mitigation"
   #    subhref: "/projects/ArcticCCAM/"
@@ -32,3 +32,6 @@
   #    subhref: "/miscellany/outreach/"
   #  - subtitle: "Travel"
   #    subhref: "/miscellany/travel/"
+
+- title: "The Cambridge Disaster Risk Audit Project"
+  href: "https://riskaudit.github.io/"
