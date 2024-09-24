@@ -15,6 +15,22 @@ In 2022, he joined the [UKRI EPSRC Centre for Doctoral Training in the Applicati
 <h2>Publications</h2>
 <ul>
 	<li>
+		<b>"Enhancing Assessment of Direct and Indirect Exposure of Settlement-Transportation Systems to Mass Movements by Intergraph Representation Learning" (Accepted)</b><br>
+		<i>
+			<u>Dimasaka, J.,</u> 
+			Selvakumaran, S., and 
+			Marinoni, A.</i><br>
+		Environmental Research Letters, Focus on Natural Hazards, Disasters, and Extreme Events, 2024<br>
+		<a href="https://doi.org/10.5281/zenodo.8099812">
+			<div class="color-button">Zenodo</div>
+		</a>
+		<a href="https://github.com/IMPACTSquad/InterGraphNorwayMM">
+			<div class="color-button">GitHub</div>
+		</a>
+	</li>
+</ul>
+<ul>
+	<li>
 		<b>"Seismic Multi-hazard and Impact Estimation via Causal Inference from Satellite Imagery"</b><br>
 		<i>
 			Xu, S., 
