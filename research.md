@@ -30,6 +30,9 @@ In 2022, he joined the [UKRI EPSRC Centre for Doctoral Training in the Applicati
 		<a href="https://github.com/IMPACTSquad/InterGraphNorwayMM">
 			<div class="color-button">GitHub</div>
 		</a>
+		<a href="erl_enhancing.txt">
+			<div class="color-button">BibTeX</div>
+		</a>
 	</li>
 </ul>
 <ul>
