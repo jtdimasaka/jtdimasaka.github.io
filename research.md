@@ -107,6 +107,46 @@ In 2022, he joined the [UKRI EPSRC Centre for Doctoral Training in the Applicati
 <h2>Conference Proceedings</h2>
 <ul>
 	<li>
+		<b>"Spatial Disaggregation of Rwandan Building Exposure and Vulnerability via Weakly Supervised Conditional Census-Constrained Clustering (C4) using Earth Observation Data"</b><br>
+		<i>
+			<u>Dimasaka, J.,</u> 
+			Geiss, C., and
+			So, E.</i><br>
+		AGU Annual Meeting 2024, NH23B - Advancing Building and Population Inventories to Support Equity and Inclusion Poster<br>
+		<a href="AGU2024.jpg">
+			<div class="color-button">graphical abstract</div>
+		</a>
+		<a href="https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1610379">
+			<div class="color-button">link</div>
+		</a>
+		<a href="https://doi.org/10.5281/zenodo.13119553">
+			<div class="color-button">Zenodo</div>
+		</a>
+		<a href="https://github.com/riskaudit/DeepC4">
+			<div class="color-button">GitHub</div>
+		</a>
+	</li>
+	<li>
+		<b>"Global Mapping of Exposure and Physical Vulnerability Dynamics in Least Developed Countries using Remote Sensing and Machine Learning"</b><br>
+		<i>
+			<u>Dimasaka, J.,</u> 
+			Geiss, C., and
+			So, E.</i><br>
+		2nd Machine Learning for Remote Sensing, 12th International Conference on Learning Representations<br>
+		<a href="https://ml-for-rs.github.io/iclr2024/camera_ready/posters/48.pdf">
+			<div class="color-button">graphical abstract</div>
+		</a>
+		<a href="https://arxiv.org/abs/2404.01748">
+			<div class="color-button">arXiv</div>
+		</a>
+		<a href="https://doi.org/10.5281/zenodo.10840484">
+			<div class="color-button">Zenodo</div>
+		</a>
+		<a href="https://github.com/riskaudit/OpenSendaiBench">
+			<div class="color-button">GitHub</div>
+		</a>
+	</li>	
+	<li>
 		<b>"Near-real-time Country-wide Estimation of Susceptibility and Settlement Exposure from Norwegian Mass Movements via Inter-graph Representation Learning"</b><br>
 		<i>
 			<u>Dimasaka, J.,</u> 
