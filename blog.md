@@ -1,8 +1,13 @@
 ---
 layout: page
-title: Blog
-permalink: /blog/
+title: Mental Health
+permalink: /mentalhealth/
 ---
+
+Dear reader,
+
+Two years after the pandemic, I have finally gained the courage to share some of my well-being (physical and mental health) tips.
+
 
 Here are my carefully compiled views on some topics that I encountered so far. Hopefully, you will find them helpful! You can also search my posts by category <a href="{{ site.baseurl }}/categories/">here</a>.
 
