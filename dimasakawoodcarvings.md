@@ -15,104 +15,125 @@ title: Dimasaka Wood Carvings
 <p>Here, I would like to appreciate, share, (and sell) his artistic hand-made wood carvings that he started learning and doing since 1974. Anywhere in the world, if there is anything that you would like to buy or offer a price, please feel free to send a message to my email: dimasakajoshua@gmail.com</p>
 
 
-
 <style>
   .gallery-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    grid-template-columns: repeat(3, 1fr);
     gap: 16px;
+    margin-bottom: 2rem;
   }
 
-  .gallery-item {
-    border: 1px solid #eee;
-    border-radius: 10px;
+  .carousel-item {
+    background: #fafafa;
+    border-radius: 12px;
     overflow: hidden;
-    padding: 0;
+    padding: 8px;
   }
 
-  .gallery-item summary {
-    list-style: none;
-    cursor: pointer;
-  }
-
-  .gallery-item summary::-webkit-details-marker {
-    display: none;
-  }
-
-  .gallery-item img.preview {
-    width: 100%;
-    display: block;
-    border-radius: 10px 10px 0 0;
-  }
-
-  .carousel-container {
+  .carousel-strip {
+    display: flex;
+    gap: 8px;
     overflow-x: auto;
-    white-space: nowrap;
-    padding: 12px;
+    scroll-snap-type: x mandatory;
+    -webkit-overflow-scrolling: touch;
   }
 
-  .carousel-container figure {
-    display: inline-block;
-    margin-right: 12px;
-    text-align: center;
-  }
-
-  .carousel-container img {
-    height: 130px;
+  .carousel-strip img {
+    flex: 0 0 auto;
+    height: 140px;
     border-radius: 8px;
+    scroll-snap-align: start;
   }
 
-  .carousel-container figcaption {
-    font-size: 0.8rem;
+  .carousel-strip::-webkit-scrollbar {
+    height: 6px;
+  }
+
+  .carousel-strip::-webkit-scrollbar-thumb {
+    background-color: #ccc;
+    border-radius: 3px;
+  }
+
+  figcaption {
+    font-size: 0.75rem;
+    text-align: center;
     color: #666;
     margin-top: 4px;
   }
 
-  @media (max-width: 600px) {
-    .carousel-container img {
+  @media (max-width: 768px) {
+    .gallery-grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+    .carousel-strip img {
+      height: 110px;
+    }
+  }
+
+  @media (max-width: 480px) {
+    .gallery-grid {
+      grid-template-columns: 1fr;
+    }
+    .carousel-strip img {
       height: 100px;
     }
   }
 </style>
 
-<h2>My Responsive Collage</h2>
-
 <div class="gallery-grid">
-  <details class="gallery-item">
-    <summary><img class="preview" src="/images/profile.jpg" alt="Preview 1"></summary>
-    <div class="carousel-container">
+  <!-- 1 -->
+  <div class="carousel-item">
+    <div class="carousel-strip">
       <figure>
         <img src="/images/profile.jpg" alt="1a">
-        <figcaption>Caption 1a</figcaption>
+        <figcaption>1a</figcaption>
       </figure>
       <figure>
         <img src="/images/profile.jpg" alt="1b">
-        <figcaption>Caption 1b</figcaption>
+        <figcaption>1b</figcaption>
       </figure>
       <figure>
         <img src="/images/profile.jpg" alt="1c">
-        <figcaption>Caption 1c</figcaption>
+        <figcaption>1c</figcaption>
       </figure>
     </div>
-  </details>
+  </div>
 
-  <details class="gallery-item">
-    <summary><img class="preview" src="/images/profile.jpg" alt="Preview 2"></summary>
-    <div class="carousel-container">
+  <!-- 2 -->
+  <div class="carousel-item">
+    <div class="carousel-strip">
       <figure>
         <img src="/images/profile.jpg" alt="2a">
-        <figcaption>Caption 2a</figcaption>
+        <figcaption>2a</figcaption>
       </figure>
       <figure>
         <img src="/images/profile.jpg" alt="2b">
-        <figcaption>Caption 2b</figcaption>
+        <figcaption>2b</figcaption>
       </figure>
       <figure>
         <img src="/images/profile.jpg" alt="2c">
-        <figcaption>Caption 2c</figcaption>
+        <figcaption>2c</figcaption>
       </figure>
     </div>
-  </details>
+  </div>
 
-  <!-- Repeat up to 6 or more gallery-items -->
+  <!-- 3 -->
+  <div class="carousel-item">
+    <div class="carousel-strip">
+      <figure>
+        <img src="/images/profile.jpg" alt="3a">
+        <figcaption>3a</figcaption>
+      </figure>
+      <figure>
+        <img src="/images/profile.jpg" alt="3b">
+        <figcaption>3b</figcaption>
+      </figure>
+      <figure>
+        <img src="/images/profile.jpg" alt="3c">
+        <figcaption>3c</figcaption>
+      </figure>
+    </div>
+  </div>
+
+  <!-- 4, 5, 6 — add more if you want -->
 </div>
