@@ -135,3 +135,5 @@ title: Dimasaka Wood Carvings
   </figure>
 
 </div>
+
+<script src="https://cdn.jsdelivr.net/npm/lightbox2@2.11.3/dist/js/lightbox.min.js"></script>
