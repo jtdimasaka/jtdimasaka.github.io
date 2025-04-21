@@ -7,10 +7,19 @@ title: Dimasaka Wood Carvings
 <div class="home">
 
 <dl id="" class="wp-caption alignright" style="max-width: 200px">
-    <dt><a href="/images/profile.jpg"><img class="" src="/images/profile.jpg"/></a></dt>
+    <dt><a href="/images/papa.jpg"><img class="" src="/images/profile.jpg"/></a></dt>
 </dl>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam cursus nibh dolor, non pellentesque est tristique sit amet. Vivamus nunc elit, ultrices eget erat sed, pellentesque gravida elit. In iaculis mi metus, eget malesuada lorem maximus sit amet. Maecenas volutpat, libero quis lacinia laoreet, erat quam porttitor lacus, commodo iaculis ante leo vel libero. Curabitur id neque eget metus ultricies fringilla fermentum at nunc.</p>
+<p>Behind my prestigious achievements and universities is our loving father, Loreto 'Lito' Rivera Dimasaka, who did not finish elementary education due to extreme poverty and challenging situation we had been (i.e., no electricity and living in an informal settlemnent). Despite our low and irregular income my father earned from being a tricycle driver during our childhood (~USD 2 daily), it has definitey taught us to be humble and appreciate the simplicity of life in the provinces. 
+
+Here, I would like to appreciate, share, (and sell) his artistic hand-made wood carvings that he started learning and doing since 1974. Anywhere in the world, if there is anything that you would like to buy or offer a price, please feel free to send a message to my email: dimasakajoshua@gmail.com</p>
+
+
+
+
+<!-- Lightbox2 Styles & Script -->
+<link href="https://cdn.jsdelivr.net/npm/lightbox2@2/dist/css/lightbox.min.css" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/lightbox2@2/dist/js/lightbox.min.js"></script>
 
 <style>
   .collage {
@@ -33,6 +42,7 @@ title: Dimasaka Wood Carvings
     object-fit: cover;
     border-radius: 8px;
     display: block;
+    cursor: pointer;
   }
 
   .collage figcaption {
@@ -57,29 +67,67 @@ title: Dimasaka Wood Carvings
   }
 </style>
 
+<!-- Collage with profile.jpg slideshow groups -->
 <div class="collage">
+
+  <!-- Collage Item 1 -->
   <figure>
-    <img src="/images/profile.jpg" alt="Image 1">
-    <figcaption>Caption 1</figcaption>
+    <a href="/images/profile.jpg" data-lightbox="group1" data-title="Group 1 - Image 1">
+      <img src="/images/profile.jpg" alt="Preview Group 1">
+    </a>
+    <a href="/images/profile.jpg" data-lightbox="group1" data-title="Group 1 - Image 2"></a>
+    <a href="/images/profile.jpg" data-lightbox="group1" data-title="Group 1 - Image 3"></a>
+    <figcaption>Group 1: Profile Moments</figcaption>
   </figure>
+
+  <!-- Collage Item 2 -->
   <figure>
-    <img src="/images/profile.jpg" alt="Image 2">
-    <figcaption>Caption 2</figcaption>
+    <a href="/images/profile.jpg" data-lightbox="group2" data-title="Group 2 - Image 1">
+      <img src="/images/profile.jpg" alt="Preview Group 2">
+    </a>
+    <a href="/images/profile.jpg" data-lightbox="group2" data-title="Group 2 - Image 2"></a>
+    <figcaption>Group 2: More Vibes</figcaption>
   </figure>
+
+  <!-- Collage Item 3 -->
   <figure>
-    <img src="/images/profile.jpg" alt="Image 3">
-    <figcaption>Caption 3</figcaption>
+    <a href="/images/profile.jpg" data-lightbox="group3" data-title="Group 3 - Image 1">
+      <img src="/images/profile.jpg" alt="Preview Group 3">
+    </a>
+    <a href="/images/profile.jpg" data-lightbox="group3" data-title="Group 3 - Image 2"></a>
+    <a href="/images/profile.jpg" data-lightbox="group3" data-title="Group 3 - Image 3"></a>
+    <a href="/images/profile.jpg" data-lightbox="group3" data-title="Group 3 - Image 4"></a>
+    <figcaption>Group 3: Profile x4</figcaption>
   </figure>
+
+  <!-- Collage Item 4 -->
   <figure>
-    <img src="/images/profile.jpg" alt="Image 4">
-    <figcaption>Caption 4</figcaption>
+    <a href="/images/profile.jpg" data-lightbox="group4" data-title="Group 4 - Image 1">
+      <img src="/images/profile.jpg" alt="Preview Group 4">
+    </a>
+    <a href="/images/profile.jpg" data-lightbox="group4" data-title="Group 4 - Image 2"></a>
+    <a href="/images/profile.jpg" data-lightbox="group4" data-title="Group 4 - Image 3"></a>
+    <figcaption>Group 4: Fun Day</figcaption>
   </figure>
+
+  <!-- Collage Item 5 -->
   <figure>
-    <img src="/images/profile.jpg" alt="Image 5">
-    <figcaption>Caption 5</figcaption>
+    <a href="/images/profile.jpg" data-lightbox="group5" data-title="Group 5 - Image 1">
+      <img src="/images/profile.jpg" alt="Preview Group 5">
+    </a>
+    <a href="/images/profile.jpg" data-lightbox="group5" data-title="Group 5 - Image 2"></a>
+    <figcaption>Group 5: Best Moments</figcaption>
   </figure>
+
+  <!-- Collage Item 6 -->
   <figure>
-    <img src="/images/profile.jpg" alt="Image 6">
-    <figcaption>Caption 6</figcaption>
+    <a href="/images/profile.jpg" data-lightbox="group6" data-title="Group 6 - Image 1">
+      <img src="/images/profile.jpg" alt="Preview Group 6">
+    </a>
+    <a href="/images/profile.jpg" data-lightbox="group6" data-title="Group 6 - Image 2"></a>
+    <a href="/images/profile.jpg" data-lightbox="group6" data-title="Group 6 - Image 3"></a>
+    <a href="/images/profile.jpg" data-lightbox="group6" data-title="Group 6 - Image 4"></a>
+    <figcaption>Group 6: Fun Adventure</figcaption>
   </figure>
+
 </div>
