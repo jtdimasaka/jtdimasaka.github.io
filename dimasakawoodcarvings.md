@@ -4,7 +4,9 @@ permalink: /dimasakawoodcarvings/
 title: Dimasaka Wood Carvings
 ---
 
-<!-- Instagram-style responsive photo collage -->
+
+
+<!-- Instagram-style responsive photo collage with captions -->
 
 <style>
   .collage {
@@ -15,27 +17,36 @@ title: Dimasaka Wood Carvings
     padding: 10px;
   }
 
+  .collage figure {
+    margin: 0;
+    flex: 1 1 calc(33.333% - 16px);
+    max-width: calc(33.333% - 16px);
+  }
+
   .collage img {
     width: 100%;
     height: auto;
     object-fit: cover;
     border-radius: 8px;
+    display: block;
   }
 
-  .collage-item {
-    flex: 1 1 calc(33.333% - 16px);
-    max-width: calc(33.333% - 16px);
+  .collage figcaption {
+    font-size: 0.75rem;
+    text-align: center;
+    margin-top: 4px;
+    color: #555;
   }
 
   @media (max-width: 768px) {
-    .collage-item {
+    .collage figure {
       flex: 1 1 calc(50% - 16px);
       max-width: calc(50% - 16px);
     }
   }
 
   @media (max-width: 480px) {
-    .collage-item {
+    .collage figure {
       flex: 1 1 100%;
       max-width: 100%;
     }
@@ -43,22 +54,28 @@ title: Dimasaka Wood Carvings
 </style>
 
 <div class="collage">
-  <div class="collage-item">
+  <figure>
     <img src="/images/profile.jpg" alt="Image 1">
-  </div>
-  <div class="collage-item">
+    <figcaption>Caption 1</figcaption>
+  </figure>
+  <figure>
     <img src="/images/profile.jpg" alt="Image 2">
-  </div>
-  <div class="collage-item">
+    <figcaption>Caption 2</figcaption>
+  </figure>
+  <figure>
     <img src="/images/profile.jpg" alt="Image 3">
-  </div>
-  <div class="collage-item">
+    <figcaption>Caption 3</figcaption>
+  </figure>
+  <figure>
     <img src="/images/profile.jpg" alt="Image 4">
-  </div>
-  <div class="collage-item">
+    <figcaption>Caption 4</figcaption>
+  </figure>
+  <figure>
     <img src="/images/profile.jpg" alt="Image 5">
-  </div>
-  <div class="collage-item">
+    <figcaption>Caption 5</figcaption>
+  </figure>
+  <figure>
     <img src="/images/profile.jpg" alt="Image 6">
-  </div>
+    <figcaption>Caption 6</figcaption>
+  </figure>
 </div>
