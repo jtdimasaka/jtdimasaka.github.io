@@ -4,7 +4,13 @@ permalink: /dimasakawoodcarvings/
 title: Dimasaka Wood Carvings
 ---
 
+<div class="home">
 
+<dl id="" class="wp-caption alignright" style="max-width: 200px">
+    <dt><a href="/images/profile.jpg"><img class="" src="/images/profile.jpg"/></a></dt>
+</dl>
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam cursus nibh dolor, non pellentesque est tristique sit amet. Vivamus nunc elit, ultrices eget erat sed, pellentesque gravida elit. In iaculis mi metus, eget malesuada lorem maximus sit amet. Maecenas volutpat, libero quis lacinia laoreet, erat quam porttitor lacus, commodo iaculis ante leo vel libero. Curabitur id neque eget metus ultricies fringilla fermentum at nunc.</p>
 
 <style>
   .collage {
