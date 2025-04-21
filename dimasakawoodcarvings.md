@@ -15,40 +15,40 @@ title: Dimasaka Wood Carvings
 <p>Here, I would like to appreciate, share, (and sell) his artistic hand-made wood carvings that he started learning and doing since 1974. Anywhere in the world, if there is anything that you would like to buy or offer a price, please feel free to send a message to my email: dimasakajoshua@gmail.com</p>
 
 
+
 <style>
-  .collage-grid {
+  .gallery-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
-    gap: 12px;
-    margin-bottom: 1rem;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 16px;
   }
 
-  .collage-item img {
-    width: 100%;
+  .gallery-item {
+    border: 1px solid #eee;
     border-radius: 10px;
-    display: block;
+    overflow: hidden;
+    padding: 0;
   }
 
-  details {
-    margin-bottom: 1.5rem;
-    border-bottom: 1px solid #eee;
-    padding-bottom: 1rem;
-  }
-
-  summary {
+  .gallery-item summary {
     list-style: none;
     cursor: pointer;
   }
 
-  summary img {
+  .gallery-item summary::-webkit-details-marker {
+    display: none;
+  }
+
+  .gallery-item img.preview {
     width: 100%;
-    border-radius: 10px;
+    display: block;
+    border-radius: 10px 10px 0 0;
   }
 
   .carousel-container {
     overflow-x: auto;
     white-space: nowrap;
-    margin-top: 10px;
+    padding: 12px;
   }
 
   .carousel-container figure {
@@ -58,7 +58,7 @@ title: Dimasaka Wood Carvings
   }
 
   .carousel-container img {
-    height: 150px;
+    height: 130px;
     border-radius: 8px;
   }
 
@@ -70,48 +70,49 @@ title: Dimasaka Wood Carvings
 
   @media (max-width: 600px) {
     .carousel-container img {
-      height: 120px;
+      height: 100px;
     }
   }
 </style>
 
-<h2>My Gallery</h2>
+<h2>My Responsive Collage</h2>
 
-<!-- Each item has a preview + expandable carousel -->
-<details>
-  <summary><img src="/images/profile.jpg" alt="Preview 1"></summary>
-  <div class="carousel-container">
-    <figure>
-      <img src="/images/profile.jpg" alt="1a">
-      <figcaption>Caption 1a</figcaption>
-    </figure>
-    <figure>
-      <img src="/images/profile.jpg" alt="1b">
-      <figcaption>Caption 1b</figcaption>
-    </figure>
-    <figure>
-      <img src="/images/profile.jpg" alt="1c">
-      <figcaption>Caption 1c</figcaption>
-    </figure>
-  </div>
-</details>
+<div class="gallery-grid">
+  <details class="gallery-item">
+    <summary><img class="preview" src="/images/profile.jpg" alt="Preview 1"></summary>
+    <div class="carousel-container">
+      <figure>
+        <img src="/images/profile.jpg" alt="1a">
+        <figcaption>Caption 1a</figcaption>
+      </figure>
+      <figure>
+        <img src="/images/profile.jpg" alt="1b">
+        <figcaption>Caption 1b</figcaption>
+      </figure>
+      <figure>
+        <img src="/images/profile.jpg" alt="1c">
+        <figcaption>Caption 1c</figcaption>
+      </figure>
+    </div>
+  </details>
 
-<details>
-  <summary><img src="/images/profile.jpg" alt="Preview 2"></summary>
-  <div class="carousel-container">
-    <figure>
-      <img src="/images/profile.jpg" alt="2a">
-      <figcaption>Caption 2a</figcaption>
-    </figure>
-    <figure>
-      <img src="/images/profile.jpg" alt="2b">
-      <figcaption>Caption 2b</figcaption>
-    </figure>
-    <figure>
-      <img src="/images/profile.jpg" alt="2c">
-      <figcaption>Caption 2c</figcaption>
-    </figure>
-  </div>
-</details>
+  <details class="gallery-item">
+    <summary><img class="preview" src="/images/profile.jpg" alt="Preview 2"></summary>
+    <div class="carousel-container">
+      <figure>
+        <img src="/images/profile.jpg" alt="2a">
+        <figcaption>Caption 2a</figcaption>
+      </figure>
+      <figure>
+        <img src="/images/profile.jpg" alt="2b">
+        <figcaption>Caption 2b</figcaption>
+      </figure>
+      <figure>
+        <img src="/images/profile.jpg" alt="2c">
+        <figcaption>Caption 2c</figcaption>
+      </figure>
+    </div>
+  </details>
 
-<!-- Repeat for 4 more sets if needed -->
+  <!-- Repeat up to 6 or more gallery-items -->
+</div>
