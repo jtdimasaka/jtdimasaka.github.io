@@ -14,7 +14,6 @@ title: Dimasaka Wood Carvings
 
 <p>Here, I would like to appreciate, share, (and sell) his artistic hand-made wood carvings that he started learning and doing since 1974. Anywhere in the world, if there is anything that you would like to buy or offer a price, please feel free to send a message to my email: dimasakajoshua@gmail.com</p>
 
-
 <style>
   .gallery-grid {
     display: grid;
@@ -64,10 +63,11 @@ title: Dimasaka Wood Carvings
     margin-top: 4px;
   }
 
-  /* Preview image styling */
+  /* Preview image styling (making sure it's square and not cropped) */
   .preview-img {
-    width: 100%;
-    height: 140px;
+    width: 100%; /* Makes the image fill the container */
+    height: 0;
+    padding-bottom: 100%; /* This creates a square aspect ratio */
     object-fit: cover;
     border-radius: 8px;
   }
@@ -181,3 +181,4 @@ title: Dimasaka Wood Carvings
     </div>
   </div>
 </div>
+
