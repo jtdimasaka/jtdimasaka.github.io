@@ -105,12 +105,14 @@ title: Dimasaka Wood Carvings
   <!-- 2 -->
   <div class="carousel-item">
     <div class="carousel-strip">
-      <img src="/images/profile.jpg" alt="2a">
-      <img src="/images/profile.jpg" alt="2b">
-      <img src="/images/profile.jpg" alt="2c">
-      <img src="/images/profile.jpg" alt="2d">
+      <img src="/images/dimasakawoodcarvings/niyugan/1.jpg" alt="1a">
+      <img src="/images/dimasakawoodcarvings/niyugan/2.jpg" alt="1b">
+      <img src="/images/dimasakawoodcarvings/niyugan/3.jpg" alt="1c">
+      <img src="/images/dimasakawoodcarvings/niyugan/4.jpg" alt="1d">
+      <img src="/images/dimasakawoodcarvings/niyugan/5.jpg" alt="1e">
+      <img src="/images/dimasakawoodcarvings/niyugan/6.jpg" alt="1f">
     </div>
-    <figcaption>Preview 2</figcaption>
+    <figcaption>Niyugan <i>(Coconut Plantation)</i><br>₱ 65,000 | $ 1,150 | £ 870 | € 1,010</figcaption>
   </div>
 
   <!-- 3 -->
