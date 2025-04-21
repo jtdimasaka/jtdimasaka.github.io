@@ -84,8 +84,6 @@ title: Dimasaka Wood Carvings
   }
 </style>
 
-<h2>Instagram-like Collage</h2>
-
 <div class="gallery-grid">
   <!-- 1 -->
   <div class="carousel-item">
