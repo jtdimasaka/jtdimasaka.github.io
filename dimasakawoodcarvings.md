@@ -6,8 +6,6 @@ title: Dimasaka Wood Carvings
 
 
 
-<!-- Instagram-style responsive photo collage with captions -->
-
 <style>
   .collage {
     display: flex;
