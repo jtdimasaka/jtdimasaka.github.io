@@ -17,71 +17,101 @@ title: Dimasaka Wood Carvings
 
 <style>
   .collage-grid {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 10px;
-  }
-
-  .collage-item {
-    width: calc(33.33% - 10px);
-    cursor: pointer;
-    position: relative;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 12px;
+    margin-bottom: 1rem;
   }
 
   .collage-item img {
     width: 100%;
     border-radius: 10px;
+    display: block;
+  }
+
+  details {
+    margin-bottom: 1.5rem;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 1rem;
+  }
+
+  summary {
+    list-style: none;
+    cursor: pointer;
+  }
+
+  summary img {
+    width: 100%;
+    border-radius: 10px;
   }
 
   .carousel-container {
-    display: none;
     overflow-x: auto;
     white-space: nowrap;
     margin-top: 10px;
-    padding-bottom: 10px;
-    border-bottom: 1px solid #eee;
+  }
+
+  .carousel-container figure {
+    display: inline-block;
+    margin-right: 12px;
+    text-align: center;
   }
 
   .carousel-container img {
     height: 150px;
-    margin-right: 10px;
     border-radius: 8px;
   }
 
-  .collage-item:target + .carousel-container {
-    display: block;
+  .carousel-container figcaption {
+    font-size: 0.8rem;
+    color: #666;
+    margin-top: 4px;
+  }
+
+  @media (max-width: 600px) {
+    .carousel-container img {
+      height: 120px;
+    }
   }
 </style>
 
 <h2>My Gallery</h2>
 
-<div class="collage-grid">
-  <a href="#post1" class="collage-item">
-    <img src="/images/profile.jpg" alt="Preview 1">
-  </a>
-  <a href="#post2" class="collage-item">
-    <img src="/images/profile.jpg" alt="Preview 2">
-  </a>
-  <a href="#post3" class="collage-item">
-    <img src="/images/profile.jpg" alt="Preview 3">
-  </a>
-</div>
+<!-- Each item has a preview + expandable carousel -->
+<details>
+  <summary><img src="/images/profile.jpg" alt="Preview 1"></summary>
+  <div class="carousel-container">
+    <figure>
+      <img src="/images/profile.jpg" alt="1a">
+      <figcaption>Caption 1a</figcaption>
+    </figure>
+    <figure>
+      <img src="/images/profile.jpg" alt="1b">
+      <figcaption>Caption 1b</figcaption>
+    </figure>
+    <figure>
+      <img src="/images/profile.jpg" alt="1c">
+      <figcaption>Caption 1c</figcaption>
+    </figure>
+  </div>
+</details>
 
-<!-- Scrollable galleries -->
-<div id="post1" class="carousel-container">
-  <img src="/images/profile.jpg" alt="1a">
-  <img src="/images/profile.jpg" alt="1b">
-  <img src="/images/profile.jpg" alt="1c">
-</div>
+<details>
+  <summary><img src="/images/profile.jpg" alt="Preview 2"></summary>
+  <div class="carousel-container">
+    <figure>
+      <img src="/images/profile.jpg" alt="2a">
+      <figcaption>Caption 2a</figcaption>
+    </figure>
+    <figure>
+      <img src="/images/profile.jpg" alt="2b">
+      <figcaption>Caption 2b</figcaption>
+    </figure>
+    <figure>
+      <img src="/images/profile.jpg" alt="2c">
+      <figcaption>Caption 2c</figcaption>
+    </figure>
+  </div>
+</details>
 
-<div id="post2" class="carousel-container">
-  <img src="/images/profile.jpg" alt="2a">
-  <img src="/images/profile.jpg" alt="2b">
-  <img src="/images/profile.jpg" alt="2c">
-</div>
-
-<div id="post3" class="carousel-container">
-  <img src="/images/profile.jpg" alt="3a">
-  <img src="/images/profile.jpg" alt="3b">
-  <img src="/images/profile.jpg" alt="3c">
-</div>
+<!-- Repeat for 4 more sets if needed -->
