@@ -72,12 +72,16 @@ title: Dimasaka Wood Carvings
 
   <!-- Collage Item 1 -->
   <figure>
-    <a href="/images/profile.jpg" data-lightbox="group1" data-title="Group 1 - Image 1">
-      <img src="/images/profile.jpg" alt="Preview Group 1">
+    <a href="/images/dimasakwoodcarvings/pagdiriwang/1.png" data-lightbox="group1" data-title="Group 1 - Image 1">
+      <img src="/images/dimasakwoodcarvings/pagdiriwang/1.png" alt="Pagdiriwang">
     </a>
-    <a href="/images/profile.jpg" data-lightbox="group1" data-title="Group 1 - Image 2"></a>
-    <a href="/images/profile.jpg" data-lightbox="group1" data-title="Group 1 - Image 3"></a>
-    <figcaption>Group 1: Profile Moments</figcaption>
+    <a href="/images/dimasakwoodcarvings/pagdiriwang/1.png" data-lightbox="group1" data-title="Group 1 - Image 2"></a>
+    <a href="/images/dimasakwoodcarvings/pagdiriwang/2.png" data-lightbox="group1" data-title="Group 1 - Image 2"></a>
+	<a href="/images/dimasakwoodcarvings/pagdiriwang/3.png" data-lightbox="group1" data-title="Group 1 - Image 2"></a>
+	<a href="/images/dimasakwoodcarvings/pagdiriwang/4.jpg" data-lightbox="group1" data-title="Group 1 - Image 2"></a>
+	<a href="/images/dimasakwoodcarvings/pagdiriwang/5.jpg" data-lightbox="group1" data-title="Group 1 - Image 2"></a>
+	<a href="/images/dimasakwoodcarvings/pagdiriwang/6.jpg" data-lightbox="group1" data-title="Group 1 - Image 2"></a>
+    <figcaption>Pagdiriwang: ₱ 65,000 | $1,150 | £870</figcaption>
   </figure>
 
   <!-- Collage Item 2 -->
