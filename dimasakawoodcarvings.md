@@ -36,13 +36,14 @@ title: Dimasaka Wood Carvings
     overflow-x: auto;
     scroll-snap-type: x mandatory;
     -webkit-overflow-scrolling: touch;
-    padding-bottom: 10px;
+    padding-bottom: 10px; /* To add space for scroll */
   }
 
   .carousel-strip img {
     height: 140px;
     border-radius: 8px;
     scroll-snap-align: start;
+    width: 100%; /* Ensure images take full width of the container */
   }
 
   /* Hide the scrollbar in a cleaner way */
@@ -181,4 +182,3 @@ title: Dimasaka Wood Carvings
     </div>
   </div>
 </div>
-
