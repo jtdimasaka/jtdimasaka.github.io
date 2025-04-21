@@ -30,21 +30,23 @@ title: Dimasaka Wood Carvings
     padding: 8px;
   }
 
+  /* Container for the scrollable images inside each carousel-item */
   .carousel-strip {
     display: flex;
     gap: 8px;
     overflow-x: auto;
     scroll-snap-type: x mandatory;
     -webkit-overflow-scrolling: touch;
+    padding-bottom: 10px;
   }
 
   .carousel-strip img {
-    flex: 0 0 auto;
     height: 140px;
     border-radius: 8px;
     scroll-snap-align: start;
   }
 
+  /* Hide the scrollbar in a cleaner way */
   .carousel-strip::-webkit-scrollbar {
     height: 6px;
   }
@@ -54,6 +56,7 @@ title: Dimasaka Wood Carvings
     border-radius: 3px;
   }
 
+  /* Caption styles */
   figcaption {
     font-size: 0.75rem;
     text-align: center;
@@ -61,6 +64,15 @@ title: Dimasaka Wood Carvings
     margin-top: 4px;
   }
 
+  /* Preview image styling */
+  .preview-img {
+    width: 100%;
+    height: 140px;
+    object-fit: cover;
+    border-radius: 8px;
+  }
+
+  /* Responsive grid (for smaller screens) */
   @media (max-width: 768px) {
     .gallery-grid {
       grid-template-columns: repeat(2, 1fr);
@@ -80,60 +92,92 @@ title: Dimasaka Wood Carvings
   }
 </style>
 
+<h2>My Collage</h2>
+
 <div class="gallery-grid">
   <!-- 1 -->
   <div class="carousel-item">
+    <figure>
+      <!-- Preview image of the first carousel -->
+      <img class="preview-img" src="/images/profile.jpg" alt="Preview 1">
+      <figcaption>Preview 1</figcaption>
+    </figure>
     <div class="carousel-strip">
-      <figure>
-        <img src="/images/profile.jpg" alt="1a">
-        <figcaption>1a</figcaption>
-      </figure>
-      <figure>
-        <img src="/images/profile.jpg" alt="1b">
-        <figcaption>1b</figcaption>
-      </figure>
-      <figure>
-        <img src="/images/profile.jpg" alt="1c">
-        <figcaption>1c</figcaption>
-      </figure>
+      <!-- Inside the carousel-strip, all images will be horizontally scrollable -->
+      <img src="/images/profile.jpg" alt="1a">
+      <img src="/images/profile.jpg" alt="1b">
+      <img src="/images/profile.jpg" alt="1c">
+      <img src="/images/profile.jpg" alt="1d">
     </div>
   </div>
 
   <!-- 2 -->
   <div class="carousel-item">
+    <figure>
+      <img class="preview-img" src="/images/profile.jpg" alt="Preview 2">
+      <figcaption>Preview 2</figcaption>
+    </figure>
     <div class="carousel-strip">
-      <figure>
-        <img src="/images/profile.jpg" alt="2a">
-        <figcaption>2a</figcaption>
-      </figure>
-      <figure>
-        <img src="/images/profile.jpg" alt="2b">
-        <figcaption>2b</figcaption>
-      </figure>
-      <figure>
-        <img src="/images/profile.jpg" alt="2c">
-        <figcaption>2c</figcaption>
-      </figure>
+      <img src="/images/profile.jpg" alt="2a">
+      <img src="/images/profile.jpg" alt="2b">
+      <img src="/images/profile.jpg" alt="2c">
+      <img src="/images/profile.jpg" alt="2d">
     </div>
   </div>
 
   <!-- 3 -->
   <div class="carousel-item">
+    <figure>
+      <img class="preview-img" src="/images/profile.jpg" alt="Preview 3">
+      <figcaption>Preview 3</figcaption>
+    </figure>
     <div class="carousel-strip">
-      <figure>
-        <img src="/images/profile.jpg" alt="3a">
-        <figcaption>3a</figcaption>
-      </figure>
-      <figure>
-        <img src="/images/profile.jpg" alt="3b">
-        <figcaption>3b</figcaption>
-      </figure>
-      <figure>
-        <img src="/images/profile.jpg" alt="3c">
-        <figcaption>3c</figcaption>
-      </figure>
+      <img src="/images/profile.jpg" alt="3a">
+      <img src="/images/profile.jpg" alt="3b">
+      <img src="/images/profile.jpg" alt="3c">
+      <img src="/images/profile.jpg" alt="3d">
     </div>
   </div>
 
-  <!-- 4, 5, 6 — add more if you want -->
+  <!-- 4 -->
+  <div class="carousel-item">
+    <figure>
+      <img class="preview-img" src="/images/profile.jpg" alt="Preview 4">
+      <figcaption>Preview 4</figcaption>
+    </figure>
+    <div class="carousel-strip">
+      <img src="/images/profile.jpg" alt="4a">
+      <img src="/images/profile.jpg" alt="4b">
+      <img src="/images/profile.jpg" alt="4c">
+      <img src="/images/profile.jpg" alt="4d">
+    </div>
+  </div>
+
+  <!-- 5 -->
+  <div class="carousel-item">
+    <figure>
+      <img class="preview-img" src="/images/profile.jpg" alt="Preview 5">
+      <figcaption>Preview 5</figcaption>
+    </figure>
+    <div class="carousel-strip">
+      <img src="/images/profile.jpg" alt="5a">
+      <img src="/images/profile.jpg" alt="5b">
+      <img src="/images/profile.jpg" alt="5c">
+      <img src="/images/profile.jpg" alt="5d">
+    </div>
+  </div>
+
+  <!-- 6 -->
+  <div class="carousel-item">
+    <figure>
+      <img class="preview-img" src="/images/profile.jpg" alt="Preview 6">
+      <figcaption>Preview 6</figcaption>
+    </figure>
+    <div class="carousel-strip">
+      <img src="/images/profile.jpg" alt="6a">
+      <img src="/images/profile.jpg" alt="6b">
+      <img src="/images/profile.jpg" alt="6c">
+      <img src="/images/profile.jpg" alt="6d">
+    </div>
+  </div>
 </div>
