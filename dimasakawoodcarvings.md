@@ -7,7 +7,7 @@ title: Dimasaka Wood Carvings
 <div class="home">
 
 <dl id="" class="wp-caption alignright" style="max-width: 200px">
-    <dt><a href="/images/papa.jpg"><img class="" src="/images/profile.jpg"/></a></dt>
+    <dt><a href="/images/papa.jpg"><img class="" src="/images/papa.jpg"/></a></dt>
 </dl>
 
 <p>Behind my prestigious achievements and education is our loving father, Loreto 'Lito' Rivera Dimasaka. Although he was unable to complete elementary school due to the challenges of extreme poverty and the difficult conditions we faced—such as living in an informal settlement without electricity—his determination and love for us were unwavering. Despite the modest and irregular income he earned as a tricycle driver, averaging about USD 2 a day, he taught us invaluable lessons in humility and the importance of appreciating the simple joys of life in the provinces.</p>
