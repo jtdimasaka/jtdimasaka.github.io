@@ -125,18 +125,20 @@ title: Dimasaka Wood Carvings
       <img src="/images/dimasakawoodcarvings/palayan1/5.jpg" alt="1e">
       <img src="/images/dimasakawoodcarvings/palayan1/6.jpg" alt="1f">
     </div>
-    <figcaption>Niyugan <i>(Coconut Plantation)</i><br>₱ 45,000 | $ 800 | £ 600 | € 700</figcaption>
+    <figcaption>Palayan 1 <i>(Rice Farm)</i><br>₱ 45,000 | $ 800 | £ 600 | € 700</figcaption>
   </div>
 
   <!-- 4 -->
   <div class="carousel-item">
     <div class="carousel-strip">
-      <img src="/images/profile.jpg" alt="4a">
-      <img src="/images/profile.jpg" alt="4b">
-      <img src="/images/profile.jpg" alt="4c">
-      <img src="/images/profile.jpg" alt="4d">
+      <img src="/images/dimasakawoodcarvings/palayan2/1.jpg" alt="1a">
+      <img src="/images/dimasakawoodcarvings/palayan2/2.jpg" alt="1b">
+      <img src="/images/dimasakawoodcarvings/palayan2/3.jpg" alt="1c">
+      <img src="/images/dimasakawoodcarvings/palayan2/4.jpg" alt="1d">
+      <img src="/images/dimasakawoodcarvings/palayan2/5.jpg" alt="1e">
+      <img src="/images/dimasakawoodcarvings/palayan2/6.jpg" alt="1f">
     </div>
-    <figcaption>Preview 4</figcaption>
+    <figcaption>Palayan 2 <i>(Rice Farm)</i><br>₱ 45,000 | $ 800 | £ 600 | € 700</figcaption>
   </div>
 
   <!-- 5 -->
