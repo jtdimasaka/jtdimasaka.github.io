@@ -31,20 +31,18 @@ title: Dimasaka Wood Carvings
     position: relative;
   }
 
-  /* Container for the scrollable images inside each carousel-item */
+  /* Make the image container scrollable horizontally */
   .carousel-strip {
     display: flex;
     gap: 8px;
     overflow-x: auto;
-    scroll-snap-type: x mandatory;
-    -webkit-overflow-scrolling: touch;
-    padding-bottom: 10px; /* To add space for scroll */
+    padding-bottom: 10px; /* Add padding at the bottom to make it look nice */
   }
 
   .carousel-strip img {
     height: 140px;
     border-radius: 8px;
-    scroll-snap-align: start;
+    flex-shrink: 0; /* Prevent shrinking of images */
     width: 100%; /* Ensure images take full width of the container */
   }
 
@@ -95,7 +93,7 @@ title: Dimasaka Wood Carvings
   }
 </style>
 
-<h2>My Collage</h2>
+<h2>Instagram-like Collage</h2>
 
 <div class="gallery-grid">
   <!-- 1 -->
@@ -184,3 +182,4 @@ title: Dimasaka Wood Carvings
     </div>
   </div>
 </div>
+
