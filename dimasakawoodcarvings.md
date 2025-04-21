@@ -17,7 +17,7 @@ title: Dimasaka Wood Carvings
 <style>
   .gallery-grid {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(3, 1fr); /* 3 columns on desktop */
     gap: 16px;
     margin-bottom: 2rem;
   }
@@ -26,7 +26,6 @@ title: Dimasaka Wood Carvings
     background: #fafafa;
     border-radius: 12px;
     overflow: hidden;
-    padding: 8px;
     position: relative;
   }
 
@@ -35,16 +34,16 @@ title: Dimasaka Wood Carvings
     display: flex;
     gap: 8px;
     overflow-x: auto;
-    padding-bottom: 10px; /* Add padding at the bottom to make it look nice */
+    padding-bottom: 10px;
   }
 
-  /* Ensure each image has a square aspect ratio */
+  /* Ensure images fill the grid item, keeping them square */
   .carousel-strip img {
-    height: 140px; /* Adjusted height for images */
-    width: 140px;  /* Ensure width and height are the same to keep square */
+    width: 100%;  /* Make image width 100% of its container */
+    height: 100%; /* Make image height 100% of its container */
+    object-fit: cover; /* Cover the space while maintaining aspect ratio */
     border-radius: 8px;
-    flex-shrink: 0; /* Prevent shrinking of images */
-    object-fit: cover; /* This ensures the images cover the container area without distorting */
+    flex-shrink: 0;
   }
 
   /* Hide the scrollbar in a cleaner way */
@@ -68,21 +67,21 @@ title: Dimasaka Wood Carvings
   /* Responsive grid (for smaller screens) */
   @media (max-width: 768px) {
     .gallery-grid {
-      grid-template-columns: repeat(2, 1fr);
+      grid-template-columns: repeat(2, 1fr); /* 2 columns for medium screens */
     }
     .carousel-strip img {
-      height: 110px;
-      width: 110px;
+      height: 100%; /* Image will fill container */
+      width: 100%;
     }
   }
 
   @media (max-width: 480px) {
     .gallery-grid {
-      grid-template-columns: 1fr;
+      grid-template-columns: 1fr; /* 1 column for small screens */
     }
     .carousel-strip img {
-      height: 100px;
-      width: 100px;
+      height: 100%; /* Image will fill container */
+      width: 100%;
     }
   }
 </style>
@@ -93,7 +92,6 @@ title: Dimasaka Wood Carvings
   <!-- 1 -->
   <div class="carousel-item">
     <div class="carousel-strip">
-      <!-- Inside the carousel-strip, all images will be horizontally scrollable -->
       <img src="/images/profile.jpg" alt="1a">
       <img src="/images/profile.jpg" alt="1b">
       <img src="/images/profile.jpg" alt="1c">
