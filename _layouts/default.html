@@ -1,3 +1,22 @@
+<!-- <!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %}
+
+    <div class="page-content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </div>
+
+    {% include footer.html %}
+  </body>
+
+</html> -->
 <!DOCTYPE html>
 <html>
 
@@ -14,6 +33,20 @@
     </div>
 
     {% include footer.html %}
+
+    <!-- Include Lightbox2 JS -->
+    <script src="{{ '/assets/js/lightbox.min.js' | relative_url }}"></script>
+
+    <!-- Optional: Add custom JS if needed for Lightbox or other behaviors -->
+    <script>
+      document.addEventListener("DOMContentLoaded", function() {
+        // Lightbox options (optional)
+        lightbox.option({
+          'resizeDuration': 200,
+          'wrapAround': true
+        });
+      });
+    </script>
   </body>
 
 </html>
