@@ -139,7 +139,7 @@ title: Dimasaka Wood Carvings
     <figcaption>Palayan 2 <i>(Rice Farm)</i><br>₱ 45,000 | $ 800 | £ 600 | € 700<br>Available</figcaption>
   </div>
 
-  <div class="carousel-item">
+  <!-- <div class="carousel-item">
     <div class="carousel-strip">
       <img src="/images/dimasakawoodcarvings/palayan2/1.jpg" alt="1a">
       <img src="/images/dimasakawoodcarvings/palayan2/2.jpg" alt="1b">
@@ -161,7 +161,7 @@ title: Dimasaka Wood Carvings
       <img src="/images/dimasakawoodcarvings/palayan2/6.jpg" alt="1f">
     </div>
     <figcaption>Lorep Ipsum <i>(Rice Farm)</i><br>₱ 45,000 | $ 800 | £ 600 | € 700<br>Available</figcaption>
-  </div>
+  </div> -->
 
   <div class="carousel-item">
     <div class="carousel-strip">
