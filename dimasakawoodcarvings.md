@@ -64,15 +64,6 @@ title: Dimasaka Wood Carvings
     margin-top: 4px;
   }
 
-  /* Preview image styling (making sure it's square and not cropped) */
-  .preview-img {
-    width: 100%; /* Makes the image fill the container */
-    height: 0;
-    padding-bottom: 100%; /* This creates a square aspect ratio */
-    object-fit: cover;
-    border-radius: 8px;
-  }
-
   /* Responsive grid (for smaller screens) */
   @media (max-width: 768px) {
     .gallery-grid {
@@ -98,11 +89,6 @@ title: Dimasaka Wood Carvings
 <div class="gallery-grid">
   <!-- 1 -->
   <div class="carousel-item">
-    <figure>
-      <!-- Preview image of the first carousel -->
-      <img class="preview-img" src="/images/profile.jpg" alt="Preview 1">
-      <figcaption>Preview 1</figcaption>
-    </figure>
     <div class="carousel-strip">
       <!-- Inside the carousel-strip, all images will be horizontally scrollable -->
       <img src="/images/profile.jpg" alt="1a">
@@ -110,76 +96,62 @@ title: Dimasaka Wood Carvings
       <img src="/images/profile.jpg" alt="1c">
       <img src="/images/profile.jpg" alt="1d">
     </div>
+    <figcaption>Preview 1</figcaption>
   </div>
 
   <!-- 2 -->
   <div class="carousel-item">
-    <figure>
-      <img class="preview-img" src="/images/profile.jpg" alt="Preview 2">
-      <figcaption>Preview 2</figcaption>
-    </figure>
     <div class="carousel-strip">
       <img src="/images/profile.jpg" alt="2a">
       <img src="/images/profile.jpg" alt="2b">
       <img src="/images/profile.jpg" alt="2c">
       <img src="/images/profile.jpg" alt="2d">
     </div>
+    <figcaption>Preview 2</figcaption>
   </div>
 
   <!-- 3 -->
   <div class="carousel-item">
-    <figure>
-      <img class="preview-img" src="/images/profile.jpg" alt="Preview 3">
-      <figcaption>Preview 3</figcaption>
-    </figure>
     <div class="carousel-strip">
       <img src="/images/profile.jpg" alt="3a">
       <img src="/images/profile.jpg" alt="3b">
       <img src="/images/profile.jpg" alt="3c">
       <img src="/images/profile.jpg" alt="3d">
     </div>
+    <figcaption>Preview 3</figcaption>
   </div>
 
   <!-- 4 -->
   <div class="carousel-item">
-    <figure>
-      <img class="preview-img" src="/images/profile.jpg" alt="Preview 4">
-      <figcaption>Preview 4</figcaption>
-    </figure>
     <div class="carousel-strip">
       <img src="/images/profile.jpg" alt="4a">
       <img src="/images/profile.jpg" alt="4b">
       <img src="/images/profile.jpg" alt="4c">
       <img src="/images/profile.jpg" alt="4d">
     </div>
+    <figcaption>Preview 4</figcaption>
   </div>
 
   <!-- 5 -->
   <div class="carousel-item">
-    <figure>
-      <img class="preview-img" src="/images/profile.jpg" alt="Preview 5">
-      <figcaption>Preview 5</figcaption>
-    </figure>
     <div class="carousel-strip">
       <img src="/images/profile.jpg" alt="5a">
       <img src="/images/profile.jpg" alt="5b">
       <img src="/images/profile.jpg" alt="5c">
       <img src="/images/profile.jpg" alt="5d">
     </div>
+    <figcaption>Preview 5</figcaption>
   </div>
 
   <!-- 6 -->
   <div class="carousel-item">
-    <figure>
-      <img class="preview-img" src="/images/profile.jpg" alt="Preview 6">
-      <figcaption>Preview 6</figcaption>
-    </figure>
     <div class="carousel-strip">
       <img src="/images/profile.jpg" alt="6a">
       <img src="/images/profile.jpg" alt="6b">
       <img src="/images/profile.jpg" alt="6c">
       <img src="/images/profile.jpg" alt="6d">
     </div>
+    <figcaption>Preview 6</figcaption>
   </div>
 </div>
 
