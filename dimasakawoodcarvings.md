@@ -143,53 +143,55 @@ title: Dimasaka Wood Carvings
     <figcaption>Palayan 2 <i>(Rice Farm)</i><br>₱ 45,000 | $ 800 | £ 600 | € 700<br>Available</figcaption>
   </div>
 
-  <!-- <div class="carousel-item">
+  <div class="carousel-item">
     <div class="carousel-strip">
-      <img src="/images/dimasakawoodcarvings/palayan2/1.jpg" alt="1a">
-      <img src="/images/dimasakawoodcarvings/palayan2/2.jpg" alt="1b">
-      <img src="/images/dimasakawoodcarvings/palayan2/3.jpg" alt="1c">
-      <img src="/images/dimasakawoodcarvings/palayan2/4.jpg" alt="1d">
-      <img src="/images/dimasakawoodcarvings/palayan2/5.jpg" alt="1e">
-      <img src="/images/dimasakawoodcarvings/palayan2/6.jpg" alt="1f">
+      <img src="/images/dimasakawoodcarvings/05_pamamangka/38.jpg" alt="1a">
+      <img src="/images/dimasakawoodcarvings/05_pamamangka/39.jpg" alt="1b">
+      <img src="/images/dimasakawoodcarvings/05_pamamangka/40.jpg" alt="1c">
+      <img src="/images/dimasakawoodcarvings/05_pamamangka/41.jpg" alt="1d">
+      <img src="/images/dimasakawoodcarvings/05_pamamangka/42.jpg" alt="1e">
+      <img src="/images/dimasakawoodcarvings/05_pamamangka/43.jpg" alt="1f">
+      <img src="/images/dimasakawoodcarvings/05_pamamangka/44.gif" alt="1g">
     </div>
-    <figcaption>Lorep Ipsum <i>(Rice Farm)</i><br>₱ 45,000 | $ 800 | £ 600 | € 700<br>Available</figcaption>
+    <figcaption>Pamamangka <i>(Boating)</i><br>₱ 45,000 | $ 800 | £ 600 | € 700<br>Available</figcaption>
   </div>
 
   <div class="carousel-item">
     <div class="carousel-strip">
-      <img src="/images/dimasakawoodcarvings/palayan2/1.jpg" alt="1a">
-      <img src="/images/dimasakawoodcarvings/palayan2/2.jpg" alt="1b">
-      <img src="/images/dimasakawoodcarvings/palayan2/3.jpg" alt="1c">
-      <img src="/images/dimasakawoodcarvings/palayan2/4.jpg" alt="1d">
-      <img src="/images/dimasakawoodcarvings/palayan2/5.jpg" alt="1e">
-      <img src="/images/dimasakawoodcarvings/palayan2/6.jpg" alt="1f">
+      <img src="/images/dimasakawoodcarvings/06_kapitbisig/45.jpg" alt="1a">
+      <img src="/images/dimasakawoodcarvings/06_kapitbisig/46.jpg" alt="1b">
+      <img src="/images/dimasakawoodcarvings/06_kapitbisig/47.jpg" alt="1c">
+      <img src="/images/dimasakawoodcarvings/06_kapitbisig/48.jpg" alt="1d">
+      <img src="/images/dimasakawoodcarvings/06_kapitbisig/49.jpg" alt="1e">
+      <img src="/images/dimasakawoodcarvings/06_kapitbisig/50.jpg" alt="1f">
+      <img src="/images/dimasakawoodcarvings/06_kapitbisig/51.gif" alt="1g">
     </div>
-    <figcaption>Lorep Ipsum <i>(Rice Farm)</i><br>₱ 45,000 | $ 800 | £ 600 | € 700<br>Available</figcaption>
+    <figcaption>Kapit-bisig <i>(Working Together)</i><br>₱ 45,000 | $ 800 | £ 600 | € 700<br>Available</figcaption>
   </div> -->
 
   <div class="carousel-item">
     <div class="carousel-strip">
-      <img src="/images/dimasakawoodcarvings/koprahan/1.jpg" alt="1a">
-      <img src="/images/dimasakawoodcarvings/koprahan/2.jpg" alt="1b">
-      <img src="/images/dimasakawoodcarvings/koprahan/3.jpg" alt="1c">
+      <img src="/images/dimasakawoodcarvings/07_koprahan/4.jpg" alt="1a">
+      <img src="/images/dimasakawoodcarvings/07_koprahan/5.jpg" alt="1b">
+      <img src="/images/dimasakawoodcarvings/07_koprahan/6.jpg" alt="1c">
     </div>
     <figcaption>Koprahan <i>(Coconut Plantation)</i><br>₱ 75,000 | $ 1,350 | £ 1,000 | € 1,170<br>Sold but can be requested</figcaption>
   </div>
 
   <div class="carousel-item">
     <div class="carousel-strip">
-      <img src="/images/dimasakawoodcarvings/anihan/1.jpg" alt="1a">
-      <img src="/images/dimasakawoodcarvings/anihan/2.jpg" alt="1b">
-      <img src="/images/dimasakawoodcarvings/anihan/3.jpg" alt="1c">
+      <img src="/images/dimasakawoodcarvings/08_anihan/7.jpg" alt="1a">
+      <img src="/images/dimasakawoodcarvings/08_anihan/8.jpg" alt="1b">
+      <img src="/images/dimasakawoodcarvings/08_anihan/9.jpg" alt="1c">
     </div>
     <figcaption>Anihan <i>(Harvest Season)</i><br>₱ 75,000 | $ 1,350 | £ 1,000 | € 1,170<br>Sold but can be requested</figcaption>
   </div>
 
   <div class="carousel-item">
     <div class="carousel-strip">
-      <img src="/images/dimasakawoodcarvings/barriofiesta/1.jpg" alt="1a">
-      <img src="/images/dimasakawoodcarvings/barriofiesta/2.jpg" alt="1b">
-      <img src="/images/dimasakawoodcarvings/barriofiesta/3.jpg" alt="1c">
+      <img src="/images/dimasakawoodcarvings/09_barriofiesta/1.jpg" alt="1a">
+      <img src="/images/dimasakawoodcarvings/09_barriofiesta/2.jpg" alt="1b">
+      <img src="/images/dimasakawoodcarvings/09_barriofiesta/3.jpg" alt="1c">
     </div>
     <figcaption>Barrio Fiesta <i>(Neighborhood Festival)</i><br>₱ 75,000 | $ 1,350 | £ 1,000 | € 1,170<br>Sold but can be requested</figcaption>
   </div>
