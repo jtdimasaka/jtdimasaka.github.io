@@ -119,12 +119,13 @@ title: Dimasaka Wood Carvings
 
   <div class="carousel-item">
     <div class="carousel-strip">
-      <img src="/images/dimasakawoodcarvings/palayan1/1.jpg" alt="1a">
-      <img src="/images/dimasakawoodcarvings/palayan1/2.jpg" alt="1b">
-      <img src="/images/dimasakawoodcarvings/palayan1/3.jpg" alt="1c">
-      <img src="/images/dimasakawoodcarvings/palayan1/4.jpg" alt="1d">
-      <img src="/images/dimasakawoodcarvings/palayan1/5.jpg" alt="1e">
-      <img src="/images/dimasakawoodcarvings/palayan1/6.jpg" alt="1f">
+      <img src="/images/dimasakawoodcarvings/03_palayan1/24.jpg" alt="1a">
+      <img src="/images/dimasakawoodcarvings/03_palayan1/25.jpg" alt="1b">
+      <img src="/images/dimasakawoodcarvings/03_palayan1/26.jpg" alt="1c">
+      <img src="/images/dimasakawoodcarvings/03_palayan1/27.jpg" alt="1d">
+      <img src="/images/dimasakawoodcarvings/03_palayan1/28.jpg" alt="1e">
+      <img src="/images/dimasakawoodcarvings/03_palayan1/29.jpg" alt="1f">
+      <img src="/images/dimasakawoodcarvings/03_palayan1/30.gif" alt="1g">
     </div>
     <figcaption>Palayan 1 <i>(Rice Farm)</i><br>₱ 45,000 | $ 800 | £ 600 | € 700<br>Available</figcaption>
   </div>
