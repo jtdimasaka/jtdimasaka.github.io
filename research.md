@@ -80,6 +80,28 @@ In 2022, he joined the [UKRI EPSRC Centre for Doctoral Training in the Applicati
 <h2>Technical Reports</h2>
 <ul>
 	<li>
+		<b>"2025 Mw-7.7 Earthquake Impact Assessment in Myanmar and Thailand using Remote Sensing Data"</b><br>
+		<i>
+			<u>Dimasaka, J.,</u> 
+			Garg, S.,
+			Ma, W.,
+			Blok, L.,
+			Nava, L.,
+			Colverd, G.,
+			Lammoglia Cobo, M.F., 
+			Ding, H.,
+			Timmerman, O.,
+			Guo, S.,
+			Marinoni, A., and
+			Selvakumaran, S.</i><br>
+		<a href="https://doi.org/10.5281/zenodo.15245167">
+			<div class="color-button">Zenodo</div>
+		</a>
+		<a href="https://impactsquad.github.io/Myanmar-Earthquake-Damage-Map/">
+			<div class="color-button">Web Map</div>
+		</a>
+	</li>
+	<li>
 		<b>"PRJ-3858: M7.8 Turkey-Syria Earthquake Impact Estimates from Near-real-time Crowdsourced and Remote Sensing Data"</b><br>
 		<i>
 			Xu, S., 
