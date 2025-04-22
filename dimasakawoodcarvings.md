@@ -6,7 +6,7 @@ title: Dimasaka Wood Carvings
 
 <div class="home">
 
-<dl id="" class="wp-caption alignright" style="max-width: 300px">
+<dl id="" class="wp-caption alignright" style="max-width: 200px">
     <dt><a href="/images/papa.jpg"><img class="" src="/images/papa.jpg"/></a></dt>
 </dl>
 
