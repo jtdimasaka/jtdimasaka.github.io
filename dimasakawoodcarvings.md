@@ -93,12 +93,13 @@ title: Dimasaka Wood Carvings
 
   <div class="carousel-item">
     <div class="carousel-strip">
-      <img src="/images/dimasakawoodcarvings/pagdiriwang/1.png" alt="1a">
-      <img src="/images/dimasakawoodcarvings/pagdiriwang/2.png" alt="1b">
-      <img src="/images/dimasakawoodcarvings/pagdiriwang/3.png" alt="1c">
-      <img src="/images/dimasakawoodcarvings/pagdiriwang/4.jpg" alt="1d">
-      <img src="/images/dimasakawoodcarvings/pagdiriwang/5.jpg" alt="1e">
-      <img src="/images/dimasakawoodcarvings/pagdiriwang/6.jpg" alt="1f">
+      <img src="/images/dimasakawoodcarvings/01_pagdiriwang/10.jpg" alt="1a">
+      <img src="/images/dimasakawoodcarvings/01_pagdiriwang/11.jpg" alt="1b">
+      <img src="/images/dimasakawoodcarvings/01_pagdiriwang/12.jpg" alt="1c">
+      <img src="/images/dimasakawoodcarvings/01_pagdiriwang/13.jpg" alt="1d">
+      <img src="/images/dimasakawoodcarvings/01_pagdiriwang/14.jpg" alt="1e">
+      <img src="/images/dimasakawoodcarvings/01_pagdiriwang/15.jpg" alt="1f">
+      <img src="/images/dimasakawoodcarvings/01_pagdiriwang/16.gif" alt="1g">
     </div>
     <figcaption>Pagdiriwang <i>(Festival Celebration)</i><br>₱₱ 65,000 | $ 1,150 | £ 870 | € 1,010<br>Available</figcaption>
   </div>
