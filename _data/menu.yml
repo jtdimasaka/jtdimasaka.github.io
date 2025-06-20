@@ -4,18 +4,6 @@
 - title: "Research"
   href: "/research/"
 
-# - title: "Projects"
-#   href: "/projects/"
-  # subcategories:
-  #  - subtitle: "Arctic Climate Change Adaptation and Mitigation"
-  #    subhref: "/projects/ArcticCCAM/"
-  #  - subtitle: "Sea Ice Classification using Deep Learning"
-  #    subhref: "/projects/SeaIceDL/"
-  #  - subtitle: "Equitable Earthquake Resilience in GMMA, PH"
-  #    subhref: "/projects/EarthquakeGMMA/"
-  #  - subtitle: "Seismic multi-hazard and impact estimation via causal inference from satellite imagery"
-  #    subhref: "/projects/VBCI/"
-
 # - title: "Advocacy"
 #   href: "/advocacy/"
 
@@ -25,18 +13,28 @@
 #- title: "Contact"
 #  href: "/contact/"
 
-#- title: "Miscellany"
-#  href: "/miscellany/"
+# - title: "Research"
+#  href: "/research/"
 #  subcategories:
-  #  - subtitle: "Outreach"
-  #    subhref: "/miscellany/outreach/"
-  #  - subtitle: "Travel"
-  #    subhref: "/miscellany/travel/"
+#    - subtitle: "Publications"
+#      subhref: "/research/publications/"
+#    - subtitle: "AI and EO for Global Resilience Dynamics"
+#      subhref: "/research/GRD/"
+#    - subtitle: "InterGraph Susceptibility-to-Exposure Assessment"
+#      subhref: "/research/Intergraph/"
+#    - subtitle: "Antarctica Sea Ice"
+#      subhref: "/research/SeaIce/"
+#    - subtitle: "Metro Manila Regional Earthquake Resilience"
+#      subhref: "/research/EarthquakeGMMA/"
+#    - subtitle: "Multi-hazard & Impact Estimation using Causal Inference"
+#      subhref: "/research/EarthquakeGMMA/"
+#    - subtitle: "Nanosilica for Future Buildings"
+#      subhref: "/research/nanosilica/"
 
-- title: "The Cambridge Disaster Risk Quantification Auditing Project"
-  href: "https://zenodo.org/communities/riskaudit"
+# - title: "The Cambridge Disaster Risk Quantification Auditing Project"
+#   href: "https://zenodo.org/communities/riskaudit"
+- title: "Global Disaster Resilience Dynamics"
+  href: "/GlobalDisasterResilienceDynamics/"
 
-- title: "Dimasaka Wood Carvings"
-  href: "/dimasakawoodcarvings/"
 
 
