@@ -1,10 +1,10 @@
 ---
 layout: page
-title: [Review] The Bridge: a nine step crossing into authentic and wholehearted living
+title: [Reflection] The Bridge: a nine step crossing into authentic and wholehearted living
 permalink: /wellbeing/TheBridge/
 ---
 
-<!-- # Review: Lancaster, D. (2022). The Bridge: A Nine‑Step Crossing into Authentic and Wholehearted Living. Penguin Life. -->
+# Reflection: Lancaster, D. (2022). The Bridge: A Nine‑Step Crossing into Authentic and Wholehearted Living. Penguin Life.
 
 {% include image.html url="/wellbeing/pics/1.jpg" width=250 align="right" %}
 
