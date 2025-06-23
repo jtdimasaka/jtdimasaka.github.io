@@ -3,10 +3,12 @@ layout: page
 title: [Reflection] The Bridge: a nine step crossing into authentic and wholehearted living
 permalink: /wellbeing/TheBridge/
 ---
-
+<!-- 
 <div style="float:right; line-height:0; font-size:0;">
   {% include image.html url="/wellbeing/pics/1.jpg" width=250 align="right" %}
-</div>
+</div> -->
+
+<img src="/wellbeing/pics/1.jpg" width="250" style="float: right; display: block; margin: 0 0 1em 1em;" />
 
 # Reflection: Lancaster, D. (2022). The Bridge: A Nine‑Step Crossing into Authentic and Wholehearted Living. Penguin Life.
 
