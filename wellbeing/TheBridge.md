@@ -5,7 +5,7 @@ permalink: /wellbeing/TheBridge/
 ---
 
 <div style="line-height:0">
-  {% include image.html url="/wellbeing/pics/1.jpg" width=250 align="right" caption="Caption here" %}
+  {% include image.html url="/wellbeing/pics/1.jpg" width=250 align="right" caption="Photo taken 14th June 2025 at Parker's Piece." %}
 </div>
 
 # Reflection: Lancaster, D. (2022). The Bridge: A Nine‑Step Crossing into Authentic and Wholehearted Living. Penguin Life.
@@ -27,7 +27,7 @@ These are two short phrases I personally like from the book:
 - **Here and now**: brings our awareness to the present moment and feel the grace and texture of my surrounding.
 - **Notice and breath**: reminds us to allow the process to take time and feel it fully.
 
-## Step 1:Heartbreaks and Tears - how and why we get hurt
+## Step 1: Heartbreaks and Tears - how and why we get hurt
 
 *Page 33*  
 &nbsp;&nbsp;&nbsp;&nbsp;Sometimes we are surprised to feel devastated by something that previously wouldn't have troubled us that much. It's **never a simple matter** of cause and effect. Loss and heartbreak are **too personal** to fit nearly into boxes. They are also **cumulative**, which is an important idea that we'll be returning to shortly. For now, suffice to say that we all have a unique breaking point. If we never do our work to heal from our heartbreaks then -- one day -- a tiny thing might be too much to bear.
