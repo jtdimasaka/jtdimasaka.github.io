@@ -8,8 +8,6 @@ permalink: /wellbeing/TheBridge/
 
 {% include image.html url="/wellbeing/pics/1.jpg" width=250 align="right" %}
 
-## Personal Reflections
-
 Dear human,
 
 &nbsp;&nbsp;&nbsp;&nbsp;19th of May 2025 was when I found this treasure, a book that, I think, has helped me in many ways. Growing up in an extreme poverty surrounded by insecurity *(e.g., I wish I had the same resources as the other students in the elitist cities; I wish we have the money to pay the fee to join the mathematics camp when I was a kid; I wish I have my mom with me growing up and didn't need to work overseas in Middle East as a domestic helper and ending up abused; and many more injustices in education and society for our young kids)*, I have always carried with me these stories from childhood to my first job being a civil engineer to my first overseas graduate study. I think this may also be the case for many marginalized and neglected communities in the world. 
