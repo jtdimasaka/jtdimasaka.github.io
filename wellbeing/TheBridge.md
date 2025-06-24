@@ -26,7 +26,7 @@ Joshua
 # Favorite Words
 
 These are two short phrases I personally like from the book:
-- **Here and now**: brings our awareness to the present moment and feel the grace and texture of my surrounding.
+- **Here and now**: brings our awareness to the present moment and feel the grace and texture of our surroundings.
 - **Notice and breath**: reminds us to allow the process to take time and feel it fully.
 
 ## Step 1: Heartbreaks and Tears - how and why we get hurt
