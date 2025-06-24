@@ -102,7 +102,7 @@ The way the other people treat you and speak about you is information, not truth
 - Spiritual
 
 *Page 215*  
-&nbsp;&nbsp;&nbsp;&nbsp;'No' is not just a word, it is a political statement. It says, **'I have power and choice, I am here and you will see me and hear me. I can choose, and my choice mright now is NO!'**
+&nbsp;&nbsp;&nbsp;&nbsp;'No' is not just a word, it is a political statement. It says, **'I have power and choice, I am here and you will see me and hear me. I can choose, and my choice right now is NO!'**
 
 *Page 216*  
 &nbsp;&nbsp;&nbsp;&nbsp;... starting small with perhaps a 'No, I don't take sugar in my tea, thanks' before moving on to the bigger Nos, such as, 'No, I will not tolerate that' - you will find a liberation that your ancestors could only dream of.
