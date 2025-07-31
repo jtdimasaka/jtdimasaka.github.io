@@ -15,7 +15,7 @@ In 2022, he joined the [UKRI EPSRC Centre for Doctoral Training in the Applicati
 <h2>Publications</h2>
 <ul>
 	<li>
-		<b>"Deep Conditional Census-Constrained Clustering (DeepC4) for Large-scale Multitask Disaggregation of Urban Morphology"</b><br>
+		<b>"DeepC4: Deep Conditional Census-Constrained Clustering for Large-scale Multitask Disaggregation of Urban Morphology"</b><br>
 		<i>
 			<u>Dimasaka, J.,</u> 
 			Geiss, C., and
