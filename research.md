@@ -145,6 +145,14 @@ In 2022, he joined the [UKRI EPSRC Centre for Doctoral Training in the Applicati
 <h2>Conference Proceedings</h2>
 <ul>
 	<li>
+		<b>"A Data-Driven Probabilistic Approach to Regional Dynamics of Building Exposure and Physical Vulnerability Towards Global Disaster Risk Quantification Audit"</b><br>
+		<i>
+			<u>Dimasaka, J.,</u> 
+			Bendimerad, F., Tanhueco, R., Muir-Wood, R., Geiss, C. and
+			So, E.</i><br>
+		AGU Annual Meeting 2025, NH033 - Progress, Ethics and Accuracy in Building Stock Attribution<br>
+	</li>
+	<li>
 		<b>"Spatial Disaggregation of Rwandan Building Exposure and Vulnerability via Weakly Supervised Conditional Census-Constrained Clustering (C4) using Earth Observation Data"</b><br>
 		<i>
 			<u>Dimasaka, J.,</u> 
@@ -163,14 +171,6 @@ In 2022, he joined the [UKRI EPSRC Centre for Doctoral Training in the Applicati
 		<a href="https://github.com/riskaudit/DeepC4">
 			<div class="color-button">GitHub</div>
 		</a>
-	</li>
-	<li>
-		<b>"A Data-Driven Probabilistic Approach to Regional Dynamics of Building Exposure and Physical Vulnerability Towards Global Disaster Risk Quantification Audit"</b><br>
-		<i>
-			<u>Dimasaka, J.,</u> 
-			Bendimerad, F., Tanhueco, R., Muir-Wood, R., Geiss, C. and
-			So, E.</i><br>
-		AGU Annual Meeting 2025, NH033 - Progress, Ethics and Accuracy in Building Stock Attribution<br>
 	</li>
 	<li>
 		<b>"Global Mapping of Exposure and Physical Vulnerability Dynamics in Least Developed Countries using Remote Sensing and Machine Learning"</b><br>
