@@ -162,6 +162,9 @@ In 2022, he joined the [UKRI EPSRC Centre for Doctoral Training in the Applicati
 			Bendimerad, F., Tanhueco, R., Muir-Wood, R., Geiss, C. and
 			So, E.</i><br>
 		AGU Annual Meeting 2025, NH033 - Progress, Ethics and Accuracy in Building Stock Attribution<br>
+		<a href="https://agu.confex.com/agu/agu25/prelim.cgi/Paper/1944928">
+			<div class="color-button">link</div>
+		</a>
 	</li>
 	<li>
 		<b>"Spatial Disaggregation of Rwandan Building Exposure and Vulnerability via Weakly Supervised Conditional Census-Constrained Clustering (C4) using Earth Observation Data"</b><br>
