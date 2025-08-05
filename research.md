@@ -15,6 +15,17 @@ In 2022, he joined the [UKRI EPSRC Centre for Doctoral Training in the Applicati
 <h2>Publications</h2>
 <ul>
 	<li>
+		<b>"GraphVSSM: Graph Variational State-Space Model for Probabilistic Spatiotemporal Inference of Dynamic Exposure and Vulnerability for Regional Disaster Resilience Assessment"</b><br>
+		<i>
+			<u>Dimasaka, J.,</u> 
+			Geiss, C., and
+			So, E.</i><br>
+		Submitted - Under Review, 2025<br>
+		<a href="https://doi.org/10.48550/arXiv.2508.01310">
+			<div class="color-button">preprint</div>
+		</a>
+	</li>
+	<li>
 		<b>"DeepC4: Deep Conditional Census-Constrained Clustering for Large-scale Multitask Disaggregation of Urban Morphology"</b><br>
 		<i>
 			<u>Dimasaka, J.,</u> 
