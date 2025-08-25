@@ -15,6 +15,14 @@ In 2022, he joined the [UKRI EPSRC Centre for Doctoral Training in the Applicati
 <h2>Publications</h2>
 <ul>
 	<li>
+		<b>"GraphCSVAE: Graph Categorical Structured Variational Autoencoder for Spatiotemporal Auditing of Physical Vulnerability Towards Sustainable Post-Disaster Risk Reduction"</b><br>
+		<i>
+			<u>Dimasaka, J.,</u> 
+			Geiss, C., Muir-Wood, R., and
+			So, E.</i><br>
+		Manuscript - In Preparation, 2025<br>
+	</li>
+	<li>
 		<b>"GraphVSSM: Graph Variational State-Space Model for Probabilistic Spatiotemporal Inference of Dynamic Exposure and Vulnerability for Regional Disaster Resilience Assessment"</b><br>
 		<i>
 			<u>Dimasaka, J.,</u> 
