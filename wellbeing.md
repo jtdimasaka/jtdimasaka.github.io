@@ -11,7 +11,7 @@ Hello, I am sharing here the non-fiction books I've enjoyed reading and learned 
 Take good care, always,
 Joshua
 
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.5em;">
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 2em; justify-items: center;">
 
   <figure style="text-align: center;">
     <img src="/wellbeing/pics/1.jpg" alt="TheBridge" width="250" style="max-width: 100%; height: auto;">
