@@ -17,7 +17,7 @@ Joshua
     <img src="/wellbeing/pics/1.jpg" alt="TheBridge" style="width: 100%; height: auto; display: block; margin: 0 auto;">
     <figcaption style="font-size: 0.9em; margin-top: 0.5em; word-wrap: break-word;">
       <a href="https://www.joshuadimasaka.com/wellbeing/TheBridge">
-        Personal Reflection: Lancaster, D. (2022). The Bridge: A Nine-Step Crossing into Authentic and Wholehearted Living. Penguin Life.
+        Personal Reflection: Lancaster, D. (2022). The Bridge: A Nine-Step Crossing into Authentic and Wholehearted Living.
       </a>
     </figcaption>
   </figure>
@@ -26,11 +26,18 @@ Joshua
     <img src="/wellbeing/pics/2.jpg" alt="Listen" style="width: 100%; height: auto; display: block; margin: 0 auto;">
     <figcaption style="font-size: 0.9em; margin-top: 0.5em; word-wrap: break-word;">
       <a href="https://www.joshuadimasaka.com/wellbeing/Listen">
-        Personal Reflection: Mannix, K. (2021). Listen: How to Find the Words for Tender Conversations. William Collins.
+        Personal Reflection: Mannix, K. (2021). Listen: How to Find the Words for Tender Conversations.
       </a>
     </figcaption>
   </figure>
 
-  <!-- Add more figures here -->
+  <figure style="text-align: center; width: 250px; margin: 0;">
+    <img src="/wellbeing/pics/3.jpg" alt="Listen" style="width: 100%; height: auto; display: block; margin: 0 auto;">
+    <figcaption style="font-size: 0.9em; margin-top: 0.5em; word-wrap: break-word;">
+      <!-- <a href="https://www.joshuadimasaka.com/wellbeing/Listen"> -->
+      Currently Reading: Eger, E. (2020). The Gift: 12 Lessons to Save Your Life.
+      <!-- </a> -->
+    </figcaption>
+  </figure>
 
 </div>
