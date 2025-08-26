@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Wellbeing
-permalink: /Wellbeing/
+permalink: /wellbeing/
 ---
 
 Dear Human,
