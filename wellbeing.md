@@ -6,9 +6,9 @@ permalink: /wellbeing/
 
 Dear Human,
 
-Hello, I am sharing here the non-fiction books I've enjoyed reading and learned a lot.
+Hello, I am sharing here the non-fiction self-help books I've enjoyed reading and learned a lot.
 
-Take good care, always,
+Take good care, always,  
 Joshua
 
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 2em; justify-items: center;">
