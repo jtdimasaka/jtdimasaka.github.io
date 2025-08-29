@@ -6,7 +6,7 @@ permalink: /wellbeing/
 
 Dear Human,
 
-Hello, I am sharing here the non-fiction self-help books I've enjoyed reading and learned a lot, often after an intense strength training workout, while sitting in the Parker's Piece at Cambridge or silently in a public desk at the Cambridge Central Library with community of strangers around, and listening to the music of Sleeping At Last and other calming sounds. I'm also sharing my personal reflections because writing it down made me fully embrace the wisdom.
+Hello, I am sharing here the non-fiction self-help books I've enjoyed reading and learned a lot from, often after an intense strength training workout, while sitting in Parker's Piece at Cambridge or silently in a public desk at the Cambridge Central Library with the friendly community of strangers around, and listening to the music of Sleeping At Last and other calming sounds. I'm also sharing my personal reflections because writing it down made me fully embrace the wisdom.
 
 Take good care, always,  
 Joshua
