@@ -6,7 +6,7 @@ permalink: /wellbeing/
 
 Dear Human,
 
-Hello, I am sharing here the non-fiction self-help books I've enjoyed reading and learned a lot.
+Hello, I am sharing here the non-fiction self-help books I've enjoyed reading and learned a lot, often after an intense strength training workout, while sitting in the Parker's Piece at Cambridge or silently in a public desk at the Cambridge Central Library with community of strangers around, and listening to the music of Sleeping At Last and other calming sounds. I'm also sharing my personal reflections because writing it down made me fully embrace the wisdom.
 
 Take good care, always,  
 Joshua
@@ -34,9 +34,9 @@ Joshua
   <figure style="text-align: center; width: 250px; margin: 0;">
     <img src="/wellbeing/pics/3.jpg" alt="Listen" style="width: 100%; height: auto; display: block; margin: 0 auto;">
     <figcaption style="font-size: 0.9em; margin-top: 0.5em; word-wrap: break-word;">
-      <!-- <a href="https://www.joshuadimasaka.com/wellbeing/Listen"> -->
-      Currently Reading: Eger, E. (2020). The Gift: 12 Lessons to Save Your Life.
-      <!-- </a> -->
+      <a href="https://www.joshuadimasaka.com/wellbeing/TheGift">
+      Personal Reflection: Eger, E. (2020). The Gift: 12 Lessons to Save Your Life.
+      </a>
     </figcaption>
   </figure>
 
