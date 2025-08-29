@@ -49,7 +49,7 @@ These are phrases I personally like from the book:
 &nbsp;&nbsp;&nbsp;&nbsp;Remember: you have something no one else will ever have. **You have you. For a lifetime.**   
 
 *Page 68*  
-&nbsp;&nbsp;&nbsp;&nbsp;Honey, find *you* and keep filling it up with more you. **You don't have to work to be loved.**. You hjust have to be you. May you be more and more every day.
+&nbsp;&nbsp;&nbsp;&nbsp;Honey, find *you* and keep filling it up with more you. **You don't have to work to be loved.**. You just have to be you. May you be more and more every day.
 
 ## 4. One Butt, Two Chairs (*Secrets*)
 
@@ -89,8 +89,8 @@ These are phrases I personally like from the book:
 *Page 129-130*  
 &nbsp;&nbsp;&nbsp;&nbsp;"And just ignore what happened? Leave out what they did?"    
 &nbsp;&nbsp;&nbsp;&nbsp;"Make peace with it."   
-&nbsp;&nbsp;&nbsp;&nbsp;Many of us didn't have the loving and caring parents we desired and deserved. Maybe they were preoccupied, angry, worried, depressed. Maybe we were born at the wrong time, in a season of friction or loss or financial strain. Maybe our caregivers were dealing with their own trauma, and they weren't always responsive to our needs for attention and affection. Maybe they didn't pick us up and say, "We always wanted a child just like you."    
-&nbsp;&nbsp;&nbsp;&nbsp;Grief helps us face and ultimately release what happened or didn't happen. **And it opens up space to see what is and choose where we go from here.**
+&nbsp;&nbsp;&nbsp;&nbsp;Many of us didn't have the loving and caring parents we desired and deserved. Maybe they were preoccupied, angry, worried, depressed. Maybe we were born at the wrong time, in a season of friction or loss or financial strain. Maybe our caregivers were dealing with their own trauma, and they weren't always responsive to our needs for attention and affection. Maybe they didn't pick us up and say, "We always wanted a child just like you."       
+&nbsp;&nbsp;&nbsp;&nbsp;Grief helps us face and ultimately release what happened or didn't happen. **And it opens up space to see what is and choose where we go from here.**.   
 &nbsp;&nbsp;&nbsp;&nbsp;You can't know the truth ... until you deal with your own wounds, until you bury and leave behind all the things form the past you're still dragging around.
 
 *Page 130*  
@@ -177,7 +177,7 @@ These are phrases I personally like from the book:
 *Page 183*    
 &nbsp;&nbsp;&nbsp;&nbsp;I hated the version of me that I saw. Vulnerable. Frail. Gullible.     
 &nbsp;&nbsp;&nbsp;&nbsp;But the only one putting those labels on me was **me.**    
-&nbsp;&nbsp;&nbsp;&nbsp;What I'm saying is that life keeps giving me opportunities to choose freedom &mdash; **to love myself as I am: human, imperfect, and whole.** So I forgave muself, releaseing them so I can release me.
+&nbsp;&nbsp;&nbsp;&nbsp;What I'm saying is that life keeps giving me opportunities to choose freedom &mdash; **to love myself as I am: human, imperfect, and whole.** So I forgave myself, releaseing them so I can release me.
 
 *Page 185*   
 &nbsp;&nbsp;&nbsp;&nbsp;... that while Mengele had all the power, while day after day he chose with his grotesquely wagging finger who would live and who would die, he was morea prisoner than I was.    
