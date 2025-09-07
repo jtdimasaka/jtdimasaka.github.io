@@ -17,9 +17,9 @@ Joshua
 
 ## Talaan
 
- 1. [Ang Banig ng Pagkapayak](#i.-ang-banig-ng-pagkapayak)
- 2. [Isang Matematikang Aklat sa Basurahan](#ii.-isang-matematikang-aklat-sa-basurahan)
- 3. [Hanggang dito na muna ...](#iii.-hanggang-dito-na-muna...)
+ 1. [Ang Banig ng Pagkapayak](https://www.joshuadimasaka.com/bio/#iii.-hanggang-dito-na-muna...:~:text=I.%20Ang%20Banig%20ng%20Pagkapayak)
+ 2. [Isang Matematikang Aklat sa Basurahan](https://www.joshuadimasaka.com/bio/#iii.-hanggang-dito-na-muna...:~:text=II.%20Isang%20Matematikang%20Aklat%20sa%20Basurahan)
+ 3. [Hanggang dito na muna ...](https://www.joshuadimasaka.com/bio/#iii.-hanggang-dito-na-muna...:~:text=III.%20Hanggang%20dito%20na%20muna%20%E2%80%A6)
 
 
 ## I. Ang Banig ng Pagkapayak
