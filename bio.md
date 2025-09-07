@@ -44,4 +44,4 @@ Gayunpaman, hindi ko masasabi na ang pagkamit ng mataas na grado ang natatanging
 
 ## III. Hanggang dito na muna ...
 
-Ako ay taos-pusong nagpapasalamat sa iyong pag-abot sa dulo ng pahinang ito. Nawa'y nagbigay ng lalim sa likod ng aking propesyonal na aktibidad. Bukas ang aking komunikasyon sa inyong repleksyon, maiksi man o mahaba: dimasakajoshua@gmail.com.
+Ako ay taos-pusong nagpapasalamat sa iyong pag-abot sa dulo ng pahinang ito. Nawa'y nagbigay ito ng lalim sa likod ng aking propesyonal na aktibidad. Bukas ang aking komunikasyon sa inyong repleksyon, maiksi man o mahaba: [dimasakajoshua@gmail.com](#mailto:dimasakajoshua@gmail.com)
