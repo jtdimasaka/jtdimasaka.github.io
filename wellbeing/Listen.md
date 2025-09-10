@@ -25,7 +25,7 @@ Joshua
 ## Opening the Box
 
 *Page 27. Listening to Understand*  
-&nbsp;&nbsp;&nbsp;&nbsp;In the rush of daily life, we consume information without taking a lot of it in. We have to, or we would be overwhelmed: radio, TV, social media, family, friends, colleagues, clients, phone calls, text messages, emails, conversations &mdash; we are bombarded by `'ommunications', yet it's rare that we feel we are truly communicating.
+&nbsp;&nbsp;&nbsp;&nbsp;In the rush of daily life, we consume information without taking a lot of it in. We have to, or we would be overwhelmed: radio, TV, social media, family, friends, colleagues, clients, phone calls, text messages, emails, conversations &mdash; we are bombarded by 'communications', yet it's rare that we feel we are truly communicating.
 
 *Page 37. On Tenderness*  
 &nbsp;&nbsp;&nbsp;&nbsp;'Courageous conversations', 'challenging conversations', 'difficult conversations' all evoke a self-defence response that is the very oppositve of the 'I'm here for you' mindset that these [sensitive] conversations requires. 'Tender' acknowledges the presence of pain not as something to be overcome, but as an experience to be held with sensitivity and respect.
