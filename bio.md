@@ -10,7 +10,7 @@ Maraming salamat sa pagbisita,
 
 Ito ay isang maiksing sanaysay, isang talambuhay, na aking bukas na ibabahagi na minabuti kong ilathala sa wikang Filipino. Ang layunin ng pahinang ito ay maging sisidlan ng inspirasyon ang aking mga ibabahaging kwento, nang sa gayon, hindi manatiling malalim na palaisipan ang aking tinahak na daan patungo sa kasalukuyang pribilehiyong tinatamasa. Kung dili man, nawa'y magbigay ng isang makabuluhang perspektibo at paalala ng realidad ng isang Pilipino sa mga liblib na pook na hindi kadalasang natitingkaran ng liwanag ng kaunlaran ng mga lungsod.
 
-Aminado ako. Ilang beses ko rin pinag-isipan kung ibabahagi ko ang pahinang ito dahil sa mga naranasang pangungutya ng mga materyalistikong taga-syudad na ang aming pagsisikap diumano ay nagbunga lamang raw dahil sa aming nakaaawang kalagayan bilang mahirap na Pilipino. Bagkus, ang pahinang ito, na puno man ng realidad ng aming kahinaan para sa ilan, ay **isang salamin ng aming katotohanan at isang binhi ng aming kalakasan**.
+Aminado ako. Ilang beses ko rin pinag-isipan kung ibabahagi ko ang pahinang ito dahil sa mga naranasang pangungutya ng mga materyalistikong taga-syudad na ang aming pagsisikap diumano ay nagbunga lamang daw dahil sa aming nakaaawang kalagayan bilang mahirap na Pilipino. Bagkus, ang pahinang ito, na puno man ng realidad ng aming kahinaan para sa ilan, ay **isang salamin ng aming katotohanan at isang binhi ng aming kalakasan**.
 
 Hinihiling ko ang inyong mapayapang pagbabasa,  
 Joshua
