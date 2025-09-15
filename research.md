@@ -15,14 +15,6 @@ In 2022, he joined the [UKRI EPSRC Centre for Doctoral Training in the Applicati
 <h2>Publications</h2>
 <ul>
 	<li>
-		<b>"GraphCSVAE: Graph Categorical Structured Variational Autoencoder for Spatiotemporal Auditing of Physical Vulnerability Towards Sustainable Post-Disaster Risk Reduction"</b><br>
-		<i>
-			<u>Dimasaka, J.,</u> 
-			Geiss, C., Muir-Wood, R., and
-			So, E.</i><br>
-		Manuscript - In Preparation, 2025<br>
-	</li>
-	<li>
 		<b>"GraphVSSM: Graph Variational State-Space Model for Probabilistic Spatiotemporal Inference of Dynamic Exposure and Vulnerability for Regional Disaster Resilience Assessment"</b><br>
 		<i>
 			<u>Dimasaka, J.,</u> 
@@ -163,6 +155,17 @@ In 2022, he joined the [UKRI EPSRC Centre for Doctoral Training in the Applicati
 
 <h2>Conference Proceedings</h2>
 <ul>
+	<li>
+		<b>"GraphCSVAE: Graph Categorical Structured Variational Autoencoder for Spatiotemporal Auditing of Physical Vulnerability Towards Sustainable Post-Disaster Risk Reduction"</b><br>
+		<i>
+			<u>Dimasaka, J.,</u> 
+			Geiss, C., Muir-Wood, R., and
+			So, E.</i><br>
+		8th International Disaster and Risk Conference (IDRC 2025) - AI, Emerging Tech & Immersive Solutions for Disaster & Emergency Response<br>
+		<a href="https://arxiv.org/pdf/2509.10308">
+			<div class="color-button">arXiv</div>
+		</a>
+	</li>
 	<li>
 		<b>"A Data-Driven Probabilistic Approach to Regional Dynamics of Building Exposure and Physical Vulnerability Towards Global Disaster Risk Quantification Audit"</b><br>
 		<i>
