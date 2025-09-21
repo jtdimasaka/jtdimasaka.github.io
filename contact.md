@@ -4,7 +4,7 @@ title: Get in touch
 permalink: /contact/
 ---
 
-*Maraming salamat sa pagbisita!*
+<!-- *Maraming salamat sa pagbisita!*
 
 If you are interested to know more about the following topics, feel free to send a message (in Filipino or English) to my email - [**jtd33@cam.ac.uk**](mailto:jtd33@cam.ac.uk).
 
@@ -14,4 +14,4 @@ If you are interested to know more about the following topics, feel free to send
 
 - **[Professional Consulting]** With diverse technical understanding of civil engineering (BS, MS), public policy (MA), business (Executive Education), and data science (MRes), I sometimes accept job opportunities (e.g., summer internships or extended part-time consulting). You may check my previous projects on my CV or LinkedIn, and send me an email to discuss any potential consulting projects.
 
-- **[Q&A re: Stanford Knight-Hennessy Scholarship]** As an admission ambassador, I can answer your questions or inquiries (especially, if it's not clearly explained on our website). I highly recommend checking our [Events Page](https://apply.knight-hennessy.stanford.edu/portal/admission-events) for various opportunities to engage with our admission team and scholars (*I sometimes join when/if I'm free*).
+- **[Q&A re: Stanford Knight-Hennessy Scholarship]** As an admission ambassador, I can answer your questions or inquiries (especially, if it's not clearly explained on our website). I highly recommend checking our [Events Page](https://apply.knight-hennessy.stanford.edu/portal/admission-events) for various opportunities to engage with our admission team and scholars (*I sometimes join when/if I'm free*). -->
