@@ -169,7 +169,7 @@ title: Dimasaka Wood Carvings
     <figcaption>Kapit-bisig <i>(Working Together)</i><br>₱ 45,000 | $ 800 | £ 600 | € 700<br>Available</figcaption>
   </div>
 
-  <div class="carousel-item">
+  <!-- <div class="carousel-item">
     <div class="carousel-strip">
       <img src="/images/dimasakawoodcarvings/07_koprahan/4.jpg" alt="1a">
       <img src="/images/dimasakawoodcarvings/07_koprahan/5.jpg" alt="1b">
@@ -194,6 +194,6 @@ title: Dimasaka Wood Carvings
       <img src="/images/dimasakawoodcarvings/09_barriofiesta/3.jpg" alt="1c">
     </div>
     <figcaption>Barrio Fiesta <i>(Neighborhood Festival)</i><br>₱ 75,000 | $ 1,350 | £ 1,000 | € 1,170<br>Sold but can be requested</figcaption>
-  </div> 
+  </div>  -->
 
 </div>
