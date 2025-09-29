@@ -10,7 +10,7 @@ title: Loreto Rivera Dimasaka Wood Carvings
     <dt><a href="/images/papa.jpg"><img class="" src="/images/papa.jpg"/></a></dt>
 </dl> -->
 
-We are selling my father’s hand-made wood carvings (crafting since 1974) to help fund his brain aneurysm surgery, which is far beyond our means. Prices listed are minimums, but if you’d like to give more out of kindness, it would mean the world to us. 💙 For inquiries or offers, please email me at <a href="mailto:dimasakajoshua@gmail.com">dimasakajoshua@gmail.com</a>.
+<p style="margin-bottom: 30px;">We are selling the hand-made wood carvings (crafting since 1974) of our father (originally from the small town of Paete, Laguna, or the Carving Capital of the Philippines) to help fund his brain aneurysm surgery, which is far beyond our means. Prices listed are minimums, but if you’d like to give more out of kindness, it would mean the world to us. 💙 For inquiries or offers, please email me at <a href="mailto:dimasakajoshua@gmail.com">dimasakajoshua@gmail.com</a>.</p>
 
 <br><br>
 
