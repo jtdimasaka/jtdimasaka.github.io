@@ -6,9 +6,9 @@ title: Loreto Rivera Dimasaka Wood Carvings
 
 <div class="home">
 
-<dl id="" class="wp-caption alignright" style="max-width: 100px">
+<!-- <dl id="" class="wp-caption alignright" style="max-width: 200px">
     <dt><a href="/images/papa.jpg"><img class="" src="/images/papa.jpg"/></a></dt>
-</dl>
+</dl> -->
 
 We are selling my father’s hand-made wood carvings (crafting since 1974) to help fund his brain aneurysm surgery, which is far beyond our means. Prices listed are minimums, but if you’d like to give more out of kindness, it would mean the world to us. 💙 For inquiries or offers, please email me at <a href="mailto:dimasakajoshua@gmail.com">dimasakajoshua@gmail.com</a> through any of following payment channels <a href="https://www.joshuadimasaka.com/donationdrive/">here</a>.
 
