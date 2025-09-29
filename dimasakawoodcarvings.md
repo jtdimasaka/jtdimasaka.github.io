@@ -10,7 +10,9 @@ title: Loreto Rivera Dimasaka Wood Carvings
     <dt><a href="/images/papa.jpg"><img class="" src="/images/papa.jpg"/></a></dt>
 </dl> -->
 
-We are selling my father’s hand-made wood carvings (crafting since 1974) to help fund his brain aneurysm surgery, which is far beyond our means. Prices listed are minimums, but if you’d like to give more out of kindness, it would mean the world to us. 💙 For inquiries or offers, please email me at <a href="mailto:dimasakajoshua@gmail.com">dimasakajoshua@gmail.com</a> through any of following payment channels <a href="https://www.joshuadimasaka.com/donationdrive/">here</a>.
+We are selling my father’s hand-made wood carvings (crafting since 1974) to help fund his brain aneurysm surgery, which is far beyond our means. Prices listed are minimums, but if you’d like to give more out of kindness, it would mean the world to us. 💙 For inquiries or offers, please email me at <a href="mailto:dimasakajoshua@gmail.com">dimasakajoshua@gmail.com</a>.
+
+<br><br>
 
 <style>
   .gallery-grid {
@@ -99,7 +101,7 @@ We are selling my father’s hand-made wood carvings (crafting since 1974) to he
       <img src="/images/dimasakawoodcarvings/01_pagdiriwang/15.jpg" alt="1f">
       <img src="/images/dimasakawoodcarvings/01_pagdiriwang/16.gif" alt="1g">
     </div>
-    <figcaption>Pagdiriwang <i>(Festival Celebration)</i><br>₱ 65,000 | $ 1,150 | £ 870 | € 1,010<br>Available</figcaption>
+    <figcaption>Pagdiriwang <i>(Festival Celebration)</i><br>₱ 115,000 | $ 2,000 | £ 1,480 | € 1,800<br>Available</figcaption>
   </div>
 
   <div class="carousel-item">
@@ -112,7 +114,7 @@ We are selling my father’s hand-made wood carvings (crafting since 1974) to he
       <img src="/images/dimasakawoodcarvings/02_niyugan/22.jpg" alt="1f">
       <img src="/images/dimasakawoodcarvings/02_niyugan/23.gif" alt="1g">
     </div>
-    <figcaption>Niyugan <i>(Coconut Plantation)</i><br>₱ 65,000 | $ 1,150 | £ 870 | € 1,010<br>Available</figcaption>
+    <figcaption>Niyugan <i>(Coconut Plantation)</i><br>₱ 115,000 | $ 2,000 | £ 1,480 | € 1,800<br>Available</figcaption>
   </div>
 
   <div class="carousel-item">
@@ -125,7 +127,7 @@ We are selling my father’s hand-made wood carvings (crafting since 1974) to he
       <img src="/images/dimasakawoodcarvings/03_palayan1/29.jpg" alt="1f">
       <img src="/images/dimasakawoodcarvings/03_palayan1/30.gif" alt="1g">
     </div>
-    <figcaption>Palayan 1 <i>(Rice Farm)</i><br>₱ 45,000 | $ 800 | £ 600 | € 700<br>Available</figcaption>
+    <figcaption>Palayan 1 <i>(Rice Farm)</i><br>₱ 87,000 | $ 1,500 | £ 1,110 | € 1,275<br>Available</figcaption>
   </div>
 
   <div class="carousel-item">
@@ -138,7 +140,7 @@ We are selling my father’s hand-made wood carvings (crafting since 1974) to he
       <img src="/images/dimasakawoodcarvings/04_palayan2/36.jpg" alt="1f">
       <img src="/images/dimasakawoodcarvings/04_palayan2/37.gif" alt="1f">
     </div>
-    <figcaption>Palayan 2 <i>(Rice Farm)</i><br>₱ 45,000 | $ 800 | £ 600 | € 700<br>Available</figcaption>
+    <figcaption>Palayan 2 <i>(Rice Farm)</i><br>₱ 87,000 | $ 1,500 | £ 1,110 | € 1,275<br>Available</figcaption>
   </div>
 
   <div class="carousel-item">
@@ -151,7 +153,7 @@ We are selling my father’s hand-made wood carvings (crafting since 1974) to he
       <img src="/images/dimasakawoodcarvings/05_pamamangka/43.jpg" alt="1f">
       <img src="/images/dimasakawoodcarvings/05_pamamangka/44.gif" alt="1g">
     </div>
-    <figcaption>Pamamangka <i>(Boating)</i><br>₱ 45,000 | $ 800 | £ 600 | € 700<br>Available</figcaption>
+    <figcaption>Pamamangka <i>(Boating)</i><br>₱ 87,000 | $ 1,500 | £ 1,110 | € 1,275<br>Available</figcaption>
   </div>
 
   <div class="carousel-item">
@@ -164,7 +166,7 @@ We are selling my father’s hand-made wood carvings (crafting since 1974) to he
       <img src="/images/dimasakawoodcarvings/06_kapitbisig/50.jpg" alt="1f">
       <img src="/images/dimasakawoodcarvings/06_kapitbisig/51.gif" alt="1g">
     </div>
-    <figcaption>Kapit-bisig <i>(Working Together)</i><br>₱ 45,000 | $ 800 | £ 600 | € 700<br>Available</figcaption>
+    <figcaption>Kapit-bisig <i>(Working Together)</i><br>₱ 87,000 | $ 1,500 | £ 1,110 | € 1,275<br>Available</figcaption>
   </div>
 
   <!-- <div class="carousel-item">
