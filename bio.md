@@ -24,6 +24,10 @@ Joshua
 
 ## I. Ang Banig ng Pagkapayak
 
+<dl id="" class="wp-caption alignright" style="max-height: 200px">
+    <dt><a href="/images/banig.jpg"><img class="" src="/images/banig.jpg"/></a></dt>
+</dl>
+
 Sa munting bayan ng Paete sa Laguna. Habang nakaharap sa bundok ng Sierra Madre, dudungaw sa bintana ng aming tahanan, at sasalubungin ang sikat ng araw at kaulapan sa silangan. Dadako pakanluran upang bagtasin ang daang patungo sa palengke at paaralan sa tabi ng ilog, patungo sa parkeng bahagi ng lawa ng Laguna, habang binibilang ang hakbang patungo sa simbahan, sa palaisdaan, sa mga bangka, sa palayan, sa plaza, sa patio, sa kabundukan, at sa silid-aralan. Ito ang mga masasaya at makukulay na imaheng laging nakatatak at nakaukit buhat mula pagkamusmos. Isang payak na kinalakihan, hindi materyalistikong simula, puno ng maka-Pilipinong paglingap at magiliw na pagbati ng "Magandang Umaga po, Mam, Sir, Kuya, o Ate" kahit kaninoman.
 
 Ika-21 ng Agosto 1997 nang ako ay pinagbuksan ng pinto ng daigdig. Hindi sa magarbong pagamutan, kundi sa isang banig sa sahig ng aming tahanan sa tabi ng kalsada (*informal settlement*), kasama ang mabait na komadrona (Liza Madridejos) ng aming bayan. Sa pag-aaruga ng napakasipag na haligi (Loreto Rivera Dimasaka) na isang tricycle driver kahit pagmamay-ari ng iba ang inalalabas na tricycle at hindi nakapagtapos ng elementarya dahil sa kahirapan, at ng mapagmahal na ilaw (Elizabeth Valenzuela Tabor) na kinayod ang pag-aaral niya at ng kanyang mga kapatid bilang isang katulong at tagapagluto, subalit naabuso, ibinenta, hindi pinasweldo, at ipinakulong para makatakas sa lupit sa gitnang silangang Asya bilang isang *domestic helper*. Ito naman ang ilan sa aming malulungkot na pahina na laging nagpapaalala ng halaga ng kasipagan, determinasyon, at pagpupursigi, anumang antas at katayuan sa lipunan.
