@@ -24,7 +24,7 @@ Joshua
 
 ## I. Ang Banig ng Pagkapayak
 
-<dl id="" class="wp-caption alignright" style="max-height: 200px">
+<dl id="" class="wp-caption alignright" style="max-width: 400px">
     <dt><a href="/images/banig.jpg"><img class="" src="/images/banig.jpg"/></a></dt>
 </dl>
 
