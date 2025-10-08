@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /donationdrive/
-title: Donation Drive for my Father's Endovascular Coiling Surgery for His Four Brain Aneurysms 
+title: Donation Drive for my Father's Bilateral Cerebral Aneurysm and Death
 ---
 
 # 1. International
