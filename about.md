@@ -1,19 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Bio
+permalink: /bio/
 ---
 
-{% include image.html url="/images/profile.jpg" width=300 align="right" %}
-
-Postgraduate Researcher
-MRes+PhD in AI for the study of Environmental Risks (AI4ER)
-Department of Earth Sciences, University of Cambridge
-Drum Building, Madingley Road, Cambridge, CB3 0EZ, UK
-jtd33@cam.ac.uk [Twitter] [LinkedIn]
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. 
-
-Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga.
+<p>Joshua received his BS in Civil Engineering from the University of the Philippines Los Baños, MS in Civil & Environmental Engineering and MA in Public Policy as the <a href="https://knight-hennessy.stanford.edu/people/joshua-dimasaka">first Filipino Knight-Hennessy Scholar</a> at Stanford University, Executive Education in Entrepreneurship and Innovation at Stanford Graduate School of Business, and MRes in Environmental Data Science at the University of Cambridge. He worked for Stanford Land, Buildings & Real Estate as an earthquake risk consulting assistant to <a href="https://emi-megacities.org/about-us#:~:text=Dr.%20Fouad%20Bendimerad,Chairman">Dr. Eng. Fouad Bendimerad</a> and the local government of Quezon City (Philippines) as an <a href="https://emi-megacities.org/projects#qccdra">EMI Urban Resilience Fellow</a> to support data-driven policies to manage earthquake risks of over 400,000 buildings. He also worked with US Geological Survey <a href="https://www.nature.com/articles/s41467-022-35418-8">to use machine learning and causal inference on NASA satellite imagery products to improve PAGER, a global real-time earthquake hazard and loss estimation system</a>.</p>
