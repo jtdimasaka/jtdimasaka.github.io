@@ -20,7 +20,7 @@ In 2022, he joined the [UKRI EPSRC Centre for Doctoral Training in the Applicati
 			<u>Dimasaka, J.,</u> 
 			Geiss, C., and
 			So, E.</i><br>
-		Submitted - Under Review, 2025<br>
+		Under Review for ISPRS Journal of Photogrammetry and Remote Sensing - 2026<br>
 		<a href="https://doi.org/10.48550/arXiv.2507.22554">
 			<div class="color-button">preprint</div>
 		</a>
