@@ -15,12 +15,34 @@ In 2022, he joined the [UKRI EPSRC Centre for Doctoral Training in the Applicati
 <h2>Publications</h2>
 <ul>
 	<li>
+		<b>"GraphVSSM: Graph Variational State-Space Model for Probabilistic Spatiotemporal Inference of Dynamic Exposure and Vulnerability for Regional Disaster Resilience Assessment"</b><br>
+		<i>
+			<u>Dimasaka, J.,</u> 
+			Geiss, C., and
+			So, E.</i><br>
+		Proceedings of the Special Track on AI for Social Impact (AISI) at the 40th AAAI Conference on Artificial Intelligence (AAAI), 2026 (Accepted)<br>
+		<a href="https://doi.org/10.48550/arXiv.2508.01310">
+			<div class="color-button">arXiv</div>
+		</a>
+	</li>
+	<li>
+		<b>"GraphCSVAE: Graph Categorical Structured Variational Autoencoder for Spatiotemporal Auditing of Physical Vulnerability Towards Sustainable Post-Disaster Risk Reduction"</b><br>
+		<i>
+			<u>Dimasaka, J.,</u> 
+			Geiss, C., Muir-Wood, R., and
+			So, E.</i><br>
+		Progress in Disaster Science, 2026 (Invited), 8th International Disaster and Risk Conference (IDRC 2025) - AI, Emerging Tech & Immersive Solutions for Disaster & Emergency Response (Best Overall Conference Paper Award)<br>
+		<a href="https://arxiv.org/pdf/2509.10308">
+			<div class="color-button">arXiv</div>
+		</a>
+	</li>
+	<li>
 		<b>"DeepC4: Deep Conditional Census-Constrained Clustering for Large-scale Multitask Disaggregation of Urban Morphology"</b><br>
 		<i>
 			<u>Dimasaka, J.,</u> 
 			Geiss, C., and
 			So, E.</i><br>
-		Under Review for ISPRS Journal of Photogrammetry and Remote Sensing - 2026<br>
+		ISPRS Journal of Photogrammetry and Remote Sensing, 2026 (Under Review)<br>
 		<a href="https://doi.org/10.48550/arXiv.2507.22554">
 			<div class="color-button">preprint</div>
 		</a>
@@ -144,28 +166,6 @@ In 2022, he joined the [UKRI EPSRC Centre for Doctoral Training in the Applicati
 
 <h2>Conference Proceedings</h2>
 <ul>
-	<li>
-		<b>"GraphVSSM: Graph Variational State-Space Model for Probabilistic Spatiotemporal Inference of Dynamic Exposure and Vulnerability for Regional Disaster Resilience Assessment"</b><br>
-		<i>
-			<u>Dimasaka, J.,</u> 
-			Geiss, C., and
-			So, E.</i><br>
-		Special Track on AI for Social Impact at the 40th AAAI Conference on Artificial Intelligence (AAAI)<br>
-		<a href="https://doi.org/10.48550/arXiv.2508.01310">
-			<div class="color-button">arXiv</div>
-		</a>
-	</li>
-	<li>
-		<b>"GraphCSVAE: Graph Categorical Structured Variational Autoencoder for Spatiotemporal Auditing of Physical Vulnerability Towards Sustainable Post-Disaster Risk Reduction"</b><br>
-		<i>
-			<u>Dimasaka, J.,</u> 
-			Geiss, C., Muir-Wood, R., and
-			So, E.</i><br>
-		8th International Disaster and Risk Conference (IDRC 2025) - AI, Emerging Tech & Immersive Solutions for Disaster & Emergency Response<br>
-		<a href="https://arxiv.org/pdf/2509.10308">
-			<div class="color-button">arXiv</div>
-		</a>
-	</li>
 	<li>
 		<b>"A Data-Driven Probabilistic Approach to Regional Dynamics of Building Exposure and Physical Vulnerability Towards Global Disaster Risk Quantification Audit"</b><br>
 		<i>
