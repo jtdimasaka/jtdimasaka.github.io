@@ -167,6 +167,17 @@ In 2022, he joined the [UKRI EPSRC Centre for Doctoral Training in the Applicati
 <h2>Conference Proceedings</h2>
 <ul>
 	<li>
+		<b>"Modernizing Quezon City’s Building Risk Data with AI and Earth Observation"</b><br>
+		<i>
+			<u>Dimasaka, J.,</u> 
+			Bendimerad, F., Tanhueco, R., Geiss, C. and
+			So, E.</i><br>
+		20th Association of Pacific Rim Universities Multi-hazards Conference and Symposium (APRU-MH20)<br>
+		<a href="https://apru-mh20.upd.edu.ph/">
+			<div class="color-button">event</div>
+		</a>
+	</li>
+	<li>
 		<b>"A Data-Driven Probabilistic Approach to Regional Dynamics of Building Exposure and Physical Vulnerability Towards Global Disaster Risk Quantification Audit"</b><br>
 		<i>
 			<u>Dimasaka, J.,</u> 
