@@ -176,6 +176,9 @@ In 2022, he joined the [UKRI EPSRC Centre for Doctoral Training in the Applicati
 		<a href="https://apru-mh20.upd.edu.ph/">
 			<div class="color-button">event</div>
 		</a>
+		<a href="https://youtu.be/mwR8xY6fvBo">
+			<div class="color-button">YouTube</div>
+		</a>
 	</li>
 	<li>
 		<b>"A Data-Driven Probabilistic Approach to Regional Dynamics of Building Exposure and Physical Vulnerability Towards Global Disaster Risk Quantification Audit"</b><br>
@@ -226,6 +229,9 @@ In 2022, he joined the [UKRI EPSRC Centre for Doctoral Training in the Applicati
 		</a>
 		<a href="https://github.com/riskaudit/OpenSendaiBench">
 			<div class="color-button">GitHub</div>
+		</a>
+		<a href="https://youtu.be/N6ithJeCF4M">
+			<div class="color-button">YouTube</div>
 		</a>
 	</li>	
 	<li>
