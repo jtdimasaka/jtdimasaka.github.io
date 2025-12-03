@@ -31,7 +31,7 @@ In 2022, he joined the [UKRI EPSRC Centre for Doctoral Training in the Applicati
 			<u>Dimasaka, J.,</u> 
 			Geiss, C., Muir-Wood, R., and
 			So, E.</i><br>
-		Progress in Disaster Science, 2026 (Invited, for Submission), 8th International Disaster and Risk Conference (IDRC 2025) - AI, Emerging Tech & Immersive Solutions for Disaster & Emergency Response (Best Overall Conference Paper Award)<br>
+		Progress in Disaster Science, 2026 (Under Review), 8th International Disaster and Risk Conference (IDRC 2025) - AI, Emerging Tech & Immersive Solutions for Disaster & Emergency Response (Best Overall Conference Paper Award)<br>
 		<a href="https://arxiv.org/pdf/2509.10308">
 			<div class="color-button">arXiv</div>
 		</a>
