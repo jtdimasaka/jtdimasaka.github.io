@@ -173,8 +173,8 @@ In 2022, he joined the [UKRI EPSRC Centre for Doctoral Training in the Applicati
 			Bendimerad, F., Tanhueco, R., Geiss, C. and
 			So, E.</i><br>
 		20th Association of Pacific Rim Universities Multi-hazards Conference and Symposium (APRU-MH20)<br>
-		<a href="https://apru-mh20.upd.edu.ph/">
-			<div class="color-button">event</div>
+		<a href="https://apru-mh20.upd.edu.ph/%5BFINAL%5D_APRU-MH20_Program_and_Proceedings_as_of_Dec_30.pdf">
+			<div class="color-button">Proceedings</div>
 		</a>
 		<a href="https://youtu.be/mwR8xY6fvBo">
 			<div class="color-button">YouTube</div>
