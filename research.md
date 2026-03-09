@@ -196,7 +196,7 @@ In 2022, he joined the [UKRI EPSRC Centre for Doctoral Training in the Applicati
 			Bendimerad, F., Tanhueco, R., Muir-Wood, R., Geiss, C. and
 			So, E.</i><br>
 		AGU Annual Meeting 2025, NH033 - Progress, Ethics and Accuracy in Building Stock Attribution<br>
-		<a href="https://agu.confex.com/agu/agu25/prelim.cgi/Paper/1944928">
+		<a href="https://agu.confex.com/agu/agu25/meetingapp.cgi/Paper/1944928">
 			<div class="color-button">link</div>
 		</a>
 		<a href="https://agu25.ipostersessions.com/Default.aspx?s=6A-FB-77-02-41-46-F2-5D-22-20-BA-6F-18-B2-D1-00">
