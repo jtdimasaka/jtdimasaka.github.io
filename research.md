@@ -176,6 +176,28 @@ In 2022, he joined the [UKRI EPSRC Centre for Doctoral Training in the Applicati
 <h2>Conference Proceedings</h2>
 <ul>
 	<li>
+		<b>"Spatial Disaggregation and Temporal Projection of Building Exposure and Physical Vulnerability using Deep Constrained Clustering and Probabilistic Graph Deep Learning"</b><br>
+		<i>
+			<u>Dimasaka, J.,</u> 
+			Geiss, C. and
+			So, E.</i><br>
+		GEM Conference: From Faults to Future Scenarios, Forecasting Exposure / Risk to 2065<br>
+		<a href="https://gemconference2026.globalquakemodel.org/event/1/program">
+			<div class="color-button">conference website</div>
+		</a>
+	</li>
+	<li>
+		<b>"METEOR 2.5D: An Open Geospatial Dataset of the Spatiotemporal Evolution of Physical Vulnerability in UN-recognized Least Developed Countries (as of 2020) at Five-year Intervals, 1975-2030"</b><br>
+		<i>
+			<u>Dimasaka, J.,</u> 
+			Geiss, C. and
+			So, E.</i><br>
+		EGU General Assembly 2026, Session NH6.7 – Exposure modeling for natural hazards – creation, analysis and application<br>
+		<a href="https://doi.org/10.5194/egusphere-egu26-1057">
+			<div class="color-button">abstract</div>
+		</a>
+	</li>
+	<li>
 		<b>"Modernizing Quezon City’s Building Risk Data with AI and Earth Observation"</b><br>
 		<i>
 			<u>Dimasaka, J.,</u> 
