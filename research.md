@@ -20,9 +20,9 @@ In 2022, he joined the [UKRI EPSRC Centre for Doctoral Training in the Applicati
 			<u>Dimasaka, J.,</u> 
 			Geiss, C., and
 			So, E.</i><br>
-		Proceedings of the Special Track on AI for Social Impact (AISI) at the 40th AAAI Conference on Artificial Intelligence (AAAI), 2026 (Accepted)<br>
+		Proceedings of the Special Track on AI for Social Impact (AISI) at the 40th AAAI Conference on Artificial Intelligence (AAAI), 2026<br>
 		<a href="https://doi.org/10.1609/aaai.v40i45.41178">
-			<div class="color-button">proceeding</div>
+			<div class="color-button">pdf</div>
 		</a>
 		<a href="https://github.com/riskaudit/GraphVSSM">
 			<div class="color-button">GitHub</div>
