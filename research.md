@@ -21,17 +21,23 @@ In 2022, he joined the [UKRI EPSRC Centre for Doctoral Training in the Applicati
 			Geiss, C., and
 			So, E.</i><br>
 		Proceedings of the Special Track on AI for Social Impact (AISI) at the 40th AAAI Conference on Artificial Intelligence (AAAI), 2026 (Accepted)<br>
-		<a href="https://doi.org/10.48550/arXiv.2508.01310">
-			<div class="color-button">arXiv</div>
-		</a>
-		<a href="https://assets.underline.io/lecture/139079/paper/af906efa386bda11277e8ab47d56b4c7.pdf?Expires=1769498031&Signature=mnRX6NwJ4YX9MqUCMoHPYmvAXVIqqAEGq9e25CPjA84CJByLJt-omB1RX01ifgnuf2QU9XnEhAn1g2lJP3oXlVSrcNECf~8SqgAHPOLn8aPXH5wSEfDrFSSAYibLXjXYu-NdJHRAHpJTg6J7P9y6Uo7~ROvX4DhEqfgtKTXZ8y2hl2hBtf9zpqoNkKL8-TYVdP-AFJ7ptaoNfp0IS5iKwJfWN9o7al7yx5kZoidP~FDiQyWV8O5DIEZj6a1Rd4BKBpGXY-LiWhwA1XJNkcPm-eiluz8qLbmfF3ds-SEN07Dx63JiBST76XOs2TzqlmVqzt3I4Vz~36jZEfbjdsMnvw__&Key-Pair-Id=K2CNXR0DE4O7J0">
+		<a href="https://doi.org/10.1609/aaai.v40i45.41178">
 			<div class="color-button">proceeding</div>
 		</a>
-		<a href="https://underline.io/events/501/sessions/21650/lecture/139079-dashtextbfgraphvssm-graph-variational-state-space-model-for-probabilistic-spatiotemporal-inference-of-dynamic-exposure-and-vulnerability-for-regional-disaster-resilience-assessment">
-			<div class="color-button">Underline page</div>
+		<a href="https://github.com/riskaudit/GraphVSSM">
+			<div class="color-button">GitHub</div>
 		</a>
-		<a href="https://us06web.zoom.us/rec/share/q-NqMbZBqLaRGdptsJjXTlrVhIhPylKc5OKe2zoUJLc35MTEi8-kERjDp1-A7diy.ctvTEJNnNMvbb0xQ?startTime=1769130391000">
-			<div class="color-button">Zoom Recording (Underline)</div>
+		<a href="https://doi.org/pzj2">
+			<div class="color-button">Quezon City (Philippines) Dataset</div>
+		</a>
+		<a href="https://doi.org/pzq4">
+			<div class="color-button">METEOR 2.5D Dataset, Part 1/2</div>
+		</a>
+		<a href="https://doi.org/pzrd">
+			<div class="color-button">METEOR 2.5D Dataset, Part 2/2</div>
+		</a>
+		<a href="https://doi.org/pzkw">
+			<div class="color-button">Khurushkul-Freetown Dataset</div>
 		</a>
 	</li>
 	<li>
