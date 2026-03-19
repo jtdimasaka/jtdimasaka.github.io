@@ -28,16 +28,16 @@ In 2022, he joined the [UKRI EPSRC Centre for Doctoral Training in the Applicati
 			<div class="color-button">GitHub</div>
 		</a>
 		<a href="https://doi.org/pzj2">
-			<div class="color-button">Quezon City (Philippines) Dataset</div>
+			<div class="color-button">QC (PHL) Data</div>
 		</a>
 		<a href="https://doi.org/pzq4">
-			<div class="color-button">METEOR 2.5D Dataset, Part 1/2</div>
+			<div class="color-button">METEOR2.5D Data (1/2)</div>
 		</a>
 		<a href="https://doi.org/pzrd">
-			<div class="color-button">METEOR 2.5D Dataset, Part 2/2</div>
+			<div class="color-button">METEOR2.5D Data (2/2)</div>
 		</a>
 		<a href="https://doi.org/pzkw">
-			<div class="color-button">Khurushkul-Freetown Dataset</div>
+			<div class="color-button">BGD-SLE Data</div>
 		</a>
 	</li>
 	<li>
