@@ -155,6 +155,8 @@ In 2022, he joined the [UKRI EPSRC Centre for Doctoral Training in the Applicati
 			<div class="color-button">Web Map</div>
 		</a>
 	</li>
+</ul>
+<ul>
 	<li>
 		<b>"PRJ-3858: M7.8 Turkey-Syria Earthquake Impact Estimates from Near-real-time Crowdsourced and Remote Sensing Data"</b><br>
 		<i>
@@ -171,6 +173,8 @@ In 2022, he joined the [UKRI EPSRC Centre for Doctoral Training in the Applicati
 			<div class="color-button">link to the report</div>
 		</a>
 	</li>
+</ul>
+<ul>
 	<li>
 		<b>"Risk Profile Atlas (RPA) and Hazard, Vulnerability and Risk Assessment (HVRA) of Quezon City Government, Philippines"</b><br>
 		<i>Earthquakes and Megacities Initiative</i><br>
@@ -196,6 +200,8 @@ In 2022, he joined the [UKRI EPSRC Centre for Doctoral Training in the Applicati
 			<div class="color-button">conference website</div>
 		</a>
 	</li>
+</ul>
+<ul>
 	<li>
 		<b>"METEOR 2.5D: An Open Geospatial Dataset of the Spatiotemporal Evolution of Physical Vulnerability in UN-recognized Least Developed Countries (as of 2020) at Five-year Intervals, 1975-2030"</b><br>
 		<i>
@@ -207,6 +213,8 @@ In 2022, he joined the [UKRI EPSRC Centre for Doctoral Training in the Applicati
 			<div class="color-button">abstract</div>
 		</a>
 	</li>
+</ul>
+<ul>
 	<li>
 		<b>"Modernizing Quezon City’s Building Risk Data with AI and Earth Observation"</b><br>
 		<i>
@@ -221,6 +229,8 @@ In 2022, he joined the [UKRI EPSRC Centre for Doctoral Training in the Applicati
 			<div class="color-button">YouTube</div>
 		</a>
 	</li>
+</ul>
+<ul>
 	<li>
 		<b>"A Data-Driven Probabilistic Approach to Regional Dynamics of Building Exposure and Physical Vulnerability Towards Global Disaster Risk Quantification Audit"</b><br>
 		<i>
@@ -238,6 +248,8 @@ In 2022, he joined the [UKRI EPSRC Centre for Doctoral Training in the Applicati
 			<div class="color-button">YouTube</div>
 		</a>
 	</li>
+</ul>
+<ul>
 	<li>
 		<b>"Spatial Disaggregation of Rwandan Building Exposure and Vulnerability via Weakly Supervised Conditional Census-Constrained Clustering (C4) using Earth Observation Data"</b><br>
 		<i>
@@ -258,6 +270,8 @@ In 2022, he joined the [UKRI EPSRC Centre for Doctoral Training in the Applicati
 			<div class="color-button">GitHub</div>
 		</a>
 	</li>
+</ul>
+<ul>
 	<li>
 		<b>"Global Mapping of Exposure and Physical Vulnerability Dynamics in Least Developed Countries using Remote Sensing and Machine Learning"</b><br>
 		<i>
@@ -281,6 +295,8 @@ In 2022, he joined the [UKRI EPSRC Centre for Doctoral Training in the Applicati
 			<div class="color-button">YouTube</div>
 		</a>
 	</li>	
+</ul>
+<ul>
 	<li>
 		<b>"Near-real-time Country-wide Estimation of Susceptibility and Settlement Exposure from Norwegian Mass Movements via Inter-graph Representation Learning"</b><br>
 		<i>
@@ -304,6 +320,8 @@ In 2022, he joined the [UKRI EPSRC Centre for Doctoral Training in the Applicati
 			<div class="color-button">GitHub</div>
 		</a>
 	</li>
+</ul>
+<ul>
 	<li>
 		<b>"Classifying Sea Ice in High-Resolution SAR Imagery Using Deep Learning"</b><br>
 		<i>
@@ -320,6 +338,8 @@ In 2022, he joined the [UKRI EPSRC Centre for Doctoral Training in the Applicati
 			<div class="color-button">abstract pdf</div>
 		</a>
 	</li>
+</ul>
+<ul>
 	<li>
 		<b>"Integrated Strategies for Enhanced Rapid Earthquake Shaking, Ground Failure, and Impact Estimation Employing Remotely Sensed and Ground Truth Constraints"</b><br>
 		<i>
@@ -344,6 +364,8 @@ In 2022, he joined the [UKRI EPSRC Centre for Doctoral Training in the Applicati
 			<div class="color-button">BibTeX</div>
 		</a>
 	</li>
+</ul>
+<ul>
 	<li>
 		<b>"Causality-Informed Bayesian Inference for Rapid Seismic Ground Failure and Building Damage Estimation"</b><br>
 		<i>
@@ -365,6 +387,8 @@ In 2022, he joined the [UKRI EPSRC Centre for Doctoral Training in the Applicati
 			<div class="color-button">BibTeX</div>
 		</a>
 	</li>
+</ul>
+<ul>
 	<li>
 		<b>"Enhanced Rapid Earthquake Ground Failure and Impact Estimates with Remotely Sensed and Ground Truth Constraints"</b><br>
 		<i>
@@ -385,6 +409,8 @@ In 2022, he joined the [UKRI EPSRC Centre for Doctoral Training in the Applicati
 			<div class="color-button">BibTeX</div>
 		</a>
 	</li>
+</ul>
+<ul>
 	<li>
 		<b>"Bayesian Updating of Seismic Ground Failure Estimations via Causal Graphical Models with Satellite Imagery"</b><br>
 		<i>
@@ -403,6 +429,8 @@ In 2022, he joined the [UKRI EPSRC Centre for Doctoral Training in the Applicati
 			<div class="color-button">BibTeX</div>
 		</a>
 	</li>
+</ul>
+<ul>
 	<li>
 		<b>"Fusing Damage Proxy Maps with Geospatial Models for Bayesian Updating of Seismic Ground Failure Estimations: A Case Study in Central Italy"</b><br>
 		<i>
@@ -421,6 +449,8 @@ In 2022, he joined the [UKRI EPSRC Centre for Doctoral Training in the Applicati
 			<div class="color-button">BibTeX</div>
 		</a>
 	</li>
+</ul>
+<ul>
 	<li>
 		<b>"Causal Graph-based Joint Estimation of Ground Failure and Building Damage from Geospatial Prior Models and Satellite Imagery"</b><br>
 		<i>
@@ -439,6 +469,8 @@ In 2022, he joined the [UKRI EPSRC Centre for Doctoral Training in the Applicati
 			<div class="color-button">BibTeX</div>
 		</a>
 	</li>
+</ul>
+<ul>
 	<li>
 		<b>"Improving Post-earthquake Disaster Response using Bayesian-Updated Ground Failure Models with Satellite Imagery"</b><br>
 		<i>
@@ -457,7 +489,9 @@ In 2022, he joined the [UKRI EPSRC Centre for Doctoral Training in the Applicati
 			<div class="color-button">BibTeX</div>
 		</a>
 	</li>
-		<li>
+</ul>
+<ul>
+	<li>
 		<b>"Fusing Damage Proxy Maps with Geospatial Models for Bayesian Updating of Seismic Ground Failure Estimations: A Case Study in Central Italy"</b><br>
 		<i>
 			Xu, S.,
@@ -469,6 +503,8 @@ In 2022, he joined the [UKRI EPSRC Centre for Doctoral Training in the Applicati
 			<div class="color-button">abstract pdf</div>
 		</a>
 	</li>
+</ul>
+<ul>
 	<li>
 		<b>"Effect of Amorphous Nanosilica Synthesized from Rice Hull Ash on the AC Conductivity of Simulated Cement Paste Matrix using Impedance Spectroscopy"</b><br>
 		<i>
@@ -486,6 +522,8 @@ In 2022, he joined the [UKRI EPSRC Centre for Doctoral Training in the Applicati
 			<div class="color-button">BibTeX</div>
 		</a>
 	</li>
+</ul>
+<ul>
 	<li>
 		<b>"Impedance Spectroscopy of Cement Paste Matrix Admixed with Amorphous Nanosilica Synthesized from Rice Hull Ash"</b><br>
 		<i>
@@ -521,6 +559,8 @@ In 2022, he joined the [UKRI EPSRC Centre for Doctoral Training in the Applicati
 			<div class="color-button">BibTeX</div>
 		</a>
 	</li>
+</ul>
+<ul>
 	<li>
 		<b>Low-Frequency Impedance Spectroscopy of Cement Paste Matrix Admixed with Amorphous Nanosilica Synthesized from Rice Hull Ash</b><br>
 		University of the Philippines Los Baños, December 2017<br>
