@@ -40,6 +40,8 @@ In 2022, he joined the [UKRI EPSRC Centre for Doctoral Training in the Applicati
 			<div class="color-button">BGD-SLE Data</div>
 		</a>
 	</li>
+</ul>
+<ul>
 	<li>
 		<b>"GraphCSVAE: Graph Categorical Structured Variational Autoencoder for Spatiotemporal Auditing of Physical Vulnerability Towards Sustainable Post-Disaster Risk Reduction"</b><br>
 		<i>
@@ -51,6 +53,8 @@ In 2022, he joined the [UKRI EPSRC Centre for Doctoral Training in the Applicati
 			<div class="color-button">arXiv</div>
 		</a>
 	</li>
+</ul>
+<ul>
 	<li>
 		<b>"DeepC4: Deep Conditional Census-Constrained Clustering for Large-scale Multitask Disaggregation of Urban Morphology"</b><br>
 		<i>
