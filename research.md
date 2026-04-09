@@ -14,6 +14,19 @@ In 2022, he joined the [UKRI EPSRC Centre for Doctoral Training in the Applicati
 
 <h2>Publications</h2>
 <ul>
+<ul>
+	<li>
+		<b>"Quantifying the Regional Dynamics and Redistribution of Physical Vulnerability in Least Developed Countries"</b><br>
+		<i>
+			<u>Dimasaka, J.,</u> 
+			Geiss, C., and
+			So, E.</i><br>
+		(for submission)<br>
+		<a href="https://doi.org/10.31223/X5ZJ44">
+			<div class="color-button">EarthArXiv</div>
+		</a>
+	</li>
+</ul>
 	<li>
 		<b>"GraphVSSM: Graph Variational State-Space Model for Probabilistic Spatiotemporal Inference of Dynamic Exposure and Vulnerability for Regional Disaster Resilience Assessment"</b><br>
 		<i>
