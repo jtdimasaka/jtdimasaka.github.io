@@ -13,7 +13,7 @@ In 2021, he served as a consulting assistant to [Dr. Eng. Fouad Bendimerad, (a S
 In 2022, he joined the [UKRI EPSRC Centre for Doctoral Training in the Application of Artificial Intelligence to the study of Environmental Risks (AI4ER)](https://ai4er-cdt.esc.cam.ac.uk/), [Integrated Multimodal Pattern Analysis for Climate Transformation (IMPACT)](https://civileng.eng.cam.ac.uk/), and [Cambridge University Centre for Risk in the Built Environment (CURBE)](https://www.arct.cam.ac.uk/research/the-martin-centre/risk) at the University of Cambridge to explore how AI can provide an improved understanding of the global resilience in response to intensifying effects of climate change and other natural hazards. -->
 
 <h2>Publications</h2>
-</ul>
+<ul>
 	<li>
 		<b>"Quantifying the Regional Dynamics and Redistribution of Physical Vulnerability in Least Developed Countries"</b><br>
 		<i>
@@ -26,7 +26,7 @@ In 2022, he joined the [UKRI EPSRC Centre for Doctoral Training in the Applicati
 		</a>
 	</li>
 </ul>
-</ul>
+<ul>
 	<li>
 		<b>"GraphVSSM: Graph Variational State-Space Model for Probabilistic Spatiotemporal Inference of Dynamic Exposure and Vulnerability for Regional Disaster Resilience Assessment"</b><br>
 		<i>
