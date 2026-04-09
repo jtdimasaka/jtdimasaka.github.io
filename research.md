@@ -203,6 +203,19 @@ In 2022, he joined the [UKRI EPSRC Centre for Doctoral Training in the Applicati
 <h2>Conference Proceedings</h2>
 <ul>
 	<li>
+		<b>"Analysis of Causal Drivers and Predictive Modelling of the Typhoon-Affected Population Rate in the Philippines"</b><br>
+		<i>
+			Dimasaka, L., 
+			<u>Dimasaka, J.</u> and
+			David, G.</i><br>
+		16th International Conference of the Integrated Disaster Risk Management (IDRiM) 2026, Bali, Indonesia<br>
+		<a href="https://rdiglobal.org/idrim2026">
+			<div class="color-button">conference website</div>
+		</a>
+	</li>
+</ul>
+<ul>
+	<li>
 		<b>"Spatial Disaggregation and Temporal Projection of Building Exposure and Physical Vulnerability using Deep Constrained Clustering and Probabilistic Graph Deep Learning"</b><br>
 		<i>
 			<u>Dimasaka, J.,</u> 
