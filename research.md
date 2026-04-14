@@ -572,9 +572,16 @@ In 2022, he joined the [UKRI EPSRC Centre for Doctoral Training in the Applicati
 <h2>Theses and Dissertations</h2>
 <ul>
 	<li>
+		<b>Understanding Regional Dynamic Physical Risk: Advanced Geospatiotemporal Modelling of Exposure and Vulnerability Using Deep Constrained Clustering and Probabilistic Temporal Graph Learning with Earth Observation Data</b><br>
+		University of Cambridge, PhD AI4ER Dissertation, (for submission in 2026)<br>
+		<i>Advisors: Emily So, Ph.D. (Cambridge University Centre for Risk in the Built Environment), Christian Geiß Ph.D. (Gerrman Aerospace Center), Robert Muir-Wood, Ph.D. (Moody's Risk Management Solutions), Fouad Bendimerad, Ph.D. (Earthquakes and Megacities Initiatives)</i><br>
+	</li>
+</ul>
+<ul>
+	<li>
 		<b>Towards an Equitable Development of the Regional Earthquake Resilience of the Greater Metro Manila Area, Philippines</b><br>
-		Stanford University, June 2022<br>
-		<i>Advisor: Jack W. Baker, Ph.D.</i><br>
+		Stanford University, MA Public Policy Thesis, June 2022<br>
+		<i>Advisor: Jack W. Baker, Ph.D. (Civil and Environmental Engineering)</i><br>
 		<a href="https://stacks.stanford.edu/file/druid:kd110gb2567/ma_thesis_dimasaka_2022.pdf">
 			<div class="color-button">pdf</div>
 		</a>
@@ -589,8 +596,8 @@ In 2022, he joined the [UKRI EPSRC Centre for Doctoral Training in the Applicati
 <ul>
 	<li>
 		<b>Low-Frequency Impedance Spectroscopy of Cement Paste Matrix Admixed with Amorphous Nanosilica Synthesized from Rice Hull Ash</b><br>
-		University of the Philippines Los Baños, December 2017<br>
-		<i>Advisors: Marish S. Madlangbayan, Eng.D and Alvin Karlo G. Tapia, Sc.D.</i><br>
+		University of the Philippines Los Baños, BS Civil Engineering Thesis, December 2017<br>
+		<i>Advisors: Marish S. Madlangbayan, Eng.D (Civil Engineering) and Alvin Karlo G. Tapia, Sc.D. (Physics)</i><br>
 		<a href="">
 			<div class="color-button">pdf</div>
 		</a>
