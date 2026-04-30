@@ -15,6 +15,15 @@ In 2022, he joined the [UKRI EPSRC Centre for Doctoral Training in the Applicati
 <h2>Publications</h2>
 <ul>
 	<li>
+		<b>"Towards Prospective Disaster Risk Management: Mapping Multi-hazard Urban Risk Dynamics Driven by Evolving Exposure and Vulnerability via Earth Observation"</b><br>
+		<i>
+			<u>Dimasaka, J.,</u> 
+			Bendimerad, F., Tanhueco, R.
+			Geiss, C., and
+			So, E.</i><br>
+		(for submission)<br>
+	</li>
+	<li>
 		<b>"Quantifying the Regional Dynamics and Redistribution of Physical Vulnerability in Least Developed Countries"</b><br>
 		<i>
 			<u>Dimasaka, J.,</u> 
