@@ -22,6 +22,9 @@ In 2022, he joined the [UKRI EPSRC Centre for Doctoral Training in the Applicati
 			Geiss, C., and
 			So, E.</i><br>
 		(for submission)<br>
+		<a href="https://doi.org/10.31223/X5MN42">
+			<div class="color-button">EarthArXiv Preprint</div>
+		</a>
 	</li>
 	<li>
 		<b>"Quantifying the Regional Dynamics and Redistribution of Physical Vulnerability in Least Developed Countries"</b><br>
@@ -31,7 +34,7 @@ In 2022, he joined the [UKRI EPSRC Centre for Doctoral Training in the Applicati
 			So, E.</i><br>
 		(for submission)<br>
 		<a href="https://doi.org/10.31223/X5ZJ44">
-			<div class="color-button">EarthArXiv</div>
+			<div class="color-button">EarthArXiv Preprint</div>
 		</a>
 	</li>
 </ul>
