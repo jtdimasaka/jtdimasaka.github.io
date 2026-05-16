@@ -26,6 +26,8 @@ In 2022, he joined the [UKRI EPSRC Centre for Doctoral Training in the Applicati
 			<div class="color-button">EarthArXiv Preprint</div>
 		</a>
 	</li>
+</ul>
+<ul>
 	<li>
 		<b>"Quantifying the Regional Dynamics and Redistribution of Physical Vulnerability in Least Developed Countries"</b><br>
 		<i>
