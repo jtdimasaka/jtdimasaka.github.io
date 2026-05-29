@@ -8,6 +8,22 @@ title: Research
 <h2>Publications</h2>
 <ul>
 	<li>
+		<b>"GraphCSVAE: Graph Categorical Structured Variational Autoencoder for Spatiotemporal Auditing of Physical Vulnerability Towards Sustainable Post-Disaster Risk Reduction"</b><br>
+		<i>
+			<u>Dimasaka, J.,</u> 
+			Geiss, C., Muir-Wood, R., and
+			So, E.</i><br>
+		Progress in Disaster Science, 2026, 8th International Disaster and Risk Conference (IDRC 2025) - AI, Emerging Tech & Immersive Solutions for Disaster & Emergency Response (Best Overall Conference Paper Award)<br>
+		<a href="https://doi.org/10.1016/j.pdisas.2026.100601">
+			<div class="color-button">pdf</div>
+		</a>
+		<a href="https://youtu.be/zSDe0U-DMLM">
+			<div class="color-button">YouTube</div>
+		</a>
+	</li>
+</ul>
+<ul>
+	<li>
 		<b>"GraphVSSM: Graph Variational State-Space Model for Probabilistic Spatiotemporal Inference of Dynamic Exposure and Vulnerability for Regional Disaster Resilience Assessment"</b><br>
 		<i>
 			<u>Dimasaka, J.,</u> 
@@ -37,62 +53,6 @@ title: Research
 		</a>
 		<a href="https://youtube.com/shorts/Jrqpd8g0lPk?feature=share">
 			<div class="color-button">Animated Poster</div>
-		</a>
-	</li>
-</ul>
-<ul>
-	<li>
-		<b>"GraphCSVAE: Graph Categorical Structured Variational Autoencoder for Spatiotemporal Auditing of Physical Vulnerability Towards Sustainable Post-Disaster Risk Reduction"</b><br>
-		<i>
-			<u>Dimasaka, J.,</u> 
-			Geiss, C., Muir-Wood, R., and
-			So, E.</i><br>
-		Progress in Disaster Science, 2026, 8th International Disaster and Risk Conference (IDRC 2025) - AI, Emerging Tech & Immersive Solutions for Disaster & Emergency Response (Best Overall Conference Paper Award)<br>
-		<a href="https://doi.org/10.1016/j.pdisas.2026.100601">
-			<div class="pdf">pdf</div>
-		</a>
-		<a href="https://youtu.be/zSDe0U-DMLM">
-			<div class="color-button">YouTube</div>
-		</a>
-	</li>
-</ul>
-<ul>
-	<li>
-		<b>"DeepC4: Deep Conditional Census-Constrained Clustering for Large-scale Multitask Disaggregation of Urban Morphology"</b><br>
-		<i>
-			<u>Dimasaka, J.,</u> 
-			Geiss, C., and
-			So, E.</i><br>
-		ISPRS Journal of Photogrammetry and Remote Sensing, 2026 (Under Review)<br>
-		<a href="https://doi.org/10.48550/arXiv.2507.22554">
-			<div class="color-button">preprint</div>
-		</a>
-	</li>
-</ul>
-<ul>
-	<li>
-		<b>"Towards Prospective Disaster Risk Management: Mapping Multi-hazard Urban Risk Dynamics Driven by Evolving Exposure and Vulnerability via Earth Observation"</b><br>
-		<i>
-			<u>Dimasaka, J.,</u> 
-			Bendimerad, F., Tanhueco, R.
-			Geiss, C., and
-			So, E.</i><br>
-		(for submission)<br>
-		<a href="https://doi.org/10.31223/X5MN42">
-			<div class="color-button">EarthArXiv Preprint</div>
-		</a>
-	</li>
-</ul>
-<ul>
-	<li>
-		<b>"Quantifying the Regional Dynamics and Redistribution of Physical Vulnerability in Least Developed Countries"</b><br>
-		<i>
-			<u>Dimasaka, J.,</u> 
-			Geiss, C., and
-			So, E.</i><br>
-		(for submission)<br>
-		<a href="https://doi.org/10.31223/X5ZJ44">
-			<div class="color-button">EarthArXiv Preprint</div>
 		</a>
 	</li>
 </ul>
@@ -138,6 +98,46 @@ title: Research
 		</a>
 		<a href="nature_xu.txt">
 			<div class="color-button">BibTeX</div>
+		</a>
+	</li>
+</ul>
+<ul>
+	<li>
+		<b>"DeepC4: Deep Conditional Census-Constrained Clustering for Large-scale Multitask Disaggregation of Urban Morphology"</b><br>
+		<i>
+			<u>Dimasaka, J.,</u> 
+			Geiss, C., and
+			So, E.</i><br>
+		ISPRS Journal of Photogrammetry and Remote Sensing, 2026 (Under Review)<br>
+		<a href="https://doi.org/10.48550/arXiv.2507.22554">
+			<div class="color-button">preprint</div>
+		</a>
+	</li>
+</ul>
+<ul>
+	<li>
+		<b>"Towards Prospective Disaster Risk Management: Mapping Multi-hazard Urban Risk Dynamics Driven by Evolving Exposure and Vulnerability via Earth Observation"</b><br>
+		<i>
+			<u>Dimasaka, J.,</u> 
+			Bendimerad, F., Tanhueco, R.
+			Geiss, C., and
+			So, E.</i><br>
+		(for submission)<br>
+		<a href="https://doi.org/10.31223/X5MN42">
+			<div class="color-button">EarthArXiv Preprint</div>
+		</a>
+	</li>
+</ul>
+<ul>
+	<li>
+		<b>"Quantifying the Regional Dynamics and Redistribution of Physical Vulnerability in Least Developed Countries"</b><br>
+		<i>
+			<u>Dimasaka, J.,</u> 
+			Geiss, C., and
+			So, E.</i><br>
+		(for submission)<br>
+		<a href="https://doi.org/10.31223/X5ZJ44">
+			<div class="color-button">EarthArXiv Preprint</div>
 		</a>
 	</li>
 </ul>
