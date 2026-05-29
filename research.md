@@ -49,7 +49,7 @@ title: Research
 			So, E.</i><br>
 		Progress in Disaster Science, 2026, 8th International Disaster and Risk Conference (IDRC 2025) - AI, Emerging Tech & Immersive Solutions for Disaster & Emergency Response (Best Overall Conference Paper Award)<br>
 		<a href="https://doi.org/10.1016/j.pdisas.2026.100601">
-			<div class="pdf">arXiv</div>
+			<div class="pdf">pdf</div>
 		</a>
 		<a href="https://youtu.be/zSDe0U-DMLM">
 			<div class="color-button">YouTube</div>
