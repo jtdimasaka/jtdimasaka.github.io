@@ -122,7 +122,7 @@ title: Research
 			Bendimerad, F., Tanhueco, R.
 			Geiss, C., and
 			So, E.</i><br>
-		(for submission)<br>
+		Sustainable Cities and Society, 2026 (Under Review)<br>
 		<a href="https://doi.org/10.31223/X5MN42">
 			<div class="color-button">EarthArXiv Preprint</div>
 		</a>
