@@ -237,9 +237,12 @@ title: Research
 			<u>Dimasaka, J.,</u> 
 			Geiss, C. and
 			So, E.</i><br>
-		GEM Conference: From Faults to Future Scenarios, Forecasting Exposure / Risk to 2065<br>
+		GEM Conference: From Faults to Future Scenarios, Dynamic Exposure Modelling<br>
 		<a href="https://gemconference2026.globalquakemodel.org/event/1/program">
 			<div class="color-button">conference website</div>
+		</a>
+		<a href="https://youtu.be/88kHAl9I5uw">
+			<div class="color-button">YouTube</div>
 		</a>
 	</li>
 </ul>
