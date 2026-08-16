@@ -601,7 +601,7 @@ title: Research
 <ul>
 	<li>
 		<b>Understanding Regional Dynamic Physical Risk: Advanced Geospatiotemporal Modelling of Exposure and Vulnerability Using Deep Constrained Clustering and Probabilistic Temporal Graph Learning with Earth Observation Data</b><br>
-		University of Cambridge, PhD AI4ER Dissertation, (for submission in 2026)<br>
+		University of Cambridge, PhD AI4ER Dissertation, (PhD Viva Passed)<br>
 		<i>Advisors: Emily So, Ph.D. (Cambridge University Centre for Risk in the Built Environment), Christian Geiß Ph.D. (Gerrman Aerospace Center), Robert Muir-Wood, Ph.D. (Moody's Risk Management Solutions), Fouad Bendimerad, Ph.D. (Earthquakes and Megacities Initiatives)</i><br>
 	</li>
 </ul>
