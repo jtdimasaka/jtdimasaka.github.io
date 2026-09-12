@@ -108,7 +108,7 @@ title: Research
 			<u>Dimasaka, J.,</u> 
 			Geiss, C., and
 			So, E.</i><br>
-		ISPRS Journal of Photogrammetry and Remote Sensing, 2026 (Under Review)<br>
+		(Under Review)<br>
 		<a href="https://doi.org/10.48550/arXiv.2507.22554">
 			<div class="color-button">preprint</div>
 		</a>
